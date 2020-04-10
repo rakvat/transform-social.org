@@ -1,11 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
- <title>{% block title %}{% endblock %}</title>
-</head>
-<body>
- <div class="container">
-  {% block content %}{% endblock %}
- </div>
-</body>
+  <head>
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="css/bootstrap.css" media="screen">
+    <link rel="stylesheet" href="css/cyborg_bootstrap.css" media="screen">
+    <link rel="stylesheet" href="css/custom.css" media="screen">
+
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+    <meta name="Description" content="Notizen zur Transformation in anarchistische Gesellschaften.">
+    <meta charset="utf-8">
+    <meta name="Revisit" content="After 15 days">
+    <meta name="Keywords" content="Transformation, anarchistische Gesellschaften, Anarchie, Solidarit&auml;t, Freiheit, Utopie, Social Transformation, transform social, anarchy">
+    <meta name="Robots" content="INDEX,FOLLOW">
+    <meta name="content-language" content="de,en">
+    <link rel="icon" href="/favicon.ico?v=3" sizes="16x16 32x32 48x48 64x64 128x128" type="image/vnd.microsoft.icon">
+  </head>
+    <body text="#FFFFFF" bgcolor="#000000" onLoad="if (self != top) top.location = self.location">
+      <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <a href="/" class="navbar-brand">Transformation</a>
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </div>
+          <div class="navbar-collapse collapse" id="navbar-main">
+            <ul class="nav navbar-nav">
+              {% set page_slug %}
+                {% block slug %}{% endblock %}
+              {% endset %}
+              <li>
+                <a href="/wasistdas" {% if page_slug == 'wasistdas' %}class="active"{% endif %}" >Was ist das?</a>
+              </li>
+              <li>
+                <a href="/texte" {% if page_slug == 'texte' %}class="active"{% endif %}>Texte</a>
+              </li>
+              <li>
+                <a href="/bibliothek" {% if page_slug == 'bibliothek' %}class="active"{% endif %}>Bibliothek</a>
+              </li>
+              <li>
+                <a href="/links" {% if page_slug == 'links' %}class="active"{% endif %}>Links</a>
+              </li>
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/de/" target="_blank">
+                  <img alt="Creative Commons License" style="border-width:0" src="images/cc_licence.png" />
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-2 col-xs-0">
+          </div>
+          <div class="col-lg-6 col-md-8 col-xs-12">
+            <br>
+            <br>
+            <br>
+            {% block content %}{% endblock %}
+          </div>
+          <div class="col-lg-3 col-md-2 col-xs-0">
+          </div>
+        </div>
+      </div>
+    </body>
 </html>

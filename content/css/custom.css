@@ -1,0 +1,21 @@
+a {
+  text-decoration: underline;
+}
+a.navbar-brand {
+  text-decoration: none;
+}
+
+a.anchor:before {
+  display: block;
+  content: " ";
+  margin-top: -60px;
+  height: 60px;
+  visibility: hidden;
+}
+
+.navbar-default .navbar-nav>li>a {
+  text-decoration: none;
+}
+.navbar-default .navbar-nav>li>a.active {
+  color: white;
+}
