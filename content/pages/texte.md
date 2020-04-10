@@ -5,3 +5,5 @@ Slug: texte
 
 Auf dieser Seite findest du Texte von transform-social.
 
+----
+

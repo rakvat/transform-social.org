@@ -1,16 +1,12 @@
 Slug: 10_gruende
+Date: 2016-11
 Title: 10 Gründe, warum das bestehende System nicht funktioniert
 Author: Katja Einsfeld
 Type: text
-Language: Deutsch
-Date: 2016/11
-Keywords:
-  - Anarchie
-  - Kapitalismus
+Tags: Anarchie, Kapitalismus
 Summary: Gründe, die mich zu einer Transformation in anarchistische Gesellschaften motivieren.
-Catchphrases:
-  - Kapitalistische Systeme neigen nicht nur zu bewaffeneten Konflikten um Ressourcen.
-  - Im aktuellen kapitalistischen System basiert der relative Reichtum mancher Regionen auf dem Ausbeuten anderer Regionen.
+Language: Deutsch
+Catchphrases: Kapitalistische Systeme neigen nicht nur zu bewaffeneten Konflikten um Ressourcen.|Im aktuellen kapitalistischen System basiert der relative Reichtum mancher Regionen auf dem Ausbeuten anderer Regionen.
 
 ### 10 Gründe, warum das bestehende System nicht funktioniert
 ###### – und wie Anarchistische Gesellschaften dies besser lösen würden
