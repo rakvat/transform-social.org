@@ -5,7 +5,7 @@ Title: Gedanken über gemeinschaftliche Hilfe in Fällen von intimer Gewalt
 Url: http://transformation.blogsport.de/images/TransformativeHilfe.pdf
 Type: bibliothek
 Language: Deutsch
-Tags: Konfliktklärung, Organisation
+Tags: Konflikte, Organisation
 Catchphrases: Wir glauben, dass Leute sich gegenseitig dabei helfen können, Probleme zu lösen, daran, dass wir alle mal Scheiße bauen.|Wir glauben, dass die einzige Möglichkeit, Dinge wirklich zu verändern ist, uns gegenseitig auf diese Scheiße hinzuweisen und so zu lernen, wie wir es das nächste Mal besser machen können.|Jedes der Teams für Transformative Unterstützung (TTU - eins für A und ein anderes für B) besteht idealerweise aus mindestens zwei Personen, die gegenüber der Situation eine gewisse Neutralität beibehalten.
 
 

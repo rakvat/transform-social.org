@@ -6,7 +6,7 @@ Author: p.m.
 Url: http://www.geocities.ws/situ1968/bolo/bolobolo.html
 Type: bibliothek
 Language: Deutsch, available in other languages
-Tags: Anarchistische Gesellschaft, Organisation, Entwurf
+Tags: Utopie, Organisation, Entwurf
 Catchphrases: Wir leben nur 70 Jahre und Wünsche sind dazu da, noch in einer nahen Zukunft, sagen wir bis 1987, verwirklicht zu werden.|Wenn ein ibu weit reisen will, wird es sich zum nächsten Bahnhof der interkontinentalen Eisenbahn, die von einer Kommission des asa'dala betrieben wird, begeben. Ihr Schienennetz sieht so aus.
 
 

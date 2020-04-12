@@ -71,5 +71,8 @@ endif
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) -t theme $(PELICANOPTS)
 
+deploy:
+	scp -r output/* pelican@transform-social.org@ssh.strato.de:
+
 
 .PHONY: html help clean regenerate serve serve-global devserver publish

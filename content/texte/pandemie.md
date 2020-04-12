@@ -4,7 +4,7 @@ Date: 2020/04
 Author: Katja
 Type: text
 Language: Deutsch, English
-Tags: Utopien, Pandemie
+Tags: Utopie, Anarchie
 Summary: Ein Dialog über Ideen zu herrschaftsarmer Pandemieeindämmung. Some thoughts about how anarchist societies would handle a pandemic.
 Catchphrases: Und überhaupt - was ist das eigentlich für ein Scheißsystem, bei dem wegen nem Virus eine Wirtschaftskrise droht?|That way, each community can decide about their balence between freedom and security and define for themselves the meaning solidarity in times of pandemic.
 

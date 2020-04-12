@@ -2,7 +2,7 @@ Title: Transformation
 Date: 2020-04-08 11:00
 Slug: start
 
-<img src="/images/logo.png" alt="lachendes Gesicht">
+<img src="/images/logo.png" alt="lachendes Gesicht" class="logo">
 
 ## Transformation?
 
@@ -31,4 +31,4 @@ Weitere Links zu interessanten Seiten findest du [hier](links).
 
 ----
 
-
+[Themen](tags.html)

@@ -4,7 +4,7 @@ Title: Dezentrale Utopien und globale Herausforderungen
 Author: Katharina Tidesh
 Type: text
 Language: Deutsch
-Tags: Utopien, Transformation, Klima
+Tags: Utopie, Transformation, Klima
 Summary: Anarchistische dezentrale Utopien können auch für globale Herausforderungen wie den Klimawandel die Lösung sein.
 Catchphrases: Anarchistische Konzepte können eine inklusive, nachhaltige, anpassungsfähige und resiliente Alternative sowohl zu Kapitalismus als auch zu rechten Ideologien sein.|In emanzipatorischen Gesellschaftsentwürfen gibt es viele Ideen zwischen den Polen der kompletten Freiwilligkeit und interpersonellen Aushandlung einerseits und selbstorganisierten dezentralen „Institutionen“ andererseits.
 

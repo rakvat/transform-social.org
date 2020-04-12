@@ -1,6 +1,9 @@
 a {
   text-decoration: underline;
 }
+a:visited {
+  color: #aa9fd6;
+}
 a.navbar-brand {
   text-decoration: none;
 }
@@ -18,4 +21,24 @@ a.anchor:before {
 }
 .navbar-default .navbar-nav>li>a.active {
   color: white;
+}
+
+.logo {
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 35px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 26px;
+}
+h4 {
+  font-size: 22px;
+}
+h5 {
+  font-size: 20px;
 }

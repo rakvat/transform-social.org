@@ -9,9 +9,16 @@ PATH = 'content'
 
 PAGES_PATHS = ['pages']
 PAGE_URL = '{slug}.html'
-PAGE_SAVE_AS = '{slug}.html'
+PAGE_SAVE_AS = '{slug}/index.html'
 ARTICLE_URL = 'texte/{slug}.html'
-ARTICLE_SAVE_AS = 'texte/{slug}.html'
+ARTICLE_SAVE_AS = 'texte/{slug}/index.html'
+CATEGORY_SAVE_AS = ''
+CATEGORIES_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+AUTHORS_SAVE_AS = ''
+ARCHIVES_SAVE_AS = ''
+TAG_SAVE_AS = ''
 
 STATIC_PATHS = ['images', 'css', 'javascript', 'documents', 'extra']
 EXTRA_PATH_METADATA = {
