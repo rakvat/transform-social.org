@@ -7,6 +7,7 @@ SITEURL = ''
 
 PATH = 'content'
 
+FORMATTED_FIELDS = []  # summary is default
 PAGES_PATHS = ['pages']
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}/index.html'
