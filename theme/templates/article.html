@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block slug %}texte{% endblock %}
+{% block url %}https://transform-social.org/texte/{{article.slug}}{% endblock %}
 {% block title %}Transform Social | {{ article.title }}{% endblock %}
 {% block description %}{{ article.summary }}{% endblock %}
 {% block image %}images/{{ article.slug }}.jpg{% endblock %}
