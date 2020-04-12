@@ -13,7 +13,7 @@ PAGE_SAVE_AS = '{slug}.html'
 ARTICLE_URL = 'texte/{slug}.html'
 ARTICLE_SAVE_AS = 'texte/{slug}.html'
 
-STATIC_PATHS = ['images', 'css', 'documents', 'extra']
+STATIC_PATHS = ['images', 'css', 'javascript', 'documents', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
@@ -26,7 +26,7 @@ LOCALE = ('en')
 DEFAULT_LANG = 'en'
 
 
-TYPOGRIFY = True
+TYPOGRIFY = False
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
