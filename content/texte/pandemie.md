@@ -9,7 +9,7 @@ Summary: Ein Dialog über Ideen zu herrschaftsarmer Pandemieeindämmung. Some th
 Catchphrases: Und überhaupt - was ist das eigentlich für ein Scheißsystem, bei dem wegen nem Virus eine Wirtschaftskrise droht?|That way, each community can decide about their balence between freedom and security and define for themselves the meaning solidarity in times of pandemic.
 
 
-*Der Inhalt wurde in zwei Schreibstilen als zwei getrennte Texte verfasst, um mehr Leuten Zugang zu dazu ermöglichen.*
+*Der Inhalt wurde in zwei Schreibstilen als zwei getrennte Texte verfasst, um mehr Leuten Zugang zu ermöglichen.*
 
 <a href="/documents/pandemic.pdf">Zum Runterladen und Verteilen</a>
 
