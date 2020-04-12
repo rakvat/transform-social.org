@@ -1,5 +1,5 @@
 Slug: pandemie
-Title: Corona geht aus besser - How would Anarchist Societies handle a pandemic?
+Title: Corona geht auch besser - How would Anarchist Societies handle a pandemic?
 Date: 2020/04
 Author: Katja
 Type: text
