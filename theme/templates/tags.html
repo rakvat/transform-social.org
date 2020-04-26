@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block title %}Tags{% endblock %}
+{% block url %}{{ base_url }}tags.html{% endblock %}
 
 {% block content %}
   {% for tag, articles in tags|sort %}
