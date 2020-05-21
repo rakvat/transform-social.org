@@ -1,6 +1,6 @@
 Title: Transformation
 Date: 2020-04-08 11:00
-Slug: start
+Slug: index
 
 <img src="/images/logo.png" alt="lachendes Gesicht" class="logo">
 

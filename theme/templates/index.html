@@ -4,7 +4,7 @@
 
 {% block content %}
   {% for article in articles %}
-    {% if article.slug == 'start' %}
+    {% if article.slug == 'index' %}
       {{article.content}}
     {% endif %}
   {% endfor %}

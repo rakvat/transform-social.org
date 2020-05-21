@@ -169,8 +169,10 @@ class SitemapGenerator(object):
         pageurl = ''
         if page.url == 'index.html':
             pageurl = ''
-        if page.url == 'tags.html':
+        elif page.url == 'tags.html':
             pageurl = page.url
+        elif page.url == 'texte/index.html':
+            return
         else:
             if hasattr(page, 'type') and page.type == 'bibliothek':
                 return
