@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 SITENAME = 'Notizen zur Transformation in anarchistische Gesellschaften'
-SITEURL = ''
+SITEURL='https://transform-social.org'
 
 PATH = 'content'
 
@@ -26,6 +26,9 @@ EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }
+
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["sitemap"]
 
 TIMEZONE = 'Europe/Berlin'
 DEFAULT_DATE_FORMAT = '%Y/%m'
@@ -53,3 +56,18 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
