@@ -3,7 +3,9 @@
   <head>
     {% set base_url %}https://transform-social.org/{% endset %}
     <title>{% block title %}Transform Social{% endblock %}</title>
-    <link rel="stylesheet" href="/css/styles.css" media="screen">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/custom.css" media="screen">
     <link rel="canonical" href="{% block url %}{{base_url}}{% endblock %}" />
 
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
@@ -21,62 +23,62 @@
     <meta property="og:description" content="{{self.description()}}" />
     <meta property="og:image" content="{{base_url}}{% block image %}images/logo.png{% endblock %}" />
     <link rel="icon" href="/favicon.ico?v=3" sizes="16x16 32x32 48x48 64x64 128x128" type="image/vnd.microsoft.icon">
+    <script>
+      function toggleNav() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+    </script>
   </head>
-    <body text="#FFFFFF" bgcolor="#000000" onLoad="if (self != top) top.location = self.location">
-      <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-          <div class="navbar-header">
-            <a href="/" class="navbar-brand">Transformation</a>
-            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-          </div>
-          <div class="navbar-collapse collapse" id="navbar-main">
-            <ul class="nav navbar-nav">
-              {% set page_slug %}
-                {% block slug %}{% endblock %}
-              {% endset %}
-              <li>
-                <a href="/wasistdas" {% if page_slug == 'wasistdas' %}class="active"{% endif %}" >Was ist das?</a>
-              </li>
-              <li>
-                <a href="/texte" {% if page_slug == 'texte' %}class="active"{% endif %}>Texte</a>
-              </li>
-              <li>
-                <a href="/bibliothek" {% if page_slug == 'bibliothek' %}class="active"{% endif %}>Bibliothek</a>
-              </li>
-              <li>
-                <a href="/links" {% if page_slug == 'links' %}class="active"{% endif %}>Links</a>
-              </li>
-            </ul>
+  <body text="#FFFFFF" bgcolor="#000000" onLoad="if (self != top) top.location = self.location">
+    <div class="w3-top">
+      <nav class="w3-bar w3-black w3-card">
+        <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="toggleNav()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
 
-            <ul class="nav navbar-nav navbar-right">
-              <li>
-                <a rel="license" href="https://creativecommons.org/licenses/by-nc/3.0/de/" target="_blank">
-                  <img alt="Creative Commons License" style="border-width:0" src="/images/cc_licence.png" />
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
+        <a href="/" class="w3-bar-item w3-button w3-padding-large brand">Transformation</a>
+        <a href="/wasistdas" class="w3-bar-item w3-button w3-hide-small nav-item" >Was ist das?</a>
+        <a href="/texte" class="w3-bar-item w3-button w3-hide-small nav-item" >Texte</a>
+        <a href="/bibliothek" class="w3-bar-item w3-button w3-hide-small nav-item" >Bibliothek</a>
+        <a href="/links" class="w3-bar-item w3-button w3-hide-small nav-item" >Links</a>
+        <a rel="license" class="w3-bar-item w3-button w3-hide-small w3-right" href="https://creativecommons.org/licenses/by-nc/3.0/de/" target="_blank">
+          <img alt="Creative Commons License" style="border-width:0" src="/images/cc_licence.png" />
+        </a>
       </nav>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-3 col-md-2 col-xs-0">
-          </div>
-          <div class="col-lg-6 col-md-8 col-xs-12">
-            <br>
-            <br>
-            <br>
-            {% block content %}{% endblock %}
-          </div>
-          <div class="col-lg-3 col-md-2 col-xs-0">
-          </div>
-        </div>
+    </div>
+
+    <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+    <nav id="mobile_nav" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+      <a href="/wasistdas" class="w3-bar-item w3-button w3-padding-large" >Was ist das?</a>
+      <a href="/texte" class="w3-bar-item w3-button w3-padding-large" >Texte</a>
+      <a href="/bibliothek" class="w3-bar-item w3-button w3-padding-large" >Bibliothek</a>
+      <a href="/links" class="w3-bar-item w3-button w3-padding-large" >Links</a>
+      <a rel="license" class="w3-bar-item w3-button w3-padding-large"   href="https://creativecommons.org/licenses/by-nc/3.0/de/" target="_blank">
+        <img alt="Creative Commons License" style="border-width:0" src="/images/cc_licence.png" />
+      </a>
+    </nav>
+
+    <!-- Page content -->
+    <div class="w3-content" style="max-width:2000px;margin-top:46px">
+      <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
+       {% block content %}{% endblock %}
       </div>
-      <script src="/javascript/bootstrap-native-v4.js"></script>
-      <script src="/javascript/polyfill.js"></script>
-    </body>
+    <!-- End Page Content -->
+    </div>
+
+    <script>
+    // Used to toggle the menu on small screens when clicking on the menu button
+    function toggleNav() {
+      var x = document.getElementById("mobile_nav");
+      if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+      } else {
+        x.className = x.className.replace(" w3-show", "");
+      }
+    }
+    </script>
+  </body>
 </html>
