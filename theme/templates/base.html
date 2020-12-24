@@ -35,15 +35,29 @@
     </script>
   </head>
   <body text="#FFFFFF" bgcolor="#000000" onLoad="if (self != top) top.location = self.location">
+    {% set page_slug %}
+      {% block slug %}{% endblock %}
+    {% endset %}
+    {% set active %}w3-bar-item w3-button w3-hide-small nav-item active{% endset %}
+    {% set passive %}w3-bar-item w3-button w3-hide-small nav-item{% endset %}
+    {% set mactive %}w3-bar-item w3-button w3-padding-large active{% endset %}
+    {% set mpassive %}w3-bar-item w3-button w3-padding-large{% endset %}
+
     <div class="w3-top">
       <nav class="w3-bar w3-black w3-card">
         <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="toggleNav()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
 
         <a href="/" class="w3-bar-item w3-button w3-padding-large brand">Transformation</a>
-        <a href="/wasistdas" class="w3-bar-item w3-button w3-hide-small nav-item" >Was ist das?</a>
-        <a href="/texte" class="w3-bar-item w3-button w3-hide-small nav-item" >Texte</a>
-        <a href="/bibliothek" class="w3-bar-item w3-button w3-hide-small nav-item" >Bibliothek</a>
-        <a href="/links" class="w3-bar-item w3-button w3-hide-small nav-item" >Links</a>
+        <a href="/wasistdas" class="{% if page_slug=='wasistdas' %}{{active}}{% else %}{{passive}}{% endif %}">
+          Was ist das?
+        </a>
+        <a href="/texte" class="{% if page_slug=='texte' %}{{active}}{% else %}{{passive}}{% endif %}" >
+          Texte
+        </a>
+        <a href="/bibliothek"  class="{% if page_slug=='bibliothek' %}{{active}}{% else %}{{passive}}{% endif %}" >
+          Bibliothek
+        </a>
+        <a href="/links" class="{% if page_slug=='links' %}{{active}}{% else %}{{passive}}{% endif %}" >Links</a>
         <a rel="license" class="w3-bar-item w3-button w3-hide-small w3-right" href="https://creativecommons.org/licenses/by-nc/3.0/de/" target="_blank">
           <img alt="Creative Commons License" style="border-width:0" src="/images/cc_licence.png" />
         </a>
@@ -52,10 +66,16 @@
 
     <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
     <nav id="mobile_nav" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
-      <a href="/wasistdas" class="w3-bar-item w3-button w3-padding-large" >Was ist das?</a>
-      <a href="/texte" class="w3-bar-item w3-button w3-padding-large" >Texte</a>
-      <a href="/bibliothek" class="w3-bar-item w3-button w3-padding-large" >Bibliothek</a>
-      <a href="/links" class="w3-bar-item w3-button w3-padding-large" >Links</a>
+      <a href="/wasistdas" class="{% if page_slug=='wasistdas' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">
+        Was ist das?
+      </a>
+      <a href="/texte" class="{% if page_slug=='texte' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">
+        Texte
+      </a>
+      <a href="/bibliothek" class="{% if page_slug=='bibliothek' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">
+        Bibliothek
+      </a>
+      <a href="/links" class="{% if page_slug=='links' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">Links</a>
       <a rel="license" class="w3-bar-item w3-button w3-padding-large"   href="https://creativecommons.org/licenses/by-nc/3.0/de/" target="_blank">
         <img alt="Creative Commons License" style="border-width:0" src="/images/cc_licence.png" />
       </a>

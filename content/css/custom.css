@@ -37,7 +37,7 @@ nav a.brand {
 nav .w3-bar-item.nav-item {
   padding: 12px 10px;
 }
-nav .w3-bar-item.nav-item.active {
+nav .w3-bar-item.active {
   color: white !important;
 }
 
