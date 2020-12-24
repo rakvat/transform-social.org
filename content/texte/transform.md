@@ -10,6 +10,9 @@ Catchphrases: This is not one idea, pattern or blueprint of free and solidary so
 
 
 
+Some newer ideas about transformation and utopia can be found in this text:
+[Planetare Kooperation](/texte/utopie2) (German)
+
 # Transformation into Free and Solidary Societies
 
 
