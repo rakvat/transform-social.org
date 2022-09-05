@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% set base_url %}https://transform-social.org/{% endset %}
+    <title>{% block title %}Transform Social{% endblock %}</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/custom.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/css/custom_print.css" type="text/css" media="print" >
+    <link rel="canonical" href="{% block url %}{{base_url}}{% endblock %}" />
+
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Title" content="{{self.title()}}">
+    <meta name="Description" content="{% block description %}Kitik am bestehenden Gesellschaftssystem, Ideen für freiere und solidarischere Gesellschaftssysteme und Gedanken über die Wege in diese Gesellschaftssysteme.{% endblock %}">
+    <meta charset="utf-8">
+    <meta name="Revisit" content="After 15 days">
+    <meta name="Keywords" content="Transformation, anarchistische Gesellschaften, Anarchie, Solidarit&auml;t, Freiheit, Utopie, Social Transformation, transform social, anarchy">
+    <meta name="Robots" content="INDEX,FOLLOW">
+    <meta name="content-language" content="de,en">
+    <meta property="og:url" content="{{ self.url() }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ self.title() }}"/>
+    <meta property="og:description" content="{{self.description()}}" />
+    <meta property="og:image" content="{{base_url}}{% block image %}images/logo.png{% endblock %}" />
+    <link rel="icon" href="/favicon.ico?v=3" sizes="16x16 32x32 48x48 64x64 128x128" type="image/vnd.microsoft.icon">
+    <script>
+      function toggleNav() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+    </script>
+  </head>
+  <body text="#FFFFFF" bgcolor="#000000" onLoad="if (self != top) top.location = self.location">
+    {% set page_slug %}
+      {% block slug %}{% endblock %}
+    {% endset %}
+    {% set active %}w3-bar-item w3-button w3-hide-small nav-item active{% endset %}
+    {% set passive %}w3-bar-item w3-button w3-hide-small nav-item{% endset %}
+    {% set mactive %}w3-bar-item w3-button w3-padding-large active{% endset %}
+    {% set mpassive %}w3-bar-item w3-button w3-padding-large{% endset %}
+
+    <div class="w3-top no-print">
+      <nav class="w3-bar w3-black w3-card">
+        <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="toggleNav()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+
+        <a href="/" class="w3-bar-item w3-button w3-padding-large brand">Transformation</a>
+        <a href="/wasistdas" class="{% if page_slug=='wasistdas' %}{{active}}{% else %}{{passive}}{% endif %}">
+          Was ist das?
+        </a>
+        <a href="/texte" class="{% if page_slug=='texte' %}{{active}}{% else %}{{passive}}{% endif %}" >
+          Texte
+        </a>
+        <a href="/bibliothek"  class="{% if page_slug=='bibliothek' %}{{active}}{% else %}{{passive}}{% endif %}" >
+          Bibliothek
+        </a>
+        <a href="/links" class="{% if page_slug=='links' %}{{active}}{% else %}{{passive}}{% endif %}" >Links</a>
+        <a rel="license" class="w3-bar-item w3-button w3-hide-small w3-right" href="https://creativecommons.org/licenses/by-nc/3.0/de/" target="_blank">
+          <img alt="Creative Commons License" style="border-width:0" src="/images/cc_licence.png" />
+        </a>
+      </nav>
+    </div>
+
+    <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+    <nav id="mobile_nav" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top no-print" style="margin-top:46px">
+      <a href="/wasistdas" class="{% if page_slug=='wasistdas' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">
+        Was ist das?
+      </a>
+      <a href="/texte" class="{% if page_slug=='texte' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">
+        Texte
+      </a>
+      <a href="/bibliothek" class="{% if page_slug=='bibliothek' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">
+        Bibliothek
+      </a>
+      <a href="/links" class="{% if page_slug=='links' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">Links</a>
+      <a rel="license" class="w3-bar-item w3-button w3-padding-large"   href="https://creativecommons.org/licenses/by-nc/3.0/de/" target="_blank">
+        <img alt="Creative Commons License" style="border-width:0" src="/images/cc_licence.png" />
+      </a>
+    </nav>
+
+    <!-- Page content -->
+    <div class="w3-content" style="max-width:2000px;margin-top:46px">
+      <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
+       {% block content %}{% endblock %}
+      </div>
+    <!-- End Page Content -->
+    </div>
+
+    <script>
+    // Used to toggle the menu on small screens when clicking on the menu button
+    function toggleNav() {
+      var x = document.getElementById("mobile_nav");
+      if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+      } else {
+        x.className = x.className.replace(" w3-show", "");
+      }
+    }
+    </script>
+  </body>
+</html>

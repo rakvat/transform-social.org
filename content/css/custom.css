@@ -1,0 +1,50 @@
+body {
+  color: #888;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+}
+
+a {
+  color: #2a9fd6;
+  text-decoration: underline;
+}
+a:visited {
+  color: #aa9fd6;
+}
+a.anchor:before {
+  display: block;
+  content: " ";
+  margin-top: -60px;
+  height: 60px;
+  visibility: hidden;
+}
+
+nav.w3-bar {
+  border-bottom: 1px solid #282828;
+}
+nav a, nav a:visited {
+  color: #888 !important;
+}
+nav .w3-bar-item:hover {
+  color: white !important;
+  background-color: unset !important;
+}
+nav a.brand {
+  color: white !important;
+  font-size: 18px;
+}
+nav .w3-bar-item.nav-item {
+  padding: 12px 10px;
+}
+nav .w3-bar-item.active {
+  color: white !important;
+}
+
+.logo {
+  max-width: 100%;
+}
+
+hr {
+  border-top: 1px solid #282828 !important;
+}

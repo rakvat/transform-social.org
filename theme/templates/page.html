@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+
+{% block slug %}{{ page.slug }}{% endblock %}
+{% block url %}{{ base_url }}{{ page.slug }}/{% endblock %}
+{% block page %}{{ page.slug }}{% endblock %}
+{% block title %}Transform Social | {{ page.title }}{% endblock %}
+
+{% block content %}
+  {{ page.content }}
+
+  {% if page.slug == 'texte' %}
+    {% for article in articles if article.type == 'text' %}
+      <h5><a href="/texte/{{article.slug}}" >{{article.title}}</a></h5>
+
+      <p>von {{article.author}}, {{article.locale_date}}</p>
+
+      <div class="w3-row-padding" >
+        <div class="w3-third" >
+          {% if article.language %}
+            <b>Sprache:</b> {{article.language}}
+          {% endif %}
+        </div>
+
+        <div class="w3-twothird">
+          {% if article.tags %}
+            <b>Schlagwörter:</b> {{article.tags|join(", ")}}
+          {% endif %}
+        </div>
+      </div>
+
+      <br>
+      <br>
+
+      <div class="w3-row-padding">
+        <div class="w3-twothird">
+          {{article.summary}}
+          <p>
+            <a href="/texte/{{article.slug}}" >
+              <img src="/images/{{article.slug}}.jpg" alt="{{article.tags|join(' ')}}" />
+            </a>
+          </p>
+        </div>
+
+        <div class="w3-third">
+          {% if article.catchphrases %}
+            <b>Zitate:</b>
+            {% for cp in article.catchphrases.split('|') %}
+              <p><i>{{cp}}</i></p>
+            {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+
+      <div class="w3-row-padding">
+        <a href="/texte/{{article.slug}}" >&rarr; Kompletter Text</a>
+      </div>
+      <hr/>
+    {% endfor %}
+  {% endif %}
+
+
+  {% if page.slug == 'bibliothek' %}
+    {% for article in articles|sort(attribute="summary") if article.type == 'bibliothek' %}
+      <p><a class="anchor" name={{article.slug}}></a></p>
+
+      <h5>{{article.title}}</h5>
+
+      {% if article.author %}
+        <p>von {{article.author}}</p>
+      {% endif %}
+
+      <div class="row" >
+        <div class="col-lg-2 col-md-2 col-xs-12" >
+          <a href={{article.url}} target="__blank">&rarr; Link</a>
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-xs-12" >
+          {% if article.language %}
+          <b>Sprache:</b> {{article.language}}
+          {% endif %}
+        </div>
+
+        <div class="col-lg-6 col-md-6 col-xs-12" >
+          {% if article.tags %}
+            <b>Schlagwörter:</b> {{article.tags|join(", ")}}
+          {% endif %}
+        </div>
+      </div>
+
+      <br>
+      <br>
+
+      <div class="row" >
+        <div class="col-lg-7 col-md-7 col-xs-12" >
+          {{article.content}}
+        </div>
+
+        <div class="col-lg-5 col-md-5 col-xs-12" >
+          {% if article.catchphrases %}
+            <b>Zitate:</b>
+            {% for cp in article.catchphrases.split('|') %}
+              <p><i>{{cp}}</i></p>
+            {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+      <hr/>
+    {% endfor %}
+  {% endif %}
+{% endblock %}

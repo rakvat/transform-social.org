@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block slug %}texte{% endblock %}
+{% block page %}texte{% endblock %}
+{% block url %}{{base_url}}texte/{{article.slug}}/{% endblock %}
+{% block title %}Transform Social | {{ article.title }}{% endblock %}
+{% block description %}{{ article.summary }}{% endblock %}
+{% block image %}images/{{ article.slug }}.jpg{% endblock %}
+
+{% block content %}
+  {{ article.content }}
+{% endblock %}

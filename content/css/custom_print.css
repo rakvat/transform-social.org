@@ -1,0 +1,13 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
+
+.no-print {
+  display: none !important;
+}
