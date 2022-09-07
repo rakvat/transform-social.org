@@ -2,7 +2,7 @@ Title: Transformation
 Date: 2020-04-08 11:00
 Slug: index
 
-<img src="/images/logo.png" alt="lachendes Gesicht" class="logo">
+<center><img src="/images/logo_de.png" alt="Logo. Three dimensional organic spiral turning to the left. Transform into Anarchist Societies." class="logo"></center>
 
 ## Transformation?
 
