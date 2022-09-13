@@ -2,7 +2,9 @@ Date: 2020-04-08 11:00
 Title: Was ist das?
 Slug: wasistdas
 
-## Was ist das?
+# Fragen und Antworten
+
+## Worum geht es auf dieser Seite?
 
 *transform-social* beschäftigt sich mit den Möglichkeiten zur Transformation in sozialere, solidarischere, freiere und herrschaftsärmere - also anarchistische - Gesellschaften.
 

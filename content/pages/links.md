@@ -10,3 +10,8 @@ Slug: links
 - [Bibliothek der Freien](https://www.bibliothekderfreien.de/) physische Bibliothek mit Veranstaltungen in Berlin
 - [A-Radio Berlin](https://www.aradio-berlin.org) Podcast mit News aus anarchistischer Perspektive
 - [keimform](https://keimform.de/) Blog über Keimformtheorie und Commons
+
+## [Bibliothek](/bibliothek/)
+
+Weiter gute Texte.
+
