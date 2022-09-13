@@ -6,11 +6,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #2a9fd6;
+  color: #ab50a7;
   text-decoration: underline;
 }
 a:visited {
-  color: #aa9fd6;
+  color: #c06bbc;
 }
 a.anchor:before {
   display: block;
