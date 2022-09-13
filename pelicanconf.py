@@ -33,8 +33,8 @@ PLUGINS = ["sitemap"]
 TIMEZONE = 'Europe/Berlin'
 DEFAULT_DATE_FORMAT = '%Y/%m'
 
-LOCALE = ('en')
-DEFAULT_LANG = 'en'
+LOCALE = ('de')
+DEFAULT_LANG = 'de'
 
 
 TYPOGRIFY = False

@@ -10,7 +10,7 @@
       {% for article in articles%}
         <div>
           {% if article.type == "text" %}
-            <a href="texte/{{article.slug}}">{{article.title}}</a>
+            <a href="texte/{{article.slug}}/">{{article.title}}</a>
           {% else %}
             <a href="bibliothek/#{{article.slug}}">{{article.title}}</a> (Bibliothek)
           {% endif %}

@@ -11,7 +11,7 @@ Catchphrases: This is not one idea, pattern or blueprint of free and solidary so
 
 
 Some newer ideas about transformation and utopia can be found in this text:
-[Planetare Kooperation](/texte/utopie2) (German)
+[Planetare Kooperation](/texte/utopie2/) (German)
 
 # Transformation into Free and Solidary Societies
 
@@ -60,7 +60,7 @@ People continue living where and how they want. Instead of voting for a party th
 2. Production collectives (or individuals) communicate what they are able to produce and what kind of resources they need for production (this includes care and reproduction work).
 3. Coordination committees plan how the needs could be met best with the available resources and production capacities. In the case of scarce resources, they will have to find solutions that are as fair as possible for everyone involved. In the case of distribution conflicts, they meditate between consumption councils and production collectives until everyone involved can live with the proposed solution. The coordination committee does not force a decision on the people but supports them in finding a decision that is best for everyone. (The plans should not be as rigid as Soviet 5-year plans and way more decentralized but they need to include long term planning for scarce and toxic resources as well as dynamic day-to-day adaption possibilities.)
 
-(See [this text](/texte/putzen) (German) for a more practical example of this organization.)
+(See [this text](/texte/putzen/) (German) for a more practical example of this organization.)
 
 Coordination committees are responsible for a specific local area. There are also regional, mega-regional, continental, and planetary coordination committees that represent committees federated in the areas they include. These non-local committees discuss resources like specialized production (that require non-local high-tech like internet exchange points), specialized health care, specialized education, and long distance transport and other questions about natural resource consumption, environmental pollution, ... that concern more than local people. Everyone who is interested can be part of those committees and take part in online decision making. For practical reasons, local committees might name a few people with imperative mandates for those non-local committees. Imperative mandate means that they get told by the committee that named them how to participate in decisions and if they don't act accordingly, they can be revoked immediately. Thus the power stays decentral and local, always focused on the needs of the people while still being able to make decisions globally.
 

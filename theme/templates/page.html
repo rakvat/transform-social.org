@@ -10,7 +10,7 @@
 
   {% if page.slug == 'texte' %}
     {% for article in articles if article.type == 'text' %}
-      <h5><a href="/texte/{{article.slug}}" >{{article.title}}</a></h5>
+      <h5><a href="/texte/{{article.slug}}/" >{{article.title}}</a></h5>
 
       <p>von {{article.author}}, {{article.locale_date}}</p>
 
@@ -35,7 +35,7 @@
         <div class="w3-twothird">
           {{article.summary}}
           <p>
-            <a href="/texte/{{article.slug}}" >
+            <a href="/texte/{{article.slug}}/" >
               <img src="/images/{{article.slug}}.jpg" alt="{{article.tags|join(' ')}}" />
             </a>
           </p>
@@ -52,7 +52,7 @@
       </div>
 
       <div class="w3-row-padding">
-        <a href="/texte/{{article.slug}}" >&rarr; Kompletter Text</a>
+        <a href="/texte/{{article.slug}}/" >&rarr; Kompletter Text</a>
       </div>
       <hr/>
     {% endfor %}

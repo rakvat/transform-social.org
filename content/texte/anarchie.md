@@ -26,7 +26,7 @@ Ein Anarchist glaubt an eine freie Gesellschaft gleichberechtigter Menschen ohne
 
 Anarchie ist Ordnung ohne Herrschaft. Das bedeutet, dass Menschen nicht das tun, was der Staat oder Chef ihnen sagt, sondern nach ihren Bedürfnissen handeln. Diese Freiheit ist nur möglich, wenn die Menschen sich solidarisch ihren Mitmenschen gegenüber verhalten und auch deren Freiheit respektieren. Wenn Ressourcen wie Wohnraum oder Nahrung beschränkt sind oder notwendige Aufgaben verteilt werden müssen, treffen die Menschen, die davon betroffen sind, eine gemeinsame Entscheidung und handeln dann gemäß dieser gemeinsamen Vereinbarung.
 
-(aus [Was ist das?](/wasistdas))
+(aus [Was ist das?](/wasistdas/))
 
 ---
 
@@ -46,12 +46,12 @@ Anarchie dagegen sieht Verantwortung nicht dogmatisch nur oder gar nicht beim In
 
 Auf dem Weg in eine herrschaftsarme Gesellschaft ist es wichtig, die Balance zwischen Freiheit und Solidarität zu halten, weder das eine noch das andere zu verlieren, Theorien oder Menschen, die das eine oder andere stark betonen oder in anderer Weise dogmatisch agieren, kritisch zu betrachten und fragend voran zu schreiten.
 
-(aus [Vergiss nicht Solidarität und Skeptizismus](/texte/eso))
+(aus [Vergiss nicht Solidarität und Skeptizismus](/texte/eso/))
 
 
 ## Weitere Quellen
 
-[Bibliothek dieser Seite](/bibliothek)
+[Bibliothek dieser Seite](/bibliothek/)
 
 <a href="https://theanarchistlibrary.org" target="__blank">The Anarchist Library</a>
 

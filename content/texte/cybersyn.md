@@ -296,7 +296,7 @@ Let's get inspired by CyberSyn and continue experimenting with tools that can ex
 
 
 <i>More concrete ideas about anarchist societies and transformation can be found in this text:
-[Planetare Kooperation](/texte/utopie2) (German)</i>
+[Planetare Kooperation](/texte/utopie2/) (German)</i>
 
 
 ## Presentation

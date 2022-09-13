@@ -24,7 +24,7 @@ Das Folgende ist eine Sammlung von älteren Texten und Materialien zu den Themen
 
 <a href="/documents/konfliktklaerung.pdf" target="__blank">Dies</a> ist ein eines Rahmen des Hausprojekts entwickelter Plan zur Konfliktklärung in Stufen. Je nach Ausmaß des Konflikts sind andere Maßnahmen notwendig. Eine Vereinbarung, sich in Konflikten entsprechend eines solchen Konfliktplans zu verhalten, kann im Zweifelsfall Halt und Sicherheit für ein Projekt geben.
 
-Der Text [Anarchy and Responsibility](/texte/responsibility) beschäftigt sich auch mit der Wichtigkeit von Trennungsprozessen.
+Der Text [Anarchy and Responsibility](/texte/responsibility/) beschäftigt sich auch mit der Wichtigkeit von Trennungsprozessen.
 
 ## Gewaltfreie Kommunikation
 
@@ -54,7 +54,7 @@ Der Artikel in der Graswurzelrevolution, der sich auch kritisch mit GfK auseinan
 
 Einige Ausgaben später, schrieb Johann Bauer über weitere Kritikpunkte aus anarchistischer Sicht: <a href="http://www.graswurzel.net/345/gfk.shtml" target="__blank">Von der Konfrontation zurück zum Bitten?</a>
 
-Mittlerweile habe ich erlebt, wie GfK Deutungen aus spirituellen oder individualanarchistischen Kreisen aussehen. Manchmal werden Wünsche mit intensiver Dramatik als Bedürfnis inszeniert. Für noch problematischer halte ich die Auslegung nach der jedes Individuum dogmatische Verantwortung dafür trägt, mit verletzendem Verhalten des Gegenübers umzugehen. Das kingt nach neoliberaler Selbstverantwortung und Isolation. Mehr dazu findest du in diesem [Text](/texte/eso).
+Mittlerweile habe ich erlebt, wie GfK Deutungen aus spirituellen oder individualanarchistischen Kreisen aussehen. Manchmal werden Wünsche mit intensiver Dramatik als Bedürfnis inszeniert. Für noch problematischer halte ich die Auslegung nach der jedes Individuum dogmatische Verantwortung dafür trägt, mit verletzendem Verhalten des Gegenübers umzugehen. Das kingt nach neoliberaler Selbstverantwortung und Isolation. Mehr dazu findest du in diesem [Text](/texte/eso/).
 
 
 ## Restorative Circles

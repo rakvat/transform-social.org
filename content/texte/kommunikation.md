@@ -21,11 +21,11 @@ Die Folien des Vortrags sind <a href="/documents/AnarchoKommunikation.pdf" targe
     - GfK tendiert - ähnlich wie und damit kompatibel zum Neoliberalismus - dazu, die Eigenverantwortung des Individuums im Vergleich zu gegenseitiger Unterstützung und Solidarität überzustrapazieren. Dies ist besonders in Kontexten mit systemischen Herrschaftsverhältnissen problematisch.
     - GfK ist anfällig für Deutungen aus elitärer und esoterischer Ecke. Siehe dazu die folgende Textempfehlung.
 
-[Vergiss nicht Solidarität und Skeptizismus](/texte/eso) beschäftigt sich mit den Gefahren esoterischer Denkweisen und erwähnt dabei auch mehrmals GfK.
+[Vergiss nicht Solidarität und Skeptizismus](/texte/eso/) beschäftigt sich mit den Gefahren esoterischer Denkweisen und erwähnt dabei auch mehrmals GfK.
 
-Eine weitere (kritische) Auseinandersetzung mit GfK im Rahmen der Konfliktkärung findet sich [hier](/texte/konflikte).
+Eine weitere (kritische) Auseinandersetzung mit GfK im Rahmen der Konfliktkärung findet sich [hier](/texte/konflikte/).
 
-In [Entscheidungen und Vereinbarungen](/texte/entscheidungen) geht es konkreter um den Entscheidungsfindungsaspekt der Kommunikation. Dieser Text enthält auch ein <a href="/documents/zeichen_konsens.pdf" target="__blank">Handout</a> mit für Entscheidungsprozesse hilfreichen Handzeichen.
+In [Entscheidungen und Vereinbarungen](/texte/entscheidungen/) geht es konkreter um den Entscheidungsfindungsaspekt der Kommunikation. Dieser Text enthält auch ein <a href="/documents/zeichen_konsens.pdf" target="__blank">Handout</a> mit für Entscheidungsprozesse hilfreichen Handzeichen.
 
 
 Bei dem nun folgenden ersten Text handelt es sich um eine Einführung in die gewaltfreie Kommunikation. Der zweite ist eine anarchistische Perspektive auf gewaltfreie Kommunikation.
