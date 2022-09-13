@@ -9,6 +9,7 @@ a {
   color: #ab50a7;
   text-decoration: underline;
 }
+a:hover,
 a:visited {
   color: #c06bbc;
 }
@@ -43,6 +44,19 @@ nav .w3-bar-item.active {
 
 .logo {
   max-width: 100%;
+}
+.navbar {
+  line-height: 25px;
+}
+.icon {
+  margin-right: 10px;
+}
+.social-icon-container {
+  padding-top: 12px !important;
+  padding-bottom: 4px !important;
+}
+.social-icon:hover {
+  fill: #c06bbc;
 }
 
 hr {
