@@ -312,6 +312,12 @@ Anarchie ist Ordnung ohne Herrschaft – eine Balance zwischen Freiheit und Soli
 Die Bedürfnisse aller sind wichtig, unabhängig davon, welche „Leistung“ sie beitragen. Entscheidungen werden von denen getroffen, die vom Ergebnis der Entscheidung betroffen sind.
 Dazu gibt es sowohl lokale als auch regionale und planetare Strukturen, wobei der Schwerpunkt auf der Dezentralität liegt.
 
+Unter „Ordnung“ verstehe ich hier nichts Statisches, sondern eine Sammlung von gegenseitigen Zusagen
+und Plänen, die auch für die Zukunft einen Rahmen von Planbarkeit und Sicherheit gibt, innerhalb
+dessen jedoch Bewegungsfreirum ist. Mit „Anarchie ist Ordnung ohne Herrschaft“ möchte ich klarmachen,
+dass Anarchie weder Chaos noch Beliebigkeit ist. Anarchie kann über lokale Strukturen hinaus organisierte
+Gesellschaften ermöglichen.
+
 Es gibt nicht „den Anarchismus“, sondern eine Vielfalt anarchistischer Ideen und Strömungen – auch solche, die sich selbst als anarchistisch bezeichnen, jedoch nicht den Mindestanforderungen
 an Freiheit **und** Solidarität gerecht werden, wie z.B. der sogenannte „Anarchokapitalismus“. Wegen der Vielfalt unterschiedlicher Strömungen ist das obige Bild irreführend. Es gibt
 keine einheitliche Idee von dem, was Anarchist\*innen wollen. Nur wenige Anarchist\*innen wollen selbstversorgend auf Landkommunen leben – auch wenn dieses Bild

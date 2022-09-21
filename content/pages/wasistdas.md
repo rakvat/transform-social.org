@@ -1,5 +1,5 @@
 Date: 2020-04-08 11:00
-Title: Was ist das?
+Title: Fragen und Antworten
 Slug: wasistdas
 
 # Fragen und Antworten
@@ -16,6 +16,25 @@ Michail Bakunin
 Anarchie ist Ordnung ohne Herrschaft. Das bedeutet, dass Menschen nicht das tun, was der Staat oder Chef ihnen sagt, sondern nach ihren Bedürfnissen handeln.
 Diese Freiheit ist nur möglich, wenn die Menschen sich solidarisch ihren Mitmenschen gegenüber verhalten und auch deren Freiheit respektieren.
 Wenn Ressourcen wie Wohnraum oder Nahrung beschränkt sind oder notwendige Aufgaben verteilt werden müssen, treffen die Menschen, die davon betroffen sind, eine gemeinsame Entscheidung und handeln dann gemäß dieser gemeinsamen Vereinbarung.
+
+### Ist Ordnung nicht etwas Staatliches oder wenigstens Statisches?
+
+In der obigen Definition von Anarchie taucht das Word "Ordnung" auf.
+Ist Ordnung nicht etwas Staatliches oder wenigstens Statisches?
+Einer Ordnung muss notwendigerweise etwas Negatives anhaften.
+Sie kann einfach pragmatisch sein. So hilft beispielsweise Ordnung im
+Kühlschrank, Lebensmittel schneller wiederzufinden und vor dem Verderben zu bewahren.
+
+Die Definition "Anarchie ist Ordnung ohne Herrschaft" habe ich vom Horst Stowasser übernommen.
+Mir hat das als Entgegnung zu beiden Vorurteilen a) Anarchie ist Chaos und
+b) Anarchie ist nur kleinteiliges Selbstversorger\*innentum gut gefallen.
+Herrschaftsfreie Ordnung ist eine aus gemeinsamen Vereinbarungen hervorgehende
+Sammlung von gegenseitigen Zusagen und Plänen, die auch für die Zukunft einen Rahmen von
+Planbarkeit und Sicherheit gibt, innerhalb dessen jedoch noch Bewegungsfreiraum ist.
+So kann auch über den lokalen Raum der Selbstversorgung hinaus eine Ordnung entstehen,
+die weder herrschaftlich noch beliebig ist.
+Bei sich ändernden Bedürfnissen kann also dynamisch eine bessere Ordnung im Kühlschrank geschaffen werden.
+
 
 ### Wie wäre eine anarchistische Gesellschaft organisiert?
 
