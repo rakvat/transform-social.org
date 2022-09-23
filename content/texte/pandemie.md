@@ -57,14 +57,10 @@ solange der andere Regionen nicht gefährdet. Also zum
 Beispiel könnte eine Region auf tägliche Kontrollen des
 Gesundheitszustands setzen, eine andere auf Rückzug in
 die Natur und eine dritte auf Schutz von Risikogruppen.
-Da die Leute es gewohnt sind zügig Entscheidungen zu
+Da die Leute es gewohnt sind, zügig Entscheidungen zu
 treffen, mit denen alle leben können und umzuplanen,
 wenn sich Bedürfnisse ändern, werden sich sich schnell
 an neue Virus-Bedingungen anpassen können.
 
 **Icke:** Selbstbestimmen ohne Ego-Tripp. Nich’ schlecht.
-
-
-
-<a href="/documents/pandemic.pdf">Zum Runterladen und Verteilen</a> (enthält auch eine ausführlichere nicht in Dialogform geschriebene Englische Version)
 

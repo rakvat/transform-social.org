@@ -20,8 +20,8 @@ theories. Their common ground is the love for freedom and solidarity. The follow
 an anarchist society but some inspirations for possibilities.
 
 First, there is a lower risk for a pandemic in anarchist societies because the need for business-related
-intercontinental travels will be reduced, intensive livestock farming will be frowned upon for ecological
-and animal rights reasons and nature gets more into balance again.
+intercontinental travels will be reduced, intensive livestock farming will be frowned upon both for ecological
+and animal rights reasons. Nature gets more into balance again.
 
 However, should there still be a pandemic, people would be prepared: The health system will be freely
 available for everyone. The capacity of the health system will be optimized for the needs of the people
@@ -38,7 +38,7 @@ can have its own way of handling the pandemic as long as this does not sabotage 
 regions handle it.
 
 E.g. one community might decide to have quarantine houses for those that fear harsh consequences
-when getting the virus and let others proceed as usual. Another community might implement some
+when getting the virus and let others proceed as usual. Another community might implement an
 extensive virus detection system to be able to isolate infected people as fast as possible. Again other
 communities might ask for healthy volunteers to get infected on purpose and reach herd immunity after
 some time. As solidarity is one of the core principles of anarchy, all of the communities or regions are
@@ -47,21 +47,23 @@ way, individuals who do not like the decisions and agreements in their region ar
 another region. E.g. communities isolated in nature might host some elderly people from other
 communities and sick people of those nature-based communities could be moved to hospitals in the cities.
 
+There will be a different mental model: People would not have to risk their health
+for economic reasons. Also, there would be no discrimination against people with health issues.
+On the contrary, people will be used to listening to the needs and concerns of everyone involved,
+and finding solutions that respect various needs would be a social technique practiced daily.
+
 Thus, each community can decide about their balance between freedom and security and define for
 themselves the ways of implementing solidarity in times of pandemic.
 
 However, if it turns out that the pandemic can't be stopped with decentral diversity, there might be
 a need for a global decision. This will not be out of the ordinary. There are topics like climate
-change, scarce resources and pandemics which affect the whole planet. Thus, people will
-have figured out how to make those decisions (e.g. online discussions and decision making using
-tools which capture concerns as well as the amount of support for various suggestions).
-In the case of the pandemic the global decision might be a global lockdown for two weeks.
+change, scarce resources, and pandemics which affect the whole planet. Thus, people will
+have figured out how to make those decisions (e.g. online discussions and decision-making using
+tools that capture concerns as well as the amount of support for various suggestions).
+In the case of the pandemic, the global decision might be a planet-wide lockdown for two weeks.
 
 Production of goods in anarchist societies has a focus on local production and decentral planning with
 cross-regional cooperations and support. Such a system is resilient to crises and can adapt quickly to
 modified needs in times of a pandemic.
 
 *Stay safe and question the system.*
-
-
-<a href="/documents/pandemic.pdf">PDF version</a> which also contains a German version in a different writing style
