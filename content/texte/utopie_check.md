@@ -9,7 +9,6 @@ Summary: Wie können dezentrale Utopien ein Mittel gegen planetare Krisen sein? 
 Catchphrases: Utopien sind wieder im Trend. An vielen Orten werden uns Utopien, Visionen oder Alternativen angeboten. Doch wie können wir in diesem Utopie-Gewirr noch den Durchblick bewahren und diskussionswürdige und anstrebenswerte Utopien identifizieren? | Wichtig ist eine breite Diskussion über Utopien und Transformationsideen.
 
 
-Dieser Text basiert auf einem Vortrag mit dem Titel „Dezentrale Utopien gegen planetare Krisen“, den ich im Oktober 2021 im Rahmen der Konferenz der Visionen gehalten habe.
 
 # Utopie-Check
 
@@ -65,7 +64,7 @@ Utopien sind immer vom Zeitgeist geprägt: In unterschiedlichen Epochen gab es U
 den Anspruch haben, in der Zukunft noch aktuell zu sein. Sie ist lediglich ein Anhaltspunkt für unser Handeln in der Gegenwart und wird durch veränderte Zukünfte dann auch verändert neu entworfen.
 
 Eine Utopie ist subjektiv. Die Utopie der einen kann in den Augen der anderen eine Dystopie sein. Das ist jedoch kein Grund, das Nachdenken über Utopien aufzugeben, sondern in Diskussion
-über verschiedene Utopien zu treten. Auch über ein mögliche Koexistenz unterschiedlicher Gesellschaftsmodelle in der Zukunft kann nachgedacht werden.
+über verschiedene Utopien zu treten. Auch über eine mögliche Koexistenz unterschiedlicher Gesellschaftsmodelle in der Zukunft kann nachgedacht werden.
 
 <a class="anchor" name="was_utopien"></a>
 ## Warum über Utopien nachdenken?
@@ -971,5 +970,8 @@ Mit mehr konkreter werdender Kommunikation über Utopien können wir Vertrauen s
 
 ### Links
 
+*Dieser Text basiert auf einem Vortrag mit dem Titel „Dezentrale Utopien gegen planetare Krisen“, den ich im Oktober 2021 im Rahmen der Konferenz der Visionen gehalten habe.*
+
 - <a href="https://gerechtigkeitjetzt.de/events/dezentrale-utopien-und-globale-herausforderungen/" target="__blank">Ankündigung des Vortrags im Oktober 2021</a>
 - <a href="/documents/utopie_check.pdf" target="__blank">Folien des Vortrags (PDF)</a>
+
