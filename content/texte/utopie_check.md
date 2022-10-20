@@ -960,7 +960,7 @@ und an den **Utopie-Check**
 
 - **Freiheit**: Sind Menschen frei zu tun, was sie wollen, solange sie nicht die Freiheit anderer einschränken?
 - **Solidarität**: Wird soziale Gerechtigkeit angestrebt?
-- **Sorge** Sind Sorge-Tätigkeiten mitgedacht?
+- **Sorge**: Sind Sorge-Tätigkeiten mitgedacht?
 - **Krise**: Funktioniert die Utopie in Krisenzeiten?
 - **Kein Dogma**: Gibt es Spaß und Spielraum statt ideologischer Starre?
 
@@ -974,4 +974,5 @@ Mit mehr konkreter werdender Kommunikation über Utopien können wir Vertrauen s
 
 - <a href="https://gerechtigkeitjetzt.de/events/dezentrale-utopien-und-globale-herausforderungen/" target="__blank">Ankündigung des Vortrags im Oktober 2021</a>
 - <a href="/documents/utopie_check.pdf" target="__blank">Folien des Vortrags (PDF)</a>
+- <a href="/documents/utopie-check_print.pdf" target="__blank">PDF Print Version dieses Texts</a>
 
