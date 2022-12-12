@@ -180,7 +180,7 @@ CyberSyn consisted of four main components that will be explained in the followi
 The core components of cybernetic systems are communication and feedback. As this is just 2 years after the
 <a href="https://en.wikipedia.org/wiki/ARPANET" target="__blank">ARPANET</a>,
 there is no such thing as the Internet at the time. Also, Chile did not have enough computers at that time to create a
-network. Luckily, someone on the team found some unused Telex-machines so they build a network of those.
+network. Luckily, someone on the team found some unused Telex-machines so they built a network of those.
 Telex-machines are predecessors of fax machines that were connected to the telephone network but could only send text
 messages.
 
