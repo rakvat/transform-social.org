@@ -62,7 +62,7 @@ think about other stories that could be told.
 
 This is an interesting thought experiment about what love is from the musical "Hedwig and the Angry Inch" (based on Plato):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vJUNH-Fs4EA?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/216912061?h=ff488844d1" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### Polyamory
 
