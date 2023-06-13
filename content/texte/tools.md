@@ -317,8 +317,8 @@ to be in the hands of the people.
 
 Previous sections already hinted at the characteristics, requirements, and tools for free and solidary
 societies. In this section, I'll get into more detail about how such a society could work. Freedom and
-solidarity are the necessary conditions of anarchism. My ideas are close to those of anarcho-
-communism. As anarchism and also anarcho-communism are a spectrum of diverse ideas, my work
+solidarity are the necessary conditions of anarchism. My ideas are close to those of anarcho-communism.
+As anarchism and also anarcho-communism are a spectrum of diverse ideas, my work
 can't be seen as a representation of anarchism.
 
 Here are the more concrete foundations of anarcho-communist societies: decisions are made by
@@ -470,8 +470,8 @@ republic to the monarchy, from parliamentarianism to autocracy, from oligarchy t
 even to the anarchy of Mr. Proudhon, according to one's own discretion.*
 
 Panarchy solves the "too big to fail"-problem by running multiple systems in parallel in the same
-region. The idea of panarchy is however also popular in market-liberal or so-called anarcho-
-capitalist circles as it takes the idea of competition without any restrictions to the level of political
+region. The idea of panarchy is however also popular in market-liberal or so-called anarcho-capitalist
+circles as it takes the idea of competition without any restrictions to the level of political
 systems. Panarchy could lead to increased ableism and uneven distribution of care work, if those
 currently requiring less care would switch to competitive systems and switch back to cooperative
 systems once they are older and again require more care.
