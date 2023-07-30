@@ -67,3 +67,7 @@ cross-regional cooperations and support. Such a system is resilient to crises an
 modified needs in times of a pandemic.
 
 *Stay safe and question the system.*
+
+---
+Another good text about this topic:
+<a href="https://theanarchistlibrary.org/library/william-gillis-anarchism-and-pandemics" target="__blank">Anarchism and Pandemics</a> (anarchist library)
