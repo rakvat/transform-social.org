@@ -1,5 +1,5 @@
 Slug: selbstverwaltung
-Date: 2008/01
+Date: 2008
 Title: Selbstverwaltung - Selbstorganisation
 Author: LGKL, Katja
 Type: text

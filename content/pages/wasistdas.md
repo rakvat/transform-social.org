@@ -1,4 +1,3 @@
-Date: 2020-04-08 11:00
 Title: Fragen und Antworten
 Slug: wasistdas
 

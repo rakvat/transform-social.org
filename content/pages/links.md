@@ -13,5 +13,5 @@ Slug: links
 
 ## [Bibliothek](/bibliothek/)
 
-Weiter gute Texte.
+Weitere gute Texte.
 

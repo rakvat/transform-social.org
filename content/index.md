@@ -1,5 +1,4 @@
 Title: Transformation
-Date: 2020-04-08 11:00
 Slug: index
 
 <center><img src="/images/logo_de.png" alt="Logo. Drei dimensionale organische Spirale in Lila und Grün, die sich nach links dreht. Transformation in *** Gesellschaften." class="logo"></center>
@@ -62,4 +61,4 @@ Einige Beispiele:
 
 ----
 
-(A)lle [Texte](/texte/), (A)lle [Themen](/tags.html).
+(A)lle [Texte](/texte/), (A)lle [Themen](/themen/).

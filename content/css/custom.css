@@ -48,6 +48,11 @@ nav .w3-bar-item.active {
 .navbar {
   line-height: 25px;
 }
+.footer {
+  display: flex;
+  justify-content: end;
+  padding: 8px;
+}
 .icon {
   margin-right: 10px;
 }

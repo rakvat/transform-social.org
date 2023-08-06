@@ -1,0 +1,20 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>{% block title %}{% endblock %}</h1>
+      {% include 'nav.html' %}
+      {{meta.language}}
+      <h2>Content</h2>
+      <div>
+        {% block content %}{% endblock %}
+      </div>
+      {{meta.date}}
+      {% for phrase in meta.catchphrases %}
+        <div>{{phrase}}</div>
+      {% endfor %}
+      {% block footer %}
+      <b>default footer</b>
+      {% endblock %}
+  </body>
+</html>

@@ -1,5 +1,5 @@
 Slug: konflikte
-Date: 2009
+Date: 2009/08
 Title: Umgang mit Konflikten in Anarchistischen Gesellschaften
 Author: Katja
 Type: text

@@ -1,5 +1,5 @@
 Slug: 10_gruende
-Date: 2016-11
+Date: 2016/11
 Title: 10 Gründe, warum das bestehende System nicht funktioniert
 Author: Katja
 Type: text

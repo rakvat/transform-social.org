@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block url %}{{base_url}}texte/{{meta.slug}}/{% endblock %}
+{% block title %}Transform Social | {{ meta.title }}{% endblock %}
+{% block description %}{{ meta.summary }}{% endblock %}
+{% block image %}images/{{ meta.slug }}.jpg{% endblock %}
+
+{% block content %}
+  {{ content }}
+
+  <div>{{ meta.year_month }}</div>
+{% endblock %}

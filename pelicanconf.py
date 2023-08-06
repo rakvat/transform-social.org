@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+
+
+# THIS IS MOSTLY DEPRECATED as I use a custom script make_html.py to generate the static pages.
+
 from __future__ import unicode_literals
 
 SITENAME = 'Notizen zur Transformation in anarchistische Gesellschaften'
