@@ -12,7 +12,7 @@ Catchphrases: Wirtschaft ist die Organisation von Produktion und Distribution. |
 
 # Wirtschaft geht besser ohne Kapitalismus
 
-Die Probleme des Kapitalismus von Umweltzerstörung über Krisen bis Ungerechtigkeiten sind [bekannt](/texte/10_gründe/). Viele können sich trotzdem kein anderes Wirtschaftssystem als den Kapitalismus vorstellen.
+Die Probleme des Kapitalismus von Umweltzerstörung über Krisen bis Ungerechtigkeiten sind [bekannt](/texte/10_gruende/). Viele können sich trotzdem kein anderes Wirtschaftssystem als den Kapitalismus vorstellen.
 Im Folgenden beschriebe ich kurz und knapp, wie Wirtschaft in anarchistischen Gesellschaften funktionieren kann.
 
 Disclaimer: ich spreche nur für mich und nicht für irgendeine anarchistische Organisation.

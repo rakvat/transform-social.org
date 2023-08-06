@@ -10,9 +10,9 @@
       {% for meta in article_metas|sort(attribute="title")%}
         <div>
           {% if meta.type == "text" %}
-            <a href="texte/{{meta.slug}}/">{{meta.title}}</a>
+            <a href="/texte/{{meta.slug}}/">{{meta.title}}</a>
           {% else %}
-            <a href="bibliothek/#{{meta.slug}}">{{meta.title}}</a> (Bibliothek)
+            <a href="/bibliothek/#{{meta.slug}}">{{meta.title}}</a> (Bibliothek)
           {% endif %}
         </div>
       {% endfor %}
