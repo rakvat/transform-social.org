@@ -199,7 +199,7 @@ der liberterians („anarchokapitalistische“ Strömung in den USA) der Fall.
 zu stellen. Freiheit ohne Solidarität resultiert in Privilegien und Ungerechtigkeit. Freiheit ohne Solidarität schränkt die Freiheit
 von ausgegrenzten Gruppen oder Personen ein. Deshalb müssen Freiheit und Solidarität im Gleichgewicht sein, wenn es um die Freiheit aller geht.
 
-**Sorge**: Annette Schlemm schreibt im <a href="http://www.annette-schlemm.de/klo/uk3.htm" target="__blank">Utopischen Klo</a>
+**Sorge**: Annette Schlemm schreibt im <a href="https://www.thur.de/philo/klo/uk3.htm" target="__blank">Utopischen Klo</a>
 *„Jede Utopie muss sich daran messen lassen, wie in ihr das Problem des Klo-Putzens gelöst wird“.*
 Der Care-Bereich (auch Sorgearbeit genannt, also Tätigkeiten rund um „Reproduktion“ wie Kinderbetreuung, Altenpflege oder Reinigung) wird bei einigen Utopien einfach ausgespart. Wenn es nur um die Produktion
 von zählbaren Einheiten (z.B. Tonnen Stahl) geht oder davon ausgegangen wird, dass unbeliebte Tätigkeiten schon irgendwie erledigt werden würden, dann liegt der Verdacht nahe, dass der Care-Bereich nicht mitgedacht wurde.

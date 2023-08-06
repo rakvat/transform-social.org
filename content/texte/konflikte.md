@@ -50,9 +50,9 @@ und gewaltfreie, bedürfnisorientierte Strukturen aufbauen?
 
 ---
 
-Der Artikel in der Graswurzelrevolution, der sich auch kritisch mit GfK auseinandersetzt, findet sich hier: <a href="http://www.graswurzel.net/341/gfk.shtml" target="__blank">Ist Gewaltfreie Kommunikation gelebte Anarchie?</a>
+Der Artikel in der Graswurzelrevolution, der sich auch kritisch mit GfK auseinandersetzt, findet sich hier: <a href="https://www.graswurzel.net/gwr/2009/09/ist-gewaltfreie-kommunikation-gelebte-anarchie" target="__blank">Ist Gewaltfreie Kommunikation gelebte Anarchie?</a>
 
-Einige Ausgaben später, schrieb Johann Bauer über weitere Kritikpunkte aus anarchistischer Sicht: <a href="http://www.graswurzel.net/345/gfk.shtml" target="__blank">Von der Konfrontation zurück zum Bitten?</a>
+Einige Ausgaben später, schrieb Johann Bauer über weitere Kritikpunkte aus anarchistischer Sicht: <a href="https://www.graswurzel.net/gwr/2010/01/von-der-konfrontation-zuruck-zum-bitten" target="__blank">Von der Konfrontation zurück zum Bitten?</a>
 
 Mittlerweile habe ich erlebt, wie GfK Deutungen aus spirituellen oder individualanarchistischen Kreisen aussehen. Manchmal werden Wünsche mit intensiver Dramatik als Bedürfnis inszeniert. Für noch problematischer halte ich die Auslegung nach der jedes Individuum dogmatische Verantwortung dafür trägt, mit verletzendem Verhalten des Gegenübers umzugehen. Das kingt nach neoliberaler Selbstverantwortung und Isolation. Mehr dazu findest du in diesem [Text](/texte/eso/).
 

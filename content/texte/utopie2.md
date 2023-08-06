@@ -45,7 +45,7 @@ Die Idee liegt zwischen <a href="https://de.wikipedia.org/wiki/Kommunistischer_A
 
 befassen sich transparent und wissenschaftlich mit planetaren Fragen wie <a href="https://www.ipcc.ch/" target="__blank">Klimaumbruch</a>, Ressourcenknappheit, effizienten Produktionsverfahren, Konflikten, Kommunikation und Koordination zwischen Regionen und Netzwerken und Verbesserung der planetaren und der lokalen Zufriedenheit. PRs sind offen für alle Interessierten. Sie orientieren sich an den PVs und planetaren Stimmungsbildern und sprechen Empfehlungen aus, deren Nichteinhaltung öffentlich problematisiert wird.
 
-## Das Planetare <a href="https://www.youtube.com/watch?v=8u0mW0TWh8M" target="__blank">Informationssystem</a> (PI)
+## Das Planetare Informationssystem (PI)
 
 ermöglicht Neuigkeiten, anstehende Entscheidungen, Vereinbarungen, Bedarfe (Lebensmittel, Immobilien, Tätigkeiten, …) und Ressourcen (Rohstoffe, Zwischenprodukte, Fertigungsorte, Fähigkeiten, Zeit, …), Konzepte von Netzwerken, … strukturiert zu kommunizieren. Es beinhaltet Werkzeuge für <a href="https://kialo.com/" target="__blank">Diskussion</a>, <a href="https://liquidfeedback.org/" target="__blank">Entscheidungsfindung</a>, <a href="https://www.limesurvey.org/" target="__blank">Zufriedenheitsumfragen</a>, Konfliktklärungen und Prozessoptimierungen.
 

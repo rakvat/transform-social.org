@@ -3,7 +3,7 @@ Date: 1990
 Summary: 2
 Title: Bolo'bolo
 Author: p.m.
-Url: http://www.geocities.ws/situ1968/bolo/bolobolo.html
+Url: https://files.libcom.org/files/bolo%27bolo%20(30th%20Anniversary%20Edition).pdf
 Type: bibliothek
 Language: Deutsch, available in other languages
 Tags: Utopie, Organisation, Entwurf
