@@ -1,8 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{% block language %}de{% endblock %}">
   <head>
     {% set base_url %}https://transform-social.org/{% endset %}
     <title>{% block title %}Transform Social{% endblock %}</title>
+    {% if alternate is defined %}
+        <link rel="alternate" href="{{base_url}}" hreflang="de"/>
+        <link rel="alternate" href="{{base_url}}en" hreflang="en"/>
+    {% endif %}
     <link rel="stylesheet" href="/css/w3.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/css/custom.css" type="text/css" media="screen">
@@ -12,12 +16,12 @@
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Title" content="{{self.title()}}">
-    <meta name="Description" content="{% block description %}Kitik am bestehenden Gesellschaftssystem, Ideen für freiere und solidarischere Gesellschaftssysteme und Gedanken über die Wege in diese Gesellschaftssysteme.{% endblock %}">
+    <meta name="Description" content="{% block description %}Kitik am bestehenden Gesellschaftssystem, Herrschaftsstrukturen und Wirtschaftssystemen. Ideen für freiere und solidarischere Gesellschaftssysteme. Gedanken über die Wege in diese Gesellschaftssysteme.{% endblock %}">
     <meta charset="utf-8">
     <meta name="Revisit" content="After 15 days">
-    <meta name="Keywords" content="Transformation, anarchistische Gesellschaften, Anarchie, Solidarit&auml;t, Freiheit, Utopie, Social Transformation, transform social, anarchy">
+    <meta name="Keywords" content="{% block keywords %}Transformation, anarchistische Gesellschaften, Anarchie, Solidarität, Freiheit, Utopie, Social Transformation, Präfiguration{% endblock %}">
     <meta name="Robots" content="INDEX,FOLLOW">
-    <meta name="content-language" content="de,en">
+    <meta name="content-language" content="{{ self.language() }}">
     <meta property="og:url" content="{{ self.url() }}" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ self.title() }}"/>

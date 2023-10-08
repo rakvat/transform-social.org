@@ -91,6 +91,7 @@ output_path = Path('output')
 content_path = Path('content')
 environment = Environment(loader=FileSystemLoader('templates/'))
 index_template = environment.get_template('index.html')
+index_en_template = environment.get_template('en/index.html')
 page_template = environment.get_template('page.html')
 article_template = environment.get_template('article.html')
 tags_template = environment.get_template('tags.html')
@@ -155,8 +156,18 @@ with open(content_path / 'index.md', mode='r', encoding='utf-8') as f:
     text = f.read()
 content = md.convert(text)
 meta = MetaData.from_markdown(md.Meta)
-static_content = index_template.render(content=content, meta=meta, base_url=base_url)
+static_content = index_template.render(content=content, meta=meta, base_url=base_url, alternate=" ")
 with open(output_path / 'index.html', mode='w', encoding='utf-8') as f:
+    f.write(static_content)
+
+#################### index en
+with open(content_path / 'en' / 'index.md', mode='r', encoding='utf-8') as f:
+    text = f.read()
+content = md.convert(text)
+meta = MetaData.from_markdown(md.Meta)
+static_content = index_en_template.render(content=content, meta=meta, base_url=base_url, alternate=" ")
+(output_path / 'en').mkdir(exist_ok=True)
+with open(output_path / 'en' / 'index.html', mode='w', encoding='utf-8') as f:
     f.write(static_content)
 
 #################### tags
