@@ -1,27 +1,22 @@
 <h5><a href="{{article_url}}" >{{article.meta.title}}</a></h5>
 
-<p>von {{article.meta.author}}, {{article.meta.year_month}}</p>
-
-{% if article.meta.tags %}
-  <div class="w3-row" >
-      <b>Schlagwörter:</b> {{article.meta.tags|join(", ")}}
-  </div>
-{% endif %}
-
-<br>
-<br>
-
 <div class="w3-row">
-  <div class="w3-twothird">
-    {{article.meta.summary}}
+  <div class="w3-half">
+    <p>von {{article.meta.author}}, {{article.meta.year_month}}</p>
+    <p>{{article.meta.summary}}</p>
+    <br>
     <p>
       <a href="{{article_url}}" >
-        <img src="/images/{{article.meta.slug}}.jpg" alt="{{article.meta.tags|join(' ')}}" />
+        <img src="/images/{{article.meta.slug}}.jpg" class="article-short-image" alt="{{article.meta.tags|join(' ')}}" />
       </a>
     </p>
+    {% if article.meta.tags %}
+      <p><b>Schlagwörter:</b> {{article.meta.tags|join(", ")}}</p>
+    {% endif %}
+    <br/>
   </div>
 
-  <div class="w3-third">
+  <div class="w3-half article-short-catchphrases">
     {% if article.meta.catchphrases %}
       <b>Zitate:</b>
       {% for cp in article.meta.catchphrases %}
