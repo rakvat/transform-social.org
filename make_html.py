@@ -223,11 +223,15 @@ with open(output_path / 'en' / 'topics' / 'index.html', mode='w', encoding='utf-
 #################### sitemap
 sitemap_entries.append(SitemapEntry(url=base_url, date=datetime.now().isoformat(), freq='daily'))
 sitemap_entries.append(SitemapEntry(url=base_url + 'themen/', date=datetime.now().isoformat(), freq='daily'))
-sitemap_entries.append(SitemapEntry(url=base_url + 'en/topics/', date=datetime.now().isoformat(), freq='daily'))
 for page in regular_pages:
     sitemap_entries.append(SitemapEntry(url=base_url + f'{page}/', date=datetime.now().isoformat()))
 for text_article in sorted(text_articles, key=lambda article: article.meta.datetime or False, reverse=True):
     sitemap_entries.append(SitemapEntry(url=base_url + f'texte/{text_article.meta.slug}/', date=text_article.meta.datetime.isoformat() if text_article.meta.datetime else datetime.now().isoformat()))
+
+sitemap_entries.append(SitemapEntry(url=base_url + 'en/', date=datetime.now().isoformat(), freq='daily'))
+sitemap_entries.append(SitemapEntry(url=base_url + 'en/topics/', date=datetime.now().isoformat(), freq='daily'))
+for page in regular_pages_en:
+    sitemap_entries.append(SitemapEntry(url=base_url + f'en/{page}/', date=datetime.now().isoformat()))
 for text_article in sorted(text_articles_en, key=lambda article: article.meta.datetime or False, reverse=True):
     sitemap_entries.append(SitemapEntry(url=base_url + f'en/texts/{text_article.meta.slug}/', date=text_article.meta.datetime.isoformat() if text_article.meta.datetime else datetime.now().isoformat()))
 
