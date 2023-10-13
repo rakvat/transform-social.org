@@ -1,0 +1,37 @@
+<h5><a href="{{article_url}}" >{{article.meta.title}}</a></h5>
+
+<p>von {{article.meta.author}}, {{article.meta.year_month}}</p>
+
+{% if article.meta.tags %}
+  <div class="w3-row" >
+      <b>Schlagwörter:</b> {{article.meta.tags|join(", ")}}
+  </div>
+{% endif %}
+
+<br>
+<br>
+
+<div class="w3-row">
+  <div class="w3-twothird">
+    {{article.meta.summary}}
+    <p>
+      <a href="{{article_url}}" >
+        <img src="/images/{{article.meta.slug}}.jpg" alt="{{article.meta.tags|join(' ')}}" />
+      </a>
+    </p>
+  </div>
+
+  <div class="w3-third">
+    {% if article.meta.catchphrases %}
+      <b>Zitate:</b>
+      {% for cp in article.meta.catchphrases %}
+        <p><i>{{cp}}</i></p>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
+<div class="w3-row">
+  <a href="{{article_url}}" >&rarr; Kompletter Text</a>
+</div>
+<hr/>

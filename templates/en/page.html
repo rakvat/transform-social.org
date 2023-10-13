@@ -1,11 +1,4 @@
-{% extends "base.html" %}
-
-{% block language %}en{% endblock %}
-{% block slug %}{{ meta.slug }}{% endblock %}
-{% block url %}{{ base_url }}en/{{ meta.slug }}/{% endblock %}
-{% block description %}Criticism of existing societies, power structures, and economic systems. Ideas for more free and more solidary soieties. Thoughts on ways how to get there.{% endblock %}
-{% block keywords %}transformation, anarchist societies, anarchy, anarchism, solidarity, freedom, utopia, social transformation, prefiguration{% endblock %}
-{% block title %}Transform Social | {{ meta.title }}{% endblock %}
+{% extends "en/base.html" %}
 
 {% block content %}
   {{ content }}
@@ -29,7 +22,7 @@
         <div class="w3-twothird">
           {{article.meta.summary}}
           <p>
-            <a href="/texte/{{article.meta.slug}}/" >
+            <a href="/texts/{{article.meta.slug}}/" >
               <img src="/images/{{article.meta.slug}}.jpg" alt="{{article.meta.tags|join(' ')}}" />
             </a>
           </p>
@@ -46,7 +39,7 @@
       </div>
 
       <div class="w3-row-padding">
-        <a href="/texte/{{article.meta.slug}}/" >&rarr; Full Text</a>
+        <a href="/texts/{{article.meta.slug}}/" >&rarr; Full Text</a>
       </div>
       <hr/>
     {% endfor %}
