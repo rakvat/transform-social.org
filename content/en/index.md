@@ -1,6 +1,8 @@
 Title: Transformation
 Slug: index
 
+<p class="lang-link"><a href="/">Deutsch</a></p>
+
 <center><img src="/images/logo_en.png" alt="Logo. Three-dimensional irregular spiral in purple and green, turning leftwards. Text: Transformation of societies." class="logo"></center>
 
 # Transformation?

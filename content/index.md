@@ -1,6 +1,8 @@
 Title: Transformation
 Slug: index
 
+<p class="lang-link"><a href="/en/">English</a></p>
+
 <center><img src="/images/logo_de.png" alt="Logo. Dreidimensionale unregelmäßige Spirale in Lila und Grün, die sich nach links dreht. Text: Transformation von Gesellschaften." class="logo"></center>
 
 # Transformation?

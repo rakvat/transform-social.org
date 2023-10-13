@@ -35,11 +35,21 @@ nav a.brand {
   color: white !important;
   font-size: 18px;
 }
+nav .brand-text {
+  @media only screen and (max-width: 290px) {
+    display: none !important;
+  }
+}
 nav .w3-bar-item.nav-item {
   padding: 12px 10px;
 }
 nav .w3-bar-item.active {
   color: white !important;
+}
+
+.lang-link {
+  text-align: right;
+  margin: -30px 0 0 0;
 }
 
 .logo {
