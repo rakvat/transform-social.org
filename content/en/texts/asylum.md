@@ -1,4 +1,4 @@
-Slug: asyl
+Slug: asylum
 Date: 2021/4/1
 Title: Invisible Women in the German Asylum-System
 Author: Grace, Katja
