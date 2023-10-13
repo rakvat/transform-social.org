@@ -3,7 +3,6 @@ Date: 2013/07
 Title: Buddy-Systeme
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Buddy-System, Organisation
 Summary: Dieser Text beschreibt eine Organisationsform, die sowohl innerhalb hierarchiearmer Gesellschaften als auch auf dem Weg dorthin hilfreich sein kann. Buddy-Systeme durchbrechen Isolation, unterstützen bei emotionalen Fragen und helfen Wissen und Verantwortung zu verteilen.
 Catchphrases: Die Welt, in der wir leben, ist an vielen Stellen durch Isolation und Vereinzelung geprägt. Immer kleinere Einheiten, die so mehr eigene Ressourcen brauchen, also weniger teilen können und so mehr konsumieren müssen und die sich in Konkurrenz und Neid voller Misstrauen beäugen.|Gemeinsam ist den Buddy-Systemen ein grundlegend positives Menschenbild sowie die Annahme, dass Menschen lernen und sich weiterentwickeln wollen, dass sie an kooperativen Kontakten zu anderen Menschen interessiert sind.|Innerhalb von bestehenden Gruppen bietet das Buddy-System die Möglichkeit, neue Leute schnell mit den Strukturen vertraut zu machen und an die jeweiligen Bedürfnisse angepasst zu integrieren.

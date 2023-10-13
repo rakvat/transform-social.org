@@ -1,0 +1,10 @@
+<a href="/wasistdas/" class="{% if meta.slug=='wasistdas' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">
+  Fragen
+</a>
+<a href="/en/texts/" class="{% if meta.is_text %}{{mactive}}{% else %}{{mpassive}}{% endif %}">
+  Texts
+</a>
+<a href="/links/" class="{% if meta.slug=='links' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">Links</a>
+<a class="w3-bar-item w3-button w3-padding-large" rel="me" href="https://kolektiva.social/@transform" target="_blank">
+  {% include 'mastodon_snippet.html' %}
+</a>

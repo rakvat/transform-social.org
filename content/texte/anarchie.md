@@ -3,7 +3,6 @@ Date: 2016/11
 Title: Was ist eigentlich Anarchie?
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Anarchie, Grundlagen
 Summary: Einige Definitionen von Anarchie.
 Catchphrases: Anarchie dagegen sieht Verantwortung nicht dogmatisch nur oder gar nicht beim Individuum, sondern sowohl beim Individuum als auch beim sozialen Umfeld. Anarchie ist Freiheit und Solidarität in einem.

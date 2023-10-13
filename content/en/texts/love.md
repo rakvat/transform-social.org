@@ -3,7 +3,6 @@ Date: 2021/11/08
 Title: Challenging „The one true Love“
 Author: Katja
 Type: text
-Language: English
 Tags: Love, Polyamory, Relationship Anarchy, Society
 Summary: Society and media tell us that we should strive to find the "one true love". Why do they want us to do so and what are the consequnces? How we can lead a better life by telling a different story about love.
 Catchphrases:  Why are we told this toxic story about love? | Not every problem someone has with his girlfriend is necessarily due to the capitalist mode of production. | Polyamory or Relationship Anarchy might not be for everyone but the skills you learn are

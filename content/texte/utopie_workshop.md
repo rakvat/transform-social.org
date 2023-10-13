@@ -3,7 +3,6 @@ Date: 2020/02
 Title: Systemwandel statt Klimawandel – konkrete Utopien und Transformationsideen
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Utopie, Transformation, Klima
 Summary: Austausch über Utopien, deren Realisierbarkeit und Transformationsmöglichkeiten sind wichtig, um selbst konkretere Vorstellungen zu bekommen und andere für die Ideen begeistern zu können.
 Catchphrases: Es geht nicht darum, eine Utopie als "die Richtige" darzustellen, sondern durch den Austausch über Utopien, Orientierung für die nächsten politischen Schritte abzuleiten. | die Antwort auf die Frage nach dem Leben, dem Universum und dem ganzen Rest

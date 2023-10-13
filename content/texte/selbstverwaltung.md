@@ -3,7 +3,6 @@ Date: 2008
 Title: Selbstverwaltung - Selbstorganisation
 Author: LGKL, Katja
 Type: text
-Language: Deutsch
 Tags: Selbstverwaltung, Selbstorganisation, Kollektive, Chef_in, Betriebsbesetzung, Kommunebewegung
 Summary: Dieser Text veranschaulicht Selbstverwaltung und Selbstorganisation anhand von historischen Beispielen. Befreiende Aspekte, Probleme der Umsetzung im Kapitalismus und Vereinnahmung durch den Kapitalismus werden dargestellt.
 Catchphrases: Dass Selbstorganisation eine gute Idee ist, sieht mensch auch daran, dass sie vom Kapitalismus vereinnahmt (kooptiert) wurde. | Nach einigen Bedenken, ob das Diebstahl oder gar "Sünde" sei, waren sie schließlich überzeugt, dass es nur "gerecht" ist, sich auf diese Art zu verteidigen und das, was sie hergestellt hatten, an sich zu nehmen. "Ungerecht" und unerklärlich erschien ihnen die Besetzung durch die Polizei und deren Gewaltanwendung. Sie selbst hatten nur nach ihrem Verständnis von Gerechtigkeit gehandelt und keine Gewalt angewandt und wurden nun mit Gewalt zu einer anderen "Gerechtigkeit" gezwungen.

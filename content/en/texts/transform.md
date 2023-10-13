@@ -3,7 +3,6 @@ Date: 2019/05
 Title: Transformation into Free and Solidary Societies
 Author: Katja
 Type: text
-Language: English
 Tags: Free and Solidary Societies, Transformation, Strategy
 Summary: Criticism of current societies, how free and solidary societies could be organized and how to get there.
 Catchphrases: This is not one idea, pattern or blueprint of free and solidary societies, but rather a framework, in which multiple diverse ideas of living together and organizing can co-exist.|Thus the power stays decentral and local, always focused on the needs of the people while still being able to make decisions globally.

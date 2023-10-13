@@ -3,7 +3,6 @@ Date: 2021/4/1
 Title: Invisible Women in the German Asylum-System
 Author: Grace, Katja
 Type: text
-Language: English
 Tags: Asylum, Women, No Camps
 Summary: This interview with an activist from Women in Exile gives some insight into the situation of women in Kenya, refugee camps, and the German Asylum system.
 Catchphrases: However, being locked in a prison inside of a prison is not the solution. | When you have to fear being deported every day, you don’t really worry about climate change. | Migration due to climate change might increase and it should not be illegalized.

@@ -4,8 +4,8 @@
     {% set base_url %}https://transform-social.org/{% endset %}
     <title>{% block title %}Transform Social{% endblock %}</title>
     {% if alternate is defined %}
-        <link rel="alternate" href="{{base_url}}" hreflang="de"/>
-        <link rel="alternate" href="{{base_url}}en" hreflang="en"/>
+      <link rel="alternate" href="{{base_url}}{{alternate['de']}}" hreflang="de"/>
+      <link rel="alternate" href="{{base_url}}en/{{alternate['en']}}" hreflang="en"/>
     {% endif %}
     <link rel="stylesheet" href="/css/w3.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -38,33 +38,21 @@
     <div class="w3-top no-print">
       <nav class="w3-bar w3-black w3-card navbar">
         <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="toggleNav()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-
-        <a href="/" class="w3-bar-item w3-button w3-padding-large brand"><img class="icon" src="/images/icon.png" alt="logo"/>Transformation</a>
-        <a href="/wasistdas/" class="{% if meta.slug=='wasistdas' %}{{active}}{% else %}{{passive}}{% endif %}">
-          Fragen
-        </a>
-        <a href="/texte/" class="{% if meta.is_text %}{{active}}{% else %}{{passive}}{% endif %}" >
-          Texte
-        </a>
-        <a href="/links/" class="{% if meta.slug=='links' %}{{active}}{% else %}{{passive}}{% endif %}" >Links</a>
-        <a class="w3-bar-item w3-button w3-hide-small w3-right social-icon-container" rel="me" href="https://kolektiva.social/@transform" target="_blank">
-          <svg class="social-icon" alt="mastodon icon" fill="#ab50a7" height="25px" width="25px" xmlns="http://www.w3.org/2000/svg" viewBox="-0.41 0.22 747.62 801.4499999999999"><path d="M729.94 479.5c-10.96 56.4-98.17 118.12-198.34 130.08-52.23 6.23-103.66 11.96-158.49 9.44-89.68-4.1-160.45-21.4-160.45-21.4 0 8.73.54 17.04 1.62 24.81 11.66 88.52 87.76 93.82 159.84 96.29 72.76 2.49 137.55-17.94 137.55-17.94l2.99 65.79s-50.89 27.32-141.55 32.35c-50 2.75-112.07-1.26-184.37-20.39C31.94 737.02 4.97 569.86.85 400.26-.41 349.9.37 302.42.37 262.7.37 89.27 113.99 38.44 113.99 38.44 171.28 12.12 269.59 1.06 371.79.22h2.52c102.19.84 200.57 11.9 257.86 38.22 0 0 113.62 50.83 113.62 224.26 0 0 1.42 127.96-15.85 216.8"/><path d="M611.77 276.16v209.99h-83.2V282.33c0-42.97-18.07-64.77-54.23-64.77-39.98 0-60.01 25.86-60.01 77.02v111.57h-82.71V294.58c0-51.16-20.04-77.02-60.01-77.02-36.16 0-54.24 21.8-54.24 64.77v203.82h-83.19V276.16c0-42.92 10.93-77.03 32.88-102.26 22.63-25.23 52.27-38.17 89.07-38.17 42.57 0 74.81 16.37 96.12 49.1l20.72 34.74 20.73-34.74c21.31-32.73 53.55-49.1 96.12-49.1 36.79 0 66.44 12.94 89.07 38.17 21.95 25.23 32.88 59.34 32.88 102.26z" fill="#fff"/></svg>
-        </a>
+        {% if self.language() == 'de' %}
+          {% include 'nav_snippet.html' %}
+        {% else %}
+          {% include 'en/nav_snippet.html' %}
+        {% endif %}
       </nav>
     </div>
 
     <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
     <nav id="mobile_nav" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top no-print" style="margin-top:46px">
-      <a href="/wasistdas/" class="{% if meta.slug=='wasistdas' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">
-        Fragen
-      </a>
-      <a href="/texte/" class="{% if meta.is_text %}{{mactive}}{% else %}{{mpassive}}{% endif %}">
-        Texte
-      </a>
-      <a href="/links/" class="{% if meta.slug=='links' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">Links</a>
-      <a class="w3-bar-item w3-button w3-padding-large" rel="me" href="https://kolektiva.social/@transform" target="_blank">
-          <svg class="social-icon" alt="mastodon icon" fill="#ab50a7" height="25px" width="25px" xmlns="http://www.w3.org/2000/svg" viewBox="-0.41 0.22 747.62 801.4499999999999"><path d="M729.94 479.5c-10.96 56.4-98.17 118.12-198.34 130.08-52.23 6.23-103.66 11.96-158.49 9.44-89.68-4.1-160.45-21.4-160.45-21.4 0 8.73.54 17.04 1.62 24.81 11.66 88.52 87.76 93.82 159.84 96.29 72.76 2.49 137.55-17.94 137.55-17.94l2.99 65.79s-50.89 27.32-141.55 32.35c-50 2.75-112.07-1.26-184.37-20.39C31.94 737.02 4.97 569.86.85 400.26-.41 349.9.37 302.42.37 262.7.37 89.27 113.99 38.44 113.99 38.44 171.28 12.12 269.59 1.06 371.79.22h2.52c102.19.84 200.57 11.9 257.86 38.22 0 0 113.62 50.83 113.62 224.26 0 0 1.42 127.96-15.85 216.8"/><path d="M611.77 276.16v209.99h-83.2V282.33c0-42.97-18.07-64.77-54.23-64.77-39.98 0-60.01 25.86-60.01 77.02v111.57h-82.71V294.58c0-51.16-20.04-77.02-60.01-77.02-36.16 0-54.24 21.8-54.24 64.77v203.82h-83.19V276.16c0-42.92 10.93-77.03 32.88-102.26 22.63-25.23 52.27-38.17 89.07-38.17 42.57 0 74.81 16.37 96.12 49.1l20.72 34.74 20.73-34.74c21.31-32.73 53.55-49.1 96.12-49.1 36.79 0 66.44 12.94 89.07 38.17 21.95 25.23 32.88 59.34 32.88 102.26z" fill="#fff"/></svg>
-      </a>
+      {% if self.language() == 'de' %}
+        {% include 'nav_snippet_mobile.html' %}
+      {% else %}
+        {% include 'en/nav_snippet_mobile.html' %}
+      {% endif %}
     </nav>
 
     <!-- Page content -->

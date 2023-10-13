@@ -3,7 +3,6 @@ Date: 2009/09
 Title: Gewaltfreie Kommunikation aus anarchistischer Perspektive
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Gewaltfreie Kommunikation, GfK, Anarchie, Herrschaftslosigkeit
 Summary: Text- und Materialsammlung zu Gewaltfreier Kommunikation aus anarchistischer Perspektive. Neben einer Einführung in die GfK, und für Anarch@s interessante Konzepte der GfK werden auch Grenzen und Kritik an GfK-Ansätzen erläutert.
 Catchphrases: Durch das „Beobachten statt Bewerten“ und die Wertschätzung der Bedürfnisse aller Beteiligten in der GfK wird ein allgemeingültiges, von oben gesetz_tes „richtig“-„falsch“, „legal“-„illegal“ widersinnig. | Akzeptierende Konfliktanalyse dagegen anerkennt stark widersprüchliche und im System unüberwindbare Gegensätze in Herrschaftsstrukturen. | In Aldous Huxleys “Schöne neue Welt” werden Gefühle als systemgefährdend von den Herrschenden möglichst unterbunden.

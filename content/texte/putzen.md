@@ -3,7 +3,6 @@ Date: 2018/05
 Title: Putzen, als wär' schon Anarchie
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Anarchie, Organisation, Kollektive, Komitees, Räte, Bedürfnisse
 Summary: Dieser Text fragt, wie die Organisation von Sauberkeit von anarchistischen Ansätzen inspiriert werden kann.
 Catchphrases: Es genügt, mit ein paar Freund_innen ein Putzkollektiv zu bilden und Vorlieben an das Orgakomitee weiter zu geben.|Die Auslagerung des Planungsprozesses in das Komitee verhindert, dass sich das Plenum der Gesamtgemeinschaft in Details verfängt und zerstreitet.|Es gibt also keinen Zwang, bestimmte Tätigkeiten zu übernehmen, aber eine Erwartung, sich solidarisch an Gemeinschaftsaufgaben zu beteiligen.

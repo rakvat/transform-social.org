@@ -3,7 +3,6 @@ Date: 2023/02/10
 Title: Rethinking Relationships
 Author: Katja
 Type: text
-Language: English
 Tags: Love, Polyamory, Relationship Anarchy, Society, Relationships, Capitalism
 Summary: Notes on toxic and non-toxic relationships patterns, how to break relationship related societal norms and how structures of dominance fuck with relationships.
 Catchphrases: Let's live in relationships that are good for us and undermine dominance structures. | Never let someone tell you, you would not be able to "really" love someone. | Polyamory might not be for everyone but the skills you learn are.

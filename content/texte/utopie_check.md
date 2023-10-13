@@ -3,7 +3,6 @@ Date: 2022/08
 Title: Utopie-Check
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Utopie, Transformation, Klima
 Summary: Wie können dezentrale Utopien ein Mittel gegen planetare Krisen sein? Welche Utopien biegen in die falsche Richtung ab? Der Utopie-Check gibt Anhaltspunkte.
 Catchphrases: Utopien sind wieder im Trend. An vielen Orten werden uns Utopien, Visionen oder Alternativen angeboten. Doch wie können wir in diesem Utopie-Gewirr noch den Durchblick bewahren und diskussionswürdige und anstrebenswerte Utopien identifizieren? | Wichtig ist eine breite Diskussion über Utopien und Transformationsideen.

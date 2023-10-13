@@ -3,7 +3,6 @@ Title: Corona geht auch besser
 Date: 2020/04
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Utopie, Anarchie
 Summary: Ein Dialog über Ideen zu herrschaftsarmer Pandemieeindämmung.
 Catchphrases: Und überhaupt - was ist das eigentlich für ein Scheißsystem, bei dem wegen nem Virus eine Wirtschaftskrise droht?

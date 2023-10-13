@@ -3,7 +3,6 @@ Date: 2020/08
 Title: Planetare Kooperation
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Utopie, Transformation, Panarchie, Anarchokommunismus
 Summary: Ein Utopieentwurf, der nicht behauptet dass es nur eine richtige Lösung gibt.
 Catchphrases: Dieser multi-theoretische Ansatz soll akzeptierende und konkurrenz-freie Vielfalt ermöglichen, Herrschaft strukturell vermeiden und so resilienter gegenüber sich ändernden Bedingungen und Krisen sein.|Dazu werden Rohstoffe, Produkte und Leistungen geld- und tauschfrei zwischen Netzwerken bewegt.

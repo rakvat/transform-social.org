@@ -3,7 +3,6 @@ Date: 2023/7/01
 Title: Wirtschaft geht besser ohne Kapitalismus
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Wirtschaft, Anarchie
 Summary: Ein Überblick über Möglichkeiten anarchistischen Wirtschaftens.
 Catchphrases: Wirtschaft ist die Organisation von Produktion und Distribution. | Kapitalismus ist nur eine Möglichkeit, Wirtschaft zu organisieren - es gibt andere, bessere. | Markt existiert meist in Verbindung mit Arbeitslohn, der seinerseits negative Auswirkungen hat. | Arbeiten wird angenehmer gestaltet, Menschen können mitbestimmen, wie sie arbeiten wollen. | Aus meiner Sicht braucht es keine universelle Recheneinheit.

@@ -3,7 +3,6 @@ Date: 2021/12/5
 Title: Racism
 Author: Katja
 Type: text
-Language: English
 Tags: Racism, Oppression, Intersectionality, System
 Summary: Reflecting on racism from a white perspective. Looking at the various forms of oppression that come with racism.
 Catchphrases: It should not be the responsibility of BIPOC to explain racism to white people. | Race does not exist, but race matters. | Racism can lead to severe psychological damage.

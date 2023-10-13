@@ -3,7 +3,6 @@ Date: 2013
 Title: Entscheidungen und Vereinbarungen
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Anarchie, Entscheidungen, Vereinbarungen, Organisation
 Summary: Konsensbasierte Entscheidungen und Vereinbarungen sind wichtig, um Herrschaftsstrukturen zu vermeiden. Dieser Text beschreibt näher, was Konsens und Veto bedeuten und wie ein dafür geeigneter Entscheidungsprozess aussehen könnte.
 Catchphrases: Vereinbarungen und die gemeinsame Übernahme von Verantwortung sind eine wichtige Basis für gegenseitiges Vertrauen und hierarchiearme und solidarische Strukturen.|Ein Veto ist ein Hilfeschrei, der angewendet werden kann, wenn eine Person mit einer Entscheidung nicht leben könnte, also das Projekt verlassen müsste, oder wenn sie das Projekt selbst oder dessen Selbstverständnis durch diese Entscheidung in Gefahr sieht.

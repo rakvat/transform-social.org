@@ -3,7 +3,6 @@ Title: How would Anarchist Societies handle a pandemic?
 Date: 2020/04
 Author: Katja
 Type: text
-Language: English
 Tags: Utopia, Anarchy, Society
 Summary: Some thoughts about how anarchist societies could handle a pandemic.
 Catchphrases: That way, each community can decide about their balence between freedom and security and define for themselves the meaning solidarity in times of pandemic.|However, if it turns out that the pandemic can't be stopped with decentral diversity, there might be a need for a global decision.

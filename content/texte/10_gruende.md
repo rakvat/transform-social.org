@@ -5,7 +5,6 @@ Author: Katja
 Type: text
 Tags: Anarchie, Kapitalismus
 Summary: Gründe, die mich zu einer Transformation in anarchistische Gesellschaften motivieren.
-Language: Deutsch
 Catchphrases: Kapitalistische Systeme neigen nicht nur zu bewaffeneten Konflikten um Ressourcen.|Im aktuellen kapitalistischen System basiert der relative Reichtum mancher Regionen auf dem Ausbeuten anderer Regionen.
 
 # 10 Gründe, warum das bestehende System nicht funktioniert

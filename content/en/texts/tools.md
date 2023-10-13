@@ -3,7 +3,6 @@ Date: 2023/3/05
 Title: Tools for Emancipatory Societies
 Author: Katja
 Type: text
-Language: English
 Tags: Economy, Decentralized, Cybernetics, Anarchism
 Summary: This article discusses abstract requirements for future societies based on ethical values, concrete organizational foundations for economic and social planning, and required organizational and technical tools. It also shows how the method of simulation can be used as one tool to support (not dominate) anarchist societies.
 Catchphrases: Cybernetics is not about control in the authoritarian sense but about control in the sense of self-regulating and self-organizing, i.e. anti-authoritarian systems. | Decentralization does not mean isolation or rejection of modern technology. | I'm suggesting to use of optimization as an optional tool for multi-level decentralized planning, creating non-coercive suggestions as a decision support tool. | The individualists did not have a huge impact on the solidarity economy.

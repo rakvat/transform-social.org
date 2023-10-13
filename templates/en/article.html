@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
-{% block url %}{{base_url}}texte/{{meta.slug}}/{% endblock %}
+{% block language %}en{% endblock %}
+{% block url %}{{base_url}}/en/texts/{{meta.slug}}/{% endblock %}
 {% block title %}Transform Social | {{ meta.title }}{% endblock %}
 {% block description %}{{ meta.summary }}{% endblock %}
 {% block keywords %}{{ meta.tags|join(", ") }}{% endblock %}

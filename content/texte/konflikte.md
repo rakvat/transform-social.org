@@ -3,7 +3,6 @@ Date: 2009/08
 Title: Umgang mit Konflikten in Anarchistischen Gesellschaften
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Anarchie, Konflikte, Organisation
 Summary: Der Umgang mit Konflikten in anarchistischen Gesellschaften wird weder durch Willkür noch durch autoritäre Rechtsprechung geprägt sein. Dieser Text sammelt einige Materialien, die bei der Etablierung herrschaftsarmer Konzepte der Konfliktklärung helfen können.
 Catchphrases: In anarchistischen Gesellschaften würden einige Formen von Konflikten möglicherweise gar nicht mehr oder viel reduzierter vorkommen, da beispielsweise Ungleichverteilung von Ressourcen und Frustration durch Nichtbeteiligung an Entscheidungen eliminiert oder stark gemindert wären.|Da dies stark veränderte Denk- und Handelsweisen sind, ist es wichtig, diese auf dem Weg der Transformation in anarchistische Gesellschaften zu üben und weiter zu entwickeln.|Auch hierbei ist es wichtig, sich präventiv auf die Methode zu einigen und sie zu etablieren.

@@ -3,7 +3,6 @@ Date: 2021/4/3
 Title: CyberSyn - An Ambitious Project of Socialist Economics
 Author: Katja
 Type: text
-Language: English
 Tags: Economy, Decentralized, Cybernetics
 Summary: 50 years after the short but inspiring history of CyberSyn, there is still a lot to learn from this project and its underlying theory of organizational cybernetics.
 Catchphrases: Hold on for this ride back in history that still feels like science fiction. | In complex systems, central control is not viable. | Beer explains why only decentralized organizations can cope with complex environments. | It is a source of inspiration for decentralized anarchist economies.

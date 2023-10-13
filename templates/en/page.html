@@ -1,21 +1,24 @@
 {% extends "base.html" %}
 
+{% block language %}en{% endblock %}
 {% block slug %}{{ meta.slug }}{% endblock %}
-{% block url %}{{ base_url }}{{ meta.slug }}/{% endblock %}
+{% block url %}{{ base_url }}en/{{ meta.slug }}/{% endblock %}
+{% block description %}Criticism of existing societies, power structures, and economic systems. Ideas for more free and more solidary soieties. Thoughts on ways how to get there.{% endblock %}
+{% block keywords %}transformation, anarchist societies, anarchy, anarchism, solidarity, freedom, utopia, social transformation, prefiguration{% endblock %}
 {% block title %}Transform Social | {{ meta.title }}{% endblock %}
 
 {% block content %}
   {{ content }}
 
-  {% if meta.slug == 'texte' %}
+  {% if meta.slug == 'texts' %}
     {% for article in articles|sort(attribute="meta.year_month", reverse=True) if article.meta.type == 'text' %}
-      <h5><a href="/texte/{{article.meta.slug}}/" >{{article.meta.title}}</a></h5>
+      <h5><a href="/en/texts/{{article.meta.slug}}/" >{{article.meta.title}}</a></h5>
 
-      <p>von {{article.meta.author}}, {{article.meta.year_month}}</p>
+      <p>by {{article.meta.author}}, {{article.meta.year_month}}</p>
 
       {% if article.meta.tags %}
           <div class="w3-row-padding" >
-              <b>Schlagwörter:</b> {{article.meta.tags|join(", ")}}
+              <b>Keywords:</b> {{article.meta.tags|join(", ")}}
           </div>
       {% endif %}
 
@@ -34,7 +37,7 @@
 
         <div class="w3-third">
           {% if article.meta.catchphrases %}
-            <b>Zitate:</b>
+            <b>Extracts:</b>
             {% for cp in article.meta.catchphrases %}
               <p><i>{{cp}}</i></p>
             {% endfor %}
@@ -43,7 +46,7 @@
       </div>
 
       <div class="w3-row-padding">
-        <a href="/texte/{{article.meta.slug}}/" >&rarr; Kompletter Text</a>
+        <a href="/texte/{{article.meta.slug}}/" >&rarr; Full Text</a>
       </div>
       <hr/>
     {% endfor %}
@@ -57,7 +60,7 @@
       <h5>{{article.meta.title}}</h5>
 
       {% if article.meta.author %}
-        <p>von {{article.meta.author}}</p>
+        <p>by {{article.meta.author}}</p>
       {% endif %}
 
       <div class="row" >
@@ -67,19 +70,13 @@
 
         <div class="col-lg-4 col-md-4 col-xs-12" >
           {% if article.meta.date %}
-          <b>Datum:</b> {{article.meta.year_month}}
-          {% endif %}
-        </div>
-
-        <div class="col-lg-4 col-md-4 col-xs-12" >
-          {% if article.meta.language %}
-          <b>Sprache:</b> {{article.meta.language}}
+          <b>Date:</b> {{article.meta.year_month}}
           {% endif %}
         </div>
 
         <div class="col-lg-6 col-md-6 col-xs-12" >
           {% if article.meta.tags %}
-            <b>Schlagwörter:</b> {{article.meta.tags|join(", ")}}
+            <b>Keywords:</b> {{article.meta.tags|join(", ")}}
           {% endif %}
         </div>
       </div>
@@ -94,7 +91,7 @@
 
         <div class="col-lg-5 col-md-5 col-xs-12" >
           {% if article.meta.catchphrases %}
-            <b>Zitate:</b>
+            <b>Extracts:</b>
             {% for cp in article.meta.catchphrases %}
               <p><i>{{cp}}</i></p>
             {% endfor %}

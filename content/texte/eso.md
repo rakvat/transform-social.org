@@ -3,7 +3,6 @@ Date: 2016/10
 Title: Vergiss nicht Solidarität und Skeptizismus
 Author: Katja
 Type: text
-Language: Deutsch
 Tags: Spiritualität, Esoterik, Anarchie, Organisation
 Summary: Lassen sich esoterische Lebensweisen mit anarchistischen Prinzipien und Projekten vereinbaren? Wo liegen die Gefahren?
 Catchphrases: if you open your mind too much your brain will fall out|Wir leben in einer Zeit mit vielen Konflikten, Krisen, Hunger und Armut wegen ungerechter Ressourcen Verteilung und perspektivisch möglicherweise lebensbedrohlicher Klimaveränderung wegen Umweltverschmutzung. Um da raus zu kommen, um ohne Eliten in Solidarität miteinander leben zu können und den drohenden Umweltkollaps zu verhindern braucht es keine elitären spirituellen Parallelwelten sondern Bodenständigkeit, kritisches Denken, gemeinsame wissenschaftliche Forschung, gegenseitige Unterstützung und, in einer Kommunikation die niemanden ausschließt, die Entwicklung von Zielen für die wir leben wollen.
