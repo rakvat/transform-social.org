@@ -3,7 +3,9 @@
 {% block title %}Themen{% endblock %}
 {% block url %}{{ base_url }}themen/{% endblock %}
 
+
 {% block content %}
+  <h1>Themen auf transform-social</h1>
   {% for tag, article_metas in tags|sort %}
     <div>
       <h2>{{tag}}</h2>

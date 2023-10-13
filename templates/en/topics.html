@@ -1,0 +1,22 @@
+{% extends "en/base.html" %}
+
+{% block title %}Topics{% endblock %}
+{% block url %}{{ base_url }}en/topics/{% endblock %}
+
+{% block content %}
+  <h1>Topics on transform-social</h1>
+  {% for tag, article_metas in tags|sort %}
+    <div>
+      <h2>{{tag}}</h2>
+      {% for meta in article_metas|sort(attribute="title")%}
+        <div>
+          {% if meta.type == "text" %}
+            <a href="/en/texts/{{meta.slug}}/">{{meta.title}}</a>
+          {% else %}
+            <a href="/bibliothek/#{{meta.slug}}">{{meta.title}}</a> (Library)
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
+{% endblock %}

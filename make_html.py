@@ -96,17 +96,22 @@ page_template = environment.get_template('page.html')
 page_en_template = environment.get_template('en/page.html')
 article_template = environment.get_template('article.html')
 article_en_template = environment.get_template('en/article.html')
-tags_template = environment.get_template('tags.html')
+topics_template = environment.get_template('topics.html')
+topics_en_template = environment.get_template('en/topics.html')
 sitemap_template = environment.get_template('sitemap.xml')
 md = Markdown(extensions=['meta'])
 tags = defaultdict(list)
+tags_en = defaultdict(list)
 sitemap_entries = []
 
-def insert_tags(meta: MetaData):
+def insert_tags(meta: MetaData, lang: str):
     if not meta.tags:
         return
     for tag in meta.tags:
-        tags[tag].append(meta)
+        if lang == 'de':
+            tags[tag].append(meta)
+        elif lang == 'en':
+            tags_en[tag].append(meta)
 
 #################### statics
 static_folders = ['css', 'images', 'documents']
@@ -122,7 +127,7 @@ for text_path in texts:
         text = f.read()
     content = md.convert(text)
     meta = MetaData.from_markdown(md.Meta)
-    insert_tags(meta)
+    insert_tags(meta, lang='de')
     text_articles.append(Article(content=content, meta=meta))
     static_content = article_template.render(content=content, meta=meta, base_url=base_url)
     (output_path / 'texte' / meta.slug).mkdir(parents=True, exist_ok=True)
@@ -137,7 +142,7 @@ for text_path in texts_en:
         text = f.read()
     content = md.convert(text)
     meta = MetaData.from_markdown(md.Meta)
-    insert_tags(meta)
+    insert_tags(meta, lang='en')
     text_articles_en.append(Article(content=content, meta=meta))
     static_content = article_en_template.render(content=content, meta=meta, base_url=base_url)
     (output_path / 'en' / 'texts' / meta.slug).mkdir(parents=True, exist_ok=True)
@@ -152,7 +157,7 @@ for bib_path in bib_items:
         text = f.read()
     content = md.convert(text)
     meta = MetaData.from_markdown(md.Meta)
-    insert_tags(meta)
+    insert_tags(meta, lang='de')
     bib_articles.append(Article(content=content, meta=meta))
 
 ################### pages
@@ -203,15 +208,22 @@ static_content = index_en_template.render(content=content, meta=meta, base_url=b
 with open(output_path / 'en' / 'index.html', mode='w', encoding='utf-8') as f:
     f.write(static_content)
 
-#################### tags
-static_content = tags_template.render(tags=tags.items(), meta=MetaData.empty(), base_url=base_url)
+#################### themen
+static_content = topics_template.render(tags=tags.items(), meta=MetaData.empty(), base_url=base_url)
 (output_path / 'themen').mkdir(exist_ok=True)
 with open(output_path / 'themen' / 'index.html', mode='w', encoding='utf-8') as f:
     f.write(static_content)
 
+#################### topics
+static_content = topics_en_template.render(tags=tags_en.items(), meta=MetaData.empty(), base_url=base_url)
+(output_path / 'en' / 'topics').mkdir(exist_ok=True)
+with open(output_path / 'en' / 'topics' / 'index.html', mode='w', encoding='utf-8') as f:
+    f.write(static_content)
+
 #################### sitemap
 sitemap_entries.append(SitemapEntry(url=base_url, date=datetime.now().isoformat(), freq='daily'))
-sitemap_entries.append(SitemapEntry(url=base_url + 'tags/', date=datetime.now().isoformat(), freq='daily'))
+sitemap_entries.append(SitemapEntry(url=base_url + 'themen/', date=datetime.now().isoformat(), freq='daily'))
+sitemap_entries.append(SitemapEntry(url=base_url + 'en/topics/', date=datetime.now().isoformat(), freq='daily'))
 for page in regular_pages:
     sitemap_entries.append(SitemapEntry(url=base_url + f'{page}/', date=datetime.now().isoformat()))
 for text_article in sorted(text_articles, key=lambda article: article.meta.datetime or False, reverse=True):

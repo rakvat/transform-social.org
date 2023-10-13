@@ -61,4 +61,4 @@ Einige Beispiele:
 
 ----
 
-(A)lle [Texte](/texte/), (A)lle [Themen](/themen/).
+Alle [Texte](/texte/), Alle [Themen](/themen/).

@@ -54,4 +54,4 @@ Some examples:
 
 ----
 
-(A)ll [Texts](/en/texts/), (A)lle [Topics](/themen/).
+All [Texts](/en/texts/), All [Topics](/en/topics/).
