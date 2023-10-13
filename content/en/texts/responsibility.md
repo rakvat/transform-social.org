@@ -45,20 +45,20 @@ Some people might say that you do not need structure, you need a common vision, 
 Of course, some arbitrary structure or rules don't solve everything. There need to be rules created through a consensus based process by the group itself and they need to be embedded in a culture of responsibility, respect and separation. The following paragraphs go into details of these aspects required for anarchist structures.
 
 
-1) Rules: Collectively deciding on rules might be a difficult process that requires a deep understanding of diverse perspectives and needs.
+1. Agreements: Collectively deciding on rules might be a difficult process that requires a deep understanding of diverse perspectives and needs.
 
-2) Responsibility, Reliability, Respect, Reflection: Some members of the group might not always act according to their own rules. Handling these situations requires a mutual understanding in how to overcome the dynamics of judgments and create a culture of responsibility, support, and learning.
+2. Responsibility, Reliability, Respect, Reflection: Some members of the group might not always act according to their own rules. Handling these situations requires a mutual understanding in how to overcome the dynamics of judgments and create a culture of responsibility, support, and learning.
 
-3) Separation: When the efforts to make decisions or to resolve conflicts repeatedly fail and external support does not help, separation can be a fair decision.
+3. Separation: When the efforts to make decisions or to resolve conflicts repeatedly fail and external support does not help, separation can be a fair decision.
 
-### 1) Agreements
+### 1. Agreements
 
 In anarchist contexts we a need special kind of rules or agreements: As there is no authority to watch over compliance, the group has to take the responsibility for their rules itself. That works best if everyone is involved in the decision making process. Rules need to be agreed on together, they need to be self-made and everyone needs to feel heard. Many anarchist groups use variations of the formal consensus decision-making process to ensure that everyone's needs are heard. There are books like "On Conflict and Consensus" that explain the process. Consensus is more than a process or method. It requires a culture of listening and understanding and process evaluation. Otherwise, vetos might be misused as a power instrument.
 
 I think it is important that decisions made by the group are recorded in a book or other medium. Nevertheless, these decisions should be evaluated and maybe changed from time to time. This should not be done by an individual by simply ignoring the rule but by the group discussing the old decision and possibly changing it. Thus, the set of current decisions of the group is allowed to change, evolve and transform together with the group. It might even shrink to some basic rules as the group gets to know each other better.
 
 
-### 2) Responsibility and Reliability, Respect and Reflection
+### 2. Responsibility and Reliability, Respect and Reflection
 
 These rules are only worth the time needed to agree on them as a group if the group takes the responsibility to stick to them. This means to speak up when rules are not respected even if no one was hurt. I think it is quite disrespectful to ourselves if we ignore our own rules.
 
@@ -71,7 +71,7 @@ Talk about everything? No, but if at least one person does not feel comfortable,
 Taking responsibility as individuals and as a group, for the rules, that we have created is not only respectful but also a requirement for an atmosphere of reliability. Reliability is needed for many people to feel safe. Reliability is also a source of trust.
 
 
-### 3) Separation
+### 3. Separation
 
 And what if people do not act according to rules if decisions can't be made and conflicts cannot be resolved? What if all methods of talking, support from internal and external people with mediation or other methods do not change the situation? This does not mean that anarchist ways of organizing are failing but that there need to be structured and consensus-based processes of separation between individuals and groups that allow them to develop and coexist in separate projects instead of slowly destroying their group culture by ignoring their own rules and responsibilities.
 

@@ -2,7 +2,7 @@
 
 <div class="w3-row">
   <div class="w3-half">
-    <p>von {{article.meta.author}}, {{article.meta.year_month}}</p>
+    <p>{{article.meta.author}}, {{article.meta.year_month}}</p>
     <p>{{article.meta.summary}}</p>
     <br>
     <p>
@@ -11,14 +11,14 @@
       </a>
     </p>
     {% if article.meta.tags %}
-      <p><b>Schlagwörter:</b> {{article.meta.tags|join(", ")}}</p>
+      <p><b>{{l10n['keywords']}}:</b> {{article.meta.tags|join(", ")}}</p>
     {% endif %}
     <br/>
   </div>
 
   <div class="w3-half article-short-catchphrases">
     {% if article.meta.catchphrases %}
-      <b>Zitate:</b>
+      <b>{{l10n['quotes']}}:</b>
       {% for cp in article.meta.catchphrases %}
         <p><i>{{cp}}</i></p>
       {% endfor %}
@@ -27,6 +27,6 @@
 </div>
 
 <div class="w3-row">
-  <a href="{{article_url}}" >&rarr; Kompletter Text</a>
+  <a href="{{article_url}}" >&rarr; {{l10n['full_text']}}</a>
 </div>
 <hr/>
