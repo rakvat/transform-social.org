@@ -56,6 +56,8 @@ else
 	$(PELICAN) -lr $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 endif
 
+deploy_htaccess:
+	scp -r output/.htaccess pelican@transform-social.org@ssh.strato.de:
 deploy:
 	scp -r output/* pelican@transform-social.org@ssh.strato.de:
 
