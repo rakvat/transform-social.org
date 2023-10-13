@@ -753,7 +753,7 @@ Overview of the presented ideas and their functionality in the VSM:
 
 [PDF version of the text](/documents/tools_for_emancipatory_societies.pdf)
 
-[Previous Text about the History of Cybernetics and Project CyberSyn](/texte/cybersyn/)
+[Previous Text about the History of Cybernetics and Project CyberSyn](/en/texts/cybersyn/)
 
 
 One of the simulations:

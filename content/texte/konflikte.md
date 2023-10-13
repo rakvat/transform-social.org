@@ -23,7 +23,7 @@ Das Folgende ist eine Sammlung von älteren Texten und Materialien zu den Themen
 
 <a href="/documents/konfliktklaerung.pdf" target="__blank">Dies</a> ist ein eines Rahmen des Hausprojekts entwickelter Plan zur Konfliktklärung in Stufen. Je nach Ausmaß des Konflikts sind andere Maßnahmen notwendig. Eine Vereinbarung, sich in Konflikten entsprechend eines solchen Konfliktplans zu verhalten, kann im Zweifelsfall Halt und Sicherheit für ein Projekt geben.
 
-Der Text [Anarchy and Responsibility](/texte/responsibility/) beschäftigt sich auch mit der Wichtigkeit von Trennungsprozessen.
+Der Text [Anarchy and Responsibility](/en/texts/responsibility/) beschäftigt sich auch mit der Wichtigkeit von Trennungsprozessen.
 
 ## Gewaltfreie Kommunikation
 

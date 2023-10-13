@@ -8,7 +8,7 @@ Slug: index
 *transform-social* is about the possibilities of transforming into more social, more solidary,
 more free, and less coercive societies.
 
-[Transform into free and solidary societies](/texte/transform/) is an overview article including
+[Transform into free and solidary societies](/en/texts/transform/) is an overview article including
 criticism of existing societies, characteristics for free and solidary societies, and ideas on how to get there.
 
 ## <img src="/images/icon.png" alt="transform-social icon"/> Criticism
@@ -18,12 +18,12 @@ The criticism of the existing is a good starting point for problem analysis and 
 
 Capitalism clearly doesn't work. It does not meet the needs of the people and is in permanent crisis.
 
-Capitalism leads to military conflicts, which is criticized in [Antimilitarism](/texte/antimilitarism/).
+Capitalism leads to military conflicts, which is criticized in [Antimilitarism](/en/texts/antimilitarism/).
 
-Capitalism is also one cause of [Racism](/texte/racism/), which is interwoven in
+Capitalism is also one cause of [Racism](/en/texts/racism/), which is interwoven in
 many layers of our current society. This has to change.
 
-[Challenging the one true love](/texte/love/) speculates about how capitalism profits
+[Challenging the one true love](/en/texts/love/) speculates about how capitalism profits
 from heteronormative relationships.
 
 ## <img src="/images/icon.png" alt="transform-social icon"/> Utopias
@@ -32,9 +32,9 @@ What could transformations develop into? What would more free and more solidary 
 Here, Utopias are defined as feasible and constantly developing concepts to give
 orientation to the transformation.
 
-[CyberSyn](/texte/cybersyn/) describes the cybernetic ideas for the economy of Chile in 1971-1973.
+[CyberSyn](/en/texts/cybersyn/) describes the cybernetic ideas for the economy of Chile in 1971-1973.
 
-[Tools for Emancipatory Societies](/texte/tools/) is a lengthy text about the requirements and tools
+[Tools for Emancipatory Societies](/en/texts/tools/) is a lengthy text about the requirements and tools
 for free and solidary societies.
 
 ## <img src="/images/icon.png" alt="transform-social icon"/> Steps towards Transformation
@@ -49,8 +49,8 @@ as prefigurative politics and sometimes just lived.
 
 Some examples:
 
-- [Anarchy and Responsibility](/texte/responsibility/) is about tackling conflicts in intentional communities
-- [Rethinking Relationships](/texte/relationships/) is about the rejection of relationship norms
+- [Anarchy and Responsibility](/en/texts/responsibility/) is about tackling conflicts in intentional communities
+- [Rethinking Relationships](/en/texts/relationships/) is about the rejection of relationship norms
 
 ----
 

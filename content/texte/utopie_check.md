@@ -119,7 +119,7 @@ Trotz der inneren Widerstände ist es für den Diskussionsprozess
 zu Utopien wichtig, den aktuellen Stand der utopischen Überlegungen temporär festzuhalten, um sich konstruktiv und solidarisch austauschen und kritisieren zu können. So können Utopien sich weiter entwickeln.
 
 **Gewaltfalle**: Verwandt mit der Zeitdruckfalle ist die Gewaltfalle. Sie birgt die Gefahr, durch „nur temporäre“ autoritäre Maßnahmen, ein autoritäres Regime zu installieren.
-(Zu den Gefahren von Militarismus, siehe auch [Antimilitarismus](/texte/antimilitarism/) (engl.)). Viele Anarchist\*innen sagen, dass das Ziel in den Mitteln anwesend sein muss, dass also eine gewaltarme Gesellschaft nicht
+(Zu den Gefahren von Militarismus, siehe auch [Antimilitarismus](/en/texts/antimilitarism/) (engl.)). Viele Anarchist\*innen sagen, dass das Ziel in den Mitteln anwesend sein muss, dass also eine gewaltarme Gesellschaft nicht
 durch gewaltvolle Mittel herbeigeführt werden kann. Andererseits besteht im Zusammenhang mit der Gewaltfrage (wann ist welche Form von Gewalt gerechtfertigt) die Gefahr der Spaltung emanzipatorischer Strömungen.
 Wie auch bei vielen anderen Themen, kann durch die Frage „ist ein Nebeneinander verschiedener Ansätze praktikabel?“ diskutiert werden, was möglich ist.
 
@@ -346,7 +346,7 @@ Nun wende ich die vier Schritte zur Entwicklung einer Utopie am Beispiel einer a
 **1. Strukturelle Kritik**: Aus anarchistischer Perspektive werden alle Strukturen, denen Herrschaft, Ausbeutung oder Ausgrenzung innewohnt, kritisiert.
 Rassismus und Patriarchat sind Beispiele dafür, wie Herrschaftsstrukturen sich über viele Jahrhunderte so verfestigt haben, dass sie tief in unser
 Denken und auch in staatliche und gesellschaftliche Strukturen verankert sind. Mehr zu den vielfältigen Weisen, in denen Rassismus herrschaftsförmig
-wirkt, findest du [hier](/texte/racism/).
+wirkt, findest du [hier](/en/texts/racism/).
 
 Kapitalismus ist eine Herrschaftsstruktur, die sich auf den staatlichen Schutz von Eigentum stützt, und auf Leistungs- und Wettbewerbsprinzipien
 beruht. Kapitalismus verursacht soziale Ungleichheit, Armut und die Klimakrise und ist damit nicht nur als Herrschaftsstruktur, sondern auch als
@@ -701,7 +701,7 @@ schnell erfolgen, da sehr viele hinter der Entscheidung stehen und sie daher nic
 Theoretisch analysiert, warum Gesellschaften zu komplex sind, um mit Zentralregierungen effizient gesteuert zu werden,
 und warum vernetzte dezentrale Systeme mit planetaren Informationskanälen zweckmäßiger und anpassungsfähiger agieren
 können, hat z.B. Stafford Beer in „organizational cybernetics“. Mehr dazu findest du in diesem
-englischsprachigen Text zur [Kybernetik und CyberSyn](/texte/cybersyn/). Dort wird auch das folgende Bild,
+englischsprachigen Text zur [Kybernetik und CyberSyn](/en/texts/cybersyn/). Dort wird auch das folgende Bild,
 das Merkmale effizienter dezentraler Organisation illustriert, näher erläutert.
 
 <center><img src="/images/cybersyn_vsm.jpg" alt="Illustration von effizienter Organisation nach Stafford Beer"/></center>

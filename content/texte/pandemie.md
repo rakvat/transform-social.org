@@ -8,7 +8,7 @@ Summary: Ein Dialog über Ideen zu herrschaftsarmer Pandemieeindämmung.
 Catchphrases: Und überhaupt - was ist das eigentlich für ein Scheißsystem, bei dem wegen nem Virus eine Wirtschaftskrise droht?
 
 *Der Inhalt wurde in zwei Schreibstilen als zwei getrennte Texte verfasst, um mehr Leuten Zugang zu ermöglichen.
-Die zweite, englische Variante ist [hier](/texte/pandemic/).*
+Die zweite, englische Variante ist [hier](/en/texts/pandemic/).*
 
 # Corona geht auch besser
 

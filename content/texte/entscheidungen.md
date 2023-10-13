@@ -11,7 +11,7 @@ Catchphrases: Vereinbarungen und die gemeinsame Übernahme von Verantwortung sin
 
 ## Über die Notwendigkeit von Vereinbarungen
 
-Um anarchistische Projekte zu starten und langfristig erhalten zu können, sind Vereinbarungen notwendig. Einige Leute meinen, dass sich alles im Flow ergibt, dass Vereinbarungen kaum möglich seien, da die Bedingungen und Bedürfnisse sich sowieso ständig ändern würden. [Anarchy and Responsibility](/texte/responsibility/) beschreibt näher, warum die Abwesenheit von Vereinbarungen zu informellen Hierarchien und zur Dominanz der Stärkeren führt und daher anarchistische Strukturen untergräbt. Vereinbarungen und die gemeinsame Übernahme von Verantwortung sind eine wichtige Basis für gegenseitiges Vertrauen sowie hierarchiearme und solidarische Strukturen.
+Um anarchistische Projekte zu starten und langfristig erhalten zu können, sind Vereinbarungen notwendig. Einige Leute meinen, dass sich alles im Flow ergibt, dass Vereinbarungen kaum möglich seien, da die Bedingungen und Bedürfnisse sich sowieso ständig ändern würden. [Anarchy and Responsibility](/en/texts/responsibility/) beschreibt näher, warum die Abwesenheit von Vereinbarungen zu informellen Hierarchien und zur Dominanz der Stärkeren führt und daher anarchistische Strukturen untergräbt. Vereinbarungen und die gemeinsame Übernahme von Verantwortung sind eine wichtige Basis für gegenseitiges Vertrauen sowie hierarchiearme und solidarische Strukturen.
 
 ## Konsens
 
@@ -113,4 +113,4 @@ Gibt es nach den 6 Treffen immer noch keine Lösung, bleibt immer noch Mediation
 ---
 In diesem Vorschlag für einen Entscheidungsprozess ist von "Vertrauenspersonen" die Rede. Was das bedeuten kann, kannst du im Text über [Buddy-Systeme](/texte/buddysystem/) nachlesen.
 
-Über Formen der Trennung findest du im Text [Anarchy and Responsibility](/texte/responsibility/) zusätzliche Gedanken.
+Über Formen der Trennung findest du im Text [Anarchy and Responsibility](/en/texts/responsibility/) zusätzliche Gedanken.

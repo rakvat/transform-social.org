@@ -10,7 +10,7 @@ Catchphrases: Dieser multi-theoretische Ansatz soll akzeptierende und konkurrenz
 
 Dies ist eine Weiterentwicklung der Ideen von diesen beiden Texten:
 
-- [Transform into Free and Solidary Societies](/texte/transform/) (English)
+- [Transform into Free and Solidary Societies](/en/texts/transform/) (English)
 - [Dezentrale Utopien und globale Herausforderungen](/texte/utopie/)
 
 Dieser Text wurde mit dem Ziel geschrieben, eine Utopie auf einer Seite zu erklären:
