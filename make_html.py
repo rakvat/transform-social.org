@@ -7,6 +7,7 @@ from markdown import Markdown
 from pathlib import Path
 from collections import defaultdict
 
+
 @dataclass(slots=True)
 class MetaData:
     slug: str
@@ -39,18 +40,6 @@ class MetaData:
                 return datetime.strftime(datetime.strptime(self.date, '%Y/%m'), '%Y/%m')
             except ValueError:
                 return datetime.strftime(datetime.strptime(self.date, '%Y'), '%Y')
-
-    @property
-    def datetime(self):
-        if not self.date:
-            return None
-        try:
-            return datetime.strptime(self.date, '%Y/%m/%d')
-        except ValueError:
-            try:
-                return datetime.strptime(self.date, '%Y/%m')
-            except ValueError:
-                return datetime.strptime(self.date, '%Y')
 
 
     @classmethod
@@ -245,18 +234,19 @@ with open(output_path / 'en' / 'topics' / 'index.html', mode='w', encoding='utf-
     f.write(static_content)
 
 #################### sitemap
-sitemap_entries.append(SitemapEntry(url=base_url, date=datetime.now().isoformat(), freq='daily'))
-sitemap_entries.append(SitemapEntry(url=base_url + 'en/', date=datetime.now().isoformat(), freq='daily'))
-sitemap_entries.append(SitemapEntry(url=base_url + 'themen/', date=datetime.now().isoformat(), freq='daily'))
-sitemap_entries.append(SitemapEntry(url=base_url + 'en/topics/', date=datetime.now().isoformat(), freq='daily'))
+NOW = datetime.strftime(datetime.now(), '%Y-%m-%d')
+sitemap_entries.append(SitemapEntry(url=base_url, date=NOW, freq='daily'))
+sitemap_entries.append(SitemapEntry(url=base_url + 'en/', date=NOW, freq='daily'))
+sitemap_entries.append(SitemapEntry(url=base_url + 'themen/', date=NOW, freq='daily'))
+sitemap_entries.append(SitemapEntry(url=base_url + 'en/topics/', date=NOW, freq='daily'))
 for page in regular_pages:
-    sitemap_entries.append(SitemapEntry(url=base_url + f'{page}/', date=datetime.now().isoformat()))
+    sitemap_entries.append(SitemapEntry(url=base_url + f'{page}/', date=NOW))
 for page in regular_pages_en:
-    sitemap_entries.append(SitemapEntry(url=base_url + f'en/{page}/', date=datetime.now().isoformat()))
-for text_article in sorted(text_articles, key=lambda article: article.meta.datetime or False, reverse=True):
-    sitemap_entries.append(SitemapEntry(url=base_url + f'texte/{text_article.meta.slug}/', date=text_article.meta.datetime.isoformat() if text_article.meta.datetime else datetime.now().isoformat()))
-for text_article in sorted(text_articles_en, key=lambda article: article.meta.datetime or False, reverse=True):
-    sitemap_entries.append(SitemapEntry(url=base_url + f'en/texts/{text_article.meta.slug}/', date=text_article.meta.datetime.isoformat() if text_article.meta.datetime else datetime.now().isoformat()))
+    sitemap_entries.append(SitemapEntry(url=base_url + f'en/{page}/', date=NOW))
+for text_article in sorted(text_articles, key=lambda article: article.meta.date or False, reverse=True):
+    sitemap_entries.append(SitemapEntry(url=base_url + f'texte/{text_article.meta.slug}/', date=NOW))
+for text_article in sorted(text_articles_en, key=lambda article: article.meta.date or False, reverse=True):
+    sitemap_entries.append(SitemapEntry(url=base_url + f'en/texts/{text_article.meta.slug}/', date=NOW))
 
 static_content = sitemap_template.render(sitemap_entries=sitemap_entries)
 with open(output_path / 'sitemap.xml', mode='w', encoding='utf-8') as f:
