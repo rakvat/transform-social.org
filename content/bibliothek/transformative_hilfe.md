@@ -2,7 +2,7 @@ Slug: transformative_hilfe
 Date: 2009
 Summary: 3
 Title: Gedanken über gemeinschaftliche Hilfe in Fällen von intimer Gewalt
-Url: http://transformation.blogsport.de/images/TransformativeHilfe.pdf
+Url: https://www.transformativejustice.eu/wp-content/uploads/2010/11/TransformativeHilfe.pdf
 Type: bibliothek
 Language: Deutsch
 Tags: Konflikte, Organisation

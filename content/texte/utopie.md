@@ -73,7 +73,7 @@ Planspiele können z. B. so aussehen, dass zwei Leute die Spielkoordination übe
 2. Sutterlütti/Meretz, Kapitalismus aufheben, 2018
 3. <a href="https://www.graswurzel.net/gwr/2005/07/freiheit-und-anarchie/" target="__blank">Freiheit und Anarchie</a>
 4. <a href="http://www.schattenblick.de/infopool/medien/altern/gras1904.html" target="__blank">Institutionen</a>
-5. <a href="http://transformation.blogsport.de/images/TransformativeHilfe.pdf" target="__blank">transformation.blogsport.de</a>
+5. <a href="https://www.transformativejustice.eu/wp-content/uploads/2010/11/TransformativeHilfe.pdf" target="__blank">transformativejustice.eu</a>
 6. Albert, Leben nach dem Kapitalismus, 2006
 7. <a href="https://keimform.de/2019/gesellschaft-nach-dem-geld-den-commonismus-simulieren/" target="__blank">Commonismus simulieren</a>
 8. P.M., bolo‘bolo, 1983
