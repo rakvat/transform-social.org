@@ -10,4 +10,13 @@
       {% endwith %}
     {% endfor %}
   {% endif %}
+
+
+  {% if meta.slug == 'library' %}
+    {% for article in articles|sort(attribute="meta.date", reverse=True) if article.meta.type == 'library' %}
+      {% with l10n={"keywords": "Keywords", "quotes": "Quotes"} %}
+        {% include 'bib_entry.html' %}
+      {% endwith %}
+    {% endfor %}
+  {% endif %}
 {% endblock %}

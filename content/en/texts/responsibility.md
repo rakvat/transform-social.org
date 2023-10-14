@@ -3,7 +3,7 @@ Date: 2015/07
 Title: Anarchy and Responsibility
 Author: Katja
 Type: text
-Tags: Anarchy, Responsibility, Consensus, Separation, Organization
+Tags: Anarchy, Responsibility, Consensus, Separation, Organization, Conflicts
 Summary: If you want to be part of a consensus-based anarchist project you should discuss in that group what being responsible for the decisions you made and the rules you agreed upon really means. This includes talking about processes of conflict resolution and separation.
 Catchphrases: These rules are only worth the time needed to agree on them as a group if the group takes the responsibility to stick to them.|The idea of anarchist societies is not based on the idea of all people wanting the same, but on the idea of decentral groups each acting in their way as long as it does not affect others. In such a society separation from one group and joining an other or even traveling through some groups would not be a sign of failure of the first group or the individual but a chance for personal and group development.
 

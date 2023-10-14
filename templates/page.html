@@ -18,7 +18,9 @@
 
   {% if meta.slug == 'bibliothek' %}
     {% for article in articles|sort(attribute="meta.date", reverse=True) if article.meta.type == 'bibliothek' %}
-      {% include 'bib_entry.html' %}
+      {% with l10n={"keywords": "Schlagwörter", "quotes": "Zitate"} %}
+        {% include 'bib_entry.html' %}
+      {% endwith %}
     {% endfor %}
   {% endif %}
 {% endblock %}

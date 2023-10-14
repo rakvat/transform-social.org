@@ -1,11 +1,9 @@
 Slug: bolobolo
-Date: 1990
-Summary: 2
+Date: 1983
 Title: Bolo'bolo
 Author: p.m.
-Url: https://files.libcom.org/files/bolo%27bolo%20(30th%20Anniversary%20Edition).pdf
+Url: https://www.tuneful.at/elixier/media/bolobolo.pdf
 Type: bibliothek
-Language: Deutsch, available in other languages
 Tags: Utopie, Organisation, Entwurf
 Catchphrases: Wir leben nur 70 Jahre und Wünsche sind dazu da, noch in einer nahen Zukunft, sagen wir bis 1987, verwirklicht zu werden.|Wenn ein ibu weit reisen will, wird es sich zum nächsten Bahnhof der interkontinentalen Eisenbahn, die von einer Kommission des asa'dala betrieben wird, begeben. Ihr Schienennetz sieht so aus.
 

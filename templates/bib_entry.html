@@ -2,49 +2,28 @@
 
 <h5>{{article.meta.title}}</h5>
 
-{% if article.meta.author %}
-  <p>von {{article.meta.author}}</p>
-{% endif %}
-
-<div class="row" >
-  <div class="col-lg-2 col-md-2 col-xs-12" >
-    <a href={{article.meta.url}} target="__blank">&rarr; Link</a>
-  </div>
-
-  <div class="col-lg-4 col-md-4 col-xs-12" >
-    {% if article.meta.date %}
-    <b>Datum:</b> {{article.meta.year_month}}
+<div class="w3-row">
+  <div class="w3-half">
+    {% if article.meta.author %}
+      <p>{{article.meta.author}}, {{article.meta.year_month}}</p>
+    {% else %}
+      <p>{{article.meta.year_month}}</p>
     {% endif %}
-  </div>
-
-  <div class="col-lg-4 col-md-4 col-xs-12" >
-    {% if article.meta.language %}
-    <b>Sprache:</b> {{article.meta.language}}
-    {% endif %}
-  </div>
-
-  <div class="col-lg-6 col-md-6 col-xs-12" >
+    <p><a href={{article.meta.url}} target="__blank">&rarr; Link</a></p>
     {% if article.meta.tags %}
-      <b>Schlagwörter:</b> {{article.meta.tags|join(", ")}}
+      <p><b>{{l10n['keywords']}}:</b> {{article.meta.tags|join(", ")}}</p>
     {% endif %}
-  </div>
-</div>
-
-<br>
-<br>
-
-<div class="row" >
-  <div class="col-lg-7 col-md-7 col-xs-12" >
-    {{article.content}}
+    <p>{{article.content}}</p>
   </div>
 
-  <div class="col-lg-5 col-md-5 col-xs-12" >
+  <div class="w3-half article-short-catchphrases">
     {% if article.meta.catchphrases %}
-      <b>Zitate:</b>
+      <b>{{l10n['quotes']}}:</b>
       {% for cp in article.meta.catchphrases %}
         <p><i>{{cp}}</i></p>
       {% endfor %}
     {% endif %}
   </div>
 </div>
+
 <hr/>

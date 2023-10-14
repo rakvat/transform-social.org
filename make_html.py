@@ -104,6 +104,20 @@ tags = defaultdict(list)
 tags_en = defaultdict(list)
 sitemap_entries = []
 
+ALTERNATES = {
+    "index": {"de": "", "en": ""},
+    "texts": {"de": "texte/", "en": "texts/"},
+    "texte": {"de": "texte/", "en": "texts/"},
+    "themen": {"de": "themen/", "en": "topics/"},
+    "topics": {"de": "themen/", "en": "topics/"},
+    "links": {"de": "links/", "en": "links/"},
+    "library": {"de": "bibliothek/", "en": "library/"},
+    "bibliothek": {"de": "bibliothek/", "en": "library/"},
+    "wasistdas": {"de": "wasistdas/", "en": "about/"},
+    "about": {"de": "wasistdas/", "en": "about/"},
+}
+
+
 def insert_tags(meta: MetaData, lang: str):
     if not meta.tags:
         return
@@ -149,7 +163,7 @@ for text_path in texts_en:
     with open(output_path / 'en' / 'texts'/ meta.slug / 'index.html', mode='w', encoding='utf-8') as f:
         f.write(static_content)
 
-################### bib
+################### library
 bib_items = (content_path / 'bibliothek').glob('*')
 bib_articles: list[Article] = []
 for bib_path in bib_items:
@@ -160,6 +174,17 @@ for bib_path in bib_items:
     insert_tags(meta, lang='de')
     bib_articles.append(Article(content=content, meta=meta))
 
+################### library en
+bib_items_en = (content_path / 'en' / 'library').glob('*')
+bib_articles_en: list[Article] = []
+for bib_path in bib_items_en:
+    with open(bib_path, mode='r', encoding='utf-8') as f:
+        text = f.read()
+    content = md.convert(text)
+    meta = MetaData.from_markdown(md.Meta)
+    insert_tags(meta, lang='en')
+    bib_articles_en.append(Article(content=content, meta=meta))
+
 ################### pages
 regular_pages = ['wasistdas', 'links', 'bibliothek', 'texte']
 for page in regular_pages:
@@ -168,23 +193,22 @@ for page in regular_pages:
     content = md.convert(text)
 
     meta = MetaData.from_markdown(md.Meta)
-    if page == "texte":
-        static_content = page_template.render(content=content, meta=meta, base_url=base_url, articles = text_articles, alternate = {"de": "texte/", "en": "texts/"})
-    else:
-        static_content = page_template.render(content=content, meta=meta, base_url=base_url, articles = bib_articles)
+    articles = text_articles if page == "texte" else bib_articles if page == "bibliothek" else None
+    static_content = page_template.render(content=content, meta=meta, base_url=base_url, articles = articles, alternate = ALTERNATES[page])
     (output_path / page).mkdir(exist_ok=True)
     with open(output_path / page / 'index.html', mode='w', encoding='utf-8') as f:
         f.write(static_content)
 
 ################### pages en
-regular_pages_en = ['texts']
+regular_pages_en = ['about', 'texts', 'links', 'library']
 for page in regular_pages_en:
     with open(content_path / 'en' / 'pages' / f'{page}.md', mode='r', encoding='utf-8') as f:
         text = f.read()
     content = md.convert(text)
 
     meta = MetaData.from_markdown(md.Meta)
-    static_content = page_en_template.render(content=content, meta=meta, base_url=base_url, articles = text_articles_en, alternate={"de": "texte/", "en": "texts/"})
+    articles = text_articles_en if page == "texts" else bib_articles_en if page == "library" else None
+    static_content = page_en_template.render(content=content, meta=meta, base_url=base_url, articles = articles, alternate=ALTERNATES[page])
     (output_path / 'en' / page).mkdir(exist_ok=True)
     with open(output_path / 'en' / page / 'index.html', mode='w', encoding='utf-8') as f:
         f.write(static_content)
@@ -194,7 +218,7 @@ with open(content_path / 'index.md', mode='r', encoding='utf-8') as f:
     text = f.read()
 content = md.convert(text)
 meta = MetaData.from_markdown(md.Meta)
-static_content = index_template.render(content=content, meta=meta, base_url=base_url, alternate=" ")
+static_content = index_template.render(content=content, meta=meta, base_url=base_url, alternate=ALTERNATES['index'])
 with open(output_path / 'index.html', mode='w', encoding='utf-8') as f:
     f.write(static_content)
 
@@ -203,19 +227,19 @@ with open(content_path / 'en' / 'index.md', mode='r', encoding='utf-8') as f:
     text = f.read()
 content = md.convert(text)
 meta = MetaData.from_markdown(md.Meta)
-static_content = index_en_template.render(content=content, meta=meta, base_url=base_url, alternate="")
+static_content = index_en_template.render(content=content, meta=meta, base_url=base_url, alternate=ALTERNATES['index'])
 (output_path / 'en').mkdir(exist_ok=True)
 with open(output_path / 'en' / 'index.html', mode='w', encoding='utf-8') as f:
     f.write(static_content)
 
-#################### themen
-static_content = topics_template.render(tags=tags.items(), meta=MetaData.empty(), base_url=base_url)
+#################### topics
+static_content = topics_template.render(tags=tags.items(), meta=MetaData.empty(), base_url=base_url, alternate=ALTERNATES['topics'])
 (output_path / 'themen').mkdir(exist_ok=True)
 with open(output_path / 'themen' / 'index.html', mode='w', encoding='utf-8') as f:
     f.write(static_content)
 
-#################### topics
-static_content = topics_en_template.render(tags=tags_en.items(), meta=MetaData.empty(), base_url=base_url)
+#################### topics en
+static_content = topics_en_template.render(tags=tags_en.items(), meta=MetaData.empty(), base_url=base_url, alternate=ALTERNATES['topics'])
 (output_path / 'en' / 'topics').mkdir(exist_ok=True)
 with open(output_path / 'en' / 'topics' / 'index.html', mode='w', encoding='utf-8') as f:
     f.write(static_content)
