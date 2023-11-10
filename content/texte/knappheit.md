@@ -5,7 +5,7 @@ Author: Katja
 Type: text
 Tags: Wirtschaft, Anarchie, Knappheit, Entwurf
 Summary: Eine kurze Geschichte zur besseren Vorstellbarkeit anarchistischen Wirtschaftens bei Knappheit.
-Catchphrases: Die anarchistische Utopie ist nicht darauf angewiesen, dass alles im Überfluss verfügbar ist. | Die Wasserzähler von vor der Revolution funktionierten nicht mehr richtig, da sich lange kein Mensch darum gekümmert hatte - schließlich war Wasser wie alles andere grundsätzlich frei zugänglich und die Verbrauchsmessung daher zunächst irrelevant. | Bo musste sich um nichts weiter kümmern.
+Catchphrases: Die anarchistische Utopie ist nicht darauf angewiesen, dass alles im Überfluss verfügbar ist. | Es hatte sich lange kein Mensch mehr um die Wasserzähler gekümmert – schließlich war Wasser wie alles andere grundsätzlich frei zugänglich und die Verbrauchsmessung daher zunächst irrelevant. | Bo musste sich um nichts weiter kümmern.
 
 *Da theoretische und abstrakte Erklärungen über die Eigenschaften und Möglichkeiten anarchistischen Wirtschaftens oft schwammig, unklar, schwer vorstellbar und für manche langweilig bleiben, habe ich einige Ideen zu anarchistischem Wirtschaften hier in eine kurze Geschichte gesteckt. Die anarchistische Utopie ist nicht darauf angewiesen, dass alles im Überfluss verfügbar ist.*
 
