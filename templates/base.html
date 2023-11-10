@@ -3,7 +3,7 @@
   <head>
     {% set base_url %}https://transform-social.org/{% endset %}
     <title>{% block title %}Transform Social{% endblock %}</title>
-    {% if alternate is defined %}
+    {% if alternate is defined and alternate != None %}
       <link rel="alternate" href="{{base_url}}{{alternate['de']}}" hreflang="de"/>
       <link rel="alternate" href="{{base_url}}en/{{alternate['en']}}" hreflang="en"/>
     {% endif %}

@@ -106,6 +106,11 @@ ALTERNATES = {
     "about": {"de": "wasistdas/", "en": "about/"},
 }
 
+ALTERNATE_TEXTS = {
+    "scarcity": {"de": "texte/knappheit/", "en": "texts/scarcity/"},
+    "knappheit": {"de": "texte/knappheit/", "en": "texts/scarcity/"},
+}
+
 
 def insert_tags(meta: MetaData, lang: str):
     if not meta.tags:
@@ -132,7 +137,7 @@ for text_path in texts:
     meta = MetaData.from_markdown(md.Meta)
     insert_tags(meta, lang='de')
     text_articles.append(Article(content=content, meta=meta))
-    static_content = article_template.render(content=content, meta=meta, base_url=base_url)
+    static_content = article_template.render(content=content, meta=meta, base_url=base_url, alternate = ALTERNATE_TEXTS.get(meta.slug))
     (output_path / 'texte' / meta.slug).mkdir(parents=True, exist_ok=True)
     with open(output_path / 'texte'/ meta.slug / 'index.html', mode='w', encoding='utf-8') as f:
         f.write(static_content)
@@ -147,7 +152,7 @@ for text_path in texts_en:
     meta = MetaData.from_markdown(md.Meta)
     insert_tags(meta, lang='en')
     text_articles_en.append(Article(content=content, meta=meta))
-    static_content = article_en_template.render(content=content, meta=meta, base_url=base_url)
+    static_content = article_en_template.render(content=content, meta=meta, base_url=base_url, alternate = ALTERNATE_TEXTS.get(meta.slug))
     (output_path / 'en' / 'texts' / meta.slug).mkdir(parents=True, exist_ok=True)
     with open(output_path / 'en' / 'texts'/ meta.slug / 'index.html', mode='w', encoding='utf-8') as f:
         f.write(static_content)
