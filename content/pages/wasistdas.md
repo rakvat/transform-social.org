@@ -61,14 +61,42 @@ Deshalb ist es meiner Meinung nach notwendig, die Transformation in solidarische
 
 ### Warum keine Revolution?
 
-Ich bin aus zwei Gründen skeptisch, ob eine Revolution (im Sinne eines plötzlichen Umsturzes) funktionieren könnte. Erstens, sind die Staaten heute sowohl was Überwachung als auch was Waffen angeht, so weit aufgerüstet, dass ein plötzlicher Umsturz mir kaum realistisch erscheint. Zweitens sind meiner Meinung nach für den Aufbau anarchistischer Gesellschaften einige Grundlagen notwendig. Bei einem plötzlichen Umsturz ohne diese Grundlagen könnte die Revolution in sich selbst zusammenbrechen. Die Entwicklung dieser Grundlagen könnte als Transformation bezeichnet werden.
-Mit Grundlagen meine ich sowohl das Aufbauen von Netzwerken, Projekten, Organisationen und Ressourcen als auch das Erlernen von Fähigkeiten. Zu letzterem könnten diese Seiten Anregung bieten.
+Ich bin skeptisch, ob eine Revolution, im Sinne eines plötzlichen Umsturzes, funktionieren kann.
+(Und ich will auch nicht auf Reformen durch den Staat warten.)
+Plötzliche Umstürze gehen oft von einer kleinen Gruppe aus, die mit militärischen Mitteln die Macht ergreift.
+Staaten sind heute sowohl was Überwachung als auch was Waffen angeht, so weit aufgerüstet,
+dass mir dies kaum realistisch erscheint.
+Außerdem sollte, um das Entstehen neuer Herrschaftsstrukturen zu vermeiden,
+eine große Mehrheit der Leute mit einer groben Idee von emanzipatorischen Gesellschaften
+basierend auf Werten von Freiheit und Solidarität vertraut sein und diese befürworten.
+(Viele Anarchist\*innnen stimmen darin überein, dass die Methoden, um anarchistischen Gesellschaften
+näher zu kommen, mit anarchistischen Ideen kompatibel sein sollten.)
+Ich denke, dass ein von einer Minderheit ausgeführter plötzlicher Umsturz entweder in sich zusammenbrechen
+oder sich zu einer autoritären Gesellschaft entwickeln würde.
+
+Eine Bewegung einer großen Mehrheit von Menschen, mit einem Konsens von Freiheit und Solidarität, hat bessere
+Chancen, emanzipatorische Transformation zu bewirken. Ich bezeichne schon die Schritte, um zu einer solchen
+Massenbewegung zu kommen, als Transformation.
 
 
 ### Ok, wie funktioniert die Transformation?
 
-Genauso wie es nicht eine festgelegte Form von anarchistischer Gesellschaft gibt, gibt es keinen festgelegen Weg dorthin. Trotzdem ist es wichtig, sich über mögliche Formen auszutauschen, wie Transformation in anarchistische Gesellschaften möglich sein könnte. Denn Kapitalismus ist auf Dauer keine Lösung.
+Damit eine solche Transformation sich entwickelt, kann es hilfreich sein, einige Ressourcen aufzubauen:
+Fähigkeiten lernen und entwickeln, Netzwerke bilden, Projekte und Organisationen, die anarchistische
+Gesellschaften präfigurieren, aufbauen und unterstützen.
+Diese Seiten versuchen zu all dem eine Inspiration zu sein.
 
+Genauso wie es nicht eine festgelegte Form von anarchistischer Gesellschaft gibt,
+gibt es keinen festgelegten Weg dorthin.
+Trotzdem ist es wichtig, sich über mögliche Formen auszutauschen,
+wie Transformation in anarchistische Gesellschaften möglich sein könnte.
+Denn Kapitalismus ist auf Dauer keine Lösung.
+
+
+### Wer schreibt diese Texte?
+
+Die meisten Texte dieser Seite sind von einer Einzelperson (weiß, cis-weiblich, queer) geschrieben,
+in Zusammenwirken oder Diskussion mit anderen.
 
 
 <br>

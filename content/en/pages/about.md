@@ -79,23 +79,40 @@ into more solidary and free societies.
 
 ### Why not a Revolution?
 
-I am skeptical that a revolution (in the sense of a sudden overthrow) could work for two reasons.
-First, the states today are armed, both in terms of surveillance and weapons, to a degree
-that a sudden overthrow hardly seems realistic to me.
-Secondly, in my opinion, some basics are necessary for the construction of anarchist societies.
-In the case of a sudden overthrow without these foundations, the revolution could collapse in on itself.
-The development of these fundamentals could be called transformation.
-By basics, I mean both building networks, projects, organizations, and resources,
-and learning skills. These pages could inspire the latter.
+I am skeptical that a revolution, in the sense of a sudden overthrow, could work.
+(And I'm not suggesting waiting for reforms through the state either.)
+    Sudden overthrows are often based on small groups trying to use military means to gain power.
+States today are armed, both in terms of surveillance and weapons, to a degree
+that this hardly seems realistic to me.
+Also, to avoid creating new power structures, a huge majority of the people should
+be familiar with and agree to a rough idea of emancipatory societies
+based on the values of freedom and solidarity.
+(Many anarchists agree that the methods used to get closer to anarchist societies should be
+compatible with anarchist ideas.)
+I think a sudden overthrow executed by a minority will either collapse in itself or lead to
+an authoritarian society.
+
+A movement of a huge majority of people with some consensus on freedom and solidarity
+has a better chance of creating emancipatory transformation. I'm also calling the steps needed to
+get to this mass movement a transformation.
 
 
 ### Ok, how can Transformation work?
 
-Just as there is not one fixed form of anarchist society, there is not one fixed way to get there.
+For this transformation to happen, it can be helpful to build some resources:
+learn and develop some skills, create networks,
+build and support projects and organizations that prefigure anarchist societies.
+These pages try to be some inspiration for all of this.
+
+Just as there is not one fixed blueprint of an anarchist society, there is not one fixed way to get there.
 Nevertheless, it is important to exchange ideas about possible ways of transformation into
-anarchist societies could be possible. Because capitalism is not a solution in the long run.
+anarchist societies.
+Because capitalism is not a solution in the long run.
 
+### Who is writing these Texts?
 
+Most of the texts on this site are written by a single person (white, cis woman, queer),
+in collaboration or discussion with others.
 
 <br>
 <br>
