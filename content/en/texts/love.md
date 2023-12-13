@@ -102,7 +102,7 @@ Polyamory might not be for everyone but the skills you learn are:
 
 ## More Resources
 
-A newer [text](/en/texts/relationships) about love and relationships.
+A newer [text](/en/texts/relationships/) about love and relationships.
 
 The Ethical Slut is a great introductory book which is reclaiming „slut“ as a sex-positive term:
 

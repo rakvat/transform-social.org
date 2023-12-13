@@ -108,7 +108,7 @@ This can be especially stressful if one of the bodies comes with more privileges
 
 ## More Resources
 
-- A previous short [text](/en/texts/love) about love and relationships
+- A previous short [text](/en/texts/love/) about love and relationships
 
 ### Easy Start
 
