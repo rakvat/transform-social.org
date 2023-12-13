@@ -109,6 +109,8 @@ ALTERNATES = {
 ALTERNATE_TEXTS = {
     "scarcity": {"de": "texte/knappheit/", "en": "texts/scarcity/"},
     "knappheit": {"de": "texte/knappheit/", "en": "texts/scarcity/"},
+    "asylum": {"de": "texte/asyl/", "en": "texts/asylum/"},
+    "asyl": {"de": "texte/asyl/", "en": "texts/asylum/"},
 }
 
 
