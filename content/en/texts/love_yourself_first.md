@@ -26,7 +26,7 @@ This can lead to depression, despair about the own situation, and thus often red
 Does that mean that we can't love someone else? No. It doesn't make any sense to just ignore the world around us to appear happy.
 Let's rather face these issues of the world, society, and ourselves together, in solidarity.
 
-Some mental illnesses can make it very hard for people to fully love themselv. Telling them they can't love someone else is ableist and can further worsen their self-worth.
+Some mental issues can make it very hard for people to fully love themselves. Telling them they can't love someone else is ableist and can further worsen their self-worth.
 There is not one way to love someone anyway and everyone should be allowed to express love in their way without people telling them that this would not be the right way.
 Also, people on the autistic or asexual spectrum will have ways to show love that don't fit the norms. And that's ok.
 What the media tells us about happy romantic relationships is [toxic](/en/texts/love/) anyway.
