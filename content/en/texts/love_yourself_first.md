@@ -9,7 +9,7 @@ Catchphrases: Capitalism and patriarchy tell us that we have to fit certain beau
 
 # Is it true that "You can’t love someone until you learn to love yourself"?
 
-It's not only wrong, but it's also toxic and harmful to say "You can’t love someone until you learn to love yourself" for multiple reasons:
+It's not only wrong, but it's also toxic and hurtful to say "You can’t love someone until you learn to love yourself" for multiple reasons:
 It promotes neoliberal self-responsibility, consumerism, patriarchy, and ableism.
 In one of those end-of-the-year reviews, I heard someone say that they learned in 2023 that they first need to love themselves to love someone else. I decided to finally write something about this, as it made me angry.
 
@@ -28,7 +28,7 @@ Let's rather face these issues of the world, society, and ourselves together, in
 
 Some mental issues can make it very hard for people to fully love themselves. Telling them they can't love someone else is ableist and can further worsen their self-worth.
 There is not one way to love someone anyway and everyone should be allowed to express love in their way without people telling them that this would not be the right way.
-Also, people on the autistic or asexual spectrum will have ways to show love that don't fit the norms. And that's ok.
+Also, people on the autistic or asexual spectrum will have ways to show love that don't fit the norms. And that's okay.
 What the media tells us about happy romantic relationships is [toxic](/en/texts/love/) anyway.
 Everyone has their own ways of expressing love and their own needs of what they would like to receive as love.
 

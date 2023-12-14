@@ -111,6 +111,8 @@ ALTERNATE_TEXTS = {
     "knappheit": {"de": "texte/knappheit/", "en": "texts/scarcity/"},
     "asylum": {"de": "texte/asyl/", "en": "texts/asylum/"},
     "asyl": {"de": "texte/asyl/", "en": "texts/asylum/"},
+    "love_yourself_first": {"de": "texte/selbstliebe/", "en": "texts/love_yourself_first/"},
+    "selbstliebe": {"de": "texte/selbstliebe/", "en": "texts/love_yourself_first/"},
 }
 
 
