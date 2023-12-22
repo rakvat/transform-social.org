@@ -5,19 +5,19 @@ Author: Katja
 Type: text
 Tags: Racism, Oppression, Intersectionality, System
 Summary: Reflecting on racism from a white perspective. Looking at the various forms of oppression that come with racism.
-Catchphrases: It should not be the responsibility of BIPOC to explain racism to white people. | Race does not exist, but race matters. | Racism can lead to severe psychological damage.
+Catchphrases: It should not be the responsibility of BIPoC to explain racism to white people. | Race does not exist, but race matters. | Racism can lead to severe psychological damage.
 
 # Racism
 
-I'm white. I don't know how racism feels. I can't know because I'm not experiencing it. I only know what BIPOC (BIPOC stands for Black, Indigenous, and People of Color) friends tell me from their experiences. So why do I want to write about Racism?
+I'm white. I don't know how racism feels. I can't know because I'm not experiencing it. I only know what BIPoC (BIPoC stands for Black, Indigenous, and People of Color) friends tell me from their experiences. So why do I want to write about Racism?
 
 ## Motivation and Information
 
-1. It should not be the responsibility of BIPOC to explain racism to white people - dealing with all the discrimination is already bad enough. So white people should educate themselves.
-2. White people need to reflect on their privileges to understand all the racism-related power dynamics and to be an ally for BIPOC.
+1. It should not be the responsibility of BIPoC to explain racism to white people - dealing with all the discrimination is already bad enough. So white people should educate themselves.
+2. White people need to reflect on their privileges to understand all the racism-related power dynamics and to be an ally for BIPoC.
 3. The patterns of oppression inherent to racism repeat themselves in other forms of oppression like sexism, heteronormativism, and ableism. Understanding racism well helps understanding oppression in general.
 
-To avoid asking BIPOC all those painful questions over and over, here are some book recommendations on racism:
+To avoid asking BIPoC all those painful questions over and over, here are some book recommendations on racism:
 
 <img height=250 src="/images/racism_oluo.jpg" alt="book cover"><img height=250 src="/images/racism_hasters.jpg" alt="book cover"> <img height=250 src="/images/racism_iws.jpg" alt="book cover">
 
@@ -33,7 +33,7 @@ A Talk from Ijeoma Oluo:
 
 **Race** does not exist, but race matters. (see e.g. <a href="https://www.nationalgeographic.com/magazine/article/race-genetics-science-africa" target="__black">here</a>)
 
-Something is about race IF a BIPOC says it's about race OR it affects BIPOC differently.
+Something is about race IF a BIPoC says it's about race OR it affects BIPoC differently.
 
 
 **Racism** is prejudice about race if it is reinforced by systems of power. (Racism is way more than what Nazis do.)
@@ -67,7 +67,7 @@ There are more subtle forms of individual racism that are less obvious and can s
 **Implicit bias** (unchecked believes) is another form of individual racism.
 
 **Microaggressions** are small everyday situations, that can make the affected person think ”Am I too sensitive?”. Their effect can accumulate as they can happen repeatedly.
-Often, microaggressions are unintentionally delivered. This makes it even more important to learn about microaggressions so that we can stop hurting BIPOC in that way.
+Often, microaggressions are unintentionally delivered. This makes it even more important to learn about microaggressions so that we can stop hurting BIPoC in that way.
 
 Examples of microaggressions:
 
