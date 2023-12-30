@@ -5,7 +5,7 @@ Author: Katja
 Type: text
 Tags: Economy, Decentralized, Cybernetics, Anarchism
 Summary: This article discusses abstract requirements for future societies based on ethical values, concrete organizational foundations for economic and social planning, and required organizational and technical tools. It also shows how the method of simulation can be used as one tool to support (not dominate) anarchist societies.
-Catchphrases: Cybernetics is not about control in the authoritarian sense but about control in the sense of self-regulating and self-organizing, i.e. anti-authoritarian systems. | Decentralization does not mean isolation or rejection of modern technology. | I'm suggesting to use of optimization as an optional tool for multi-level decentralized planning, creating non-coercive suggestions as a decision support tool. | The individualists did not have a huge impact on the solidarity economy.
+Catchphrases: Cybernetics is not about control in the authoritarian sense but about control in the sense of self-regulating and self-organizing, i.e. anti-authoritarian systems. | Decentralization does not mean isolation or rejection of modern technology. | I'm suggesting the use of optimization as an optional tool for multi-level decentralized planning, creating non-coercive suggestions as a decision support tool. | The individualists did not have a huge impact on the solidarity economy.
 
 
 *This text was submitted to a special issue call for papers for "Rethinking Economic Planning" in the Competition and Change journal in December 2022.
@@ -271,7 +271,7 @@ Kantorovich) to this category. The purpose would be to suggest multiple options 
 resource distribution and usage to best fit the needs within given constraints. The people within this
 subsystem could then decide which of these suggestions they want to follow or just discard all of
 the suggestions. In contrast to the central planning applications of optimization proposed by
-Cockshott (1993) et al. and others, I'm suggesting to use of optimization as an optional tool for
+Cockshott (1993) et al. and others, I'm suggesting the use of optimization as an optional tool for
 multi-level decentralized planning, creating non-coercive suggestions as a decision support tool.
 
 The third category of tools supporting free and solidary societies is simulations and other tools
