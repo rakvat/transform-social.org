@@ -5,7 +5,7 @@ Author: Katja
 Type: text
 Tags: Economics, Anarchism
 Summary: This text answers more than 75 frequently asked questions about anarchist economies.
-Catchphrases: The complexity and fagility can be reduced by methods of decentralization and encapsulation, allowing everyone to understand the relevant parts of economics. | The capitalist way of doing economics has led to a severe climate crisis and huge social injustices. | For scarce consumer goods, individuals and communities with a higher need (e.g. medical conditions, regions that suffered more under capitalism) should be preferred in the distribution. | Let's build many anarchist economics oases, bridges, and networks within the capitalist desert until the wildflowers start growing all over.
+Catchphrases: The complexity and fragility can be reduced by methods of decentralization and encapsulation, allowing everyone to understand the relevant parts of economics. | The capitalist way of doing economics has led to a severe climate crisis and huge social injustices. | For scarce consumer goods, individuals and communities with a higher need (e.g. medical conditions, regions that suffered more under capitalism) should be preferred in the distribution. | Let's build many anarchist economics oases, bridges, and networks within the capitalist desert until the wildflowers start growing all over.
 
 # Anarchist Economics FAQ
 
