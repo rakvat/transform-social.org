@@ -29,6 +29,15 @@ STATIC_PATHS = ['images', 'css', 'javascript', 'documents', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/android-chrome-192x192.png': {'path': 'android-chrome-192x192.png'},
+    'extra/android-chrome-256x256.png': {'path': 'android-chrome-256x256.png'},
+    'extra/apple-touch-icon.png': {'path': 'apple-touch-icon.png'},
+    'extra/browserconfig.xml': {'path': 'browserconfig.xml'},
+    'extra/favicon-16x16.png': {'path': 'favicon-16x16.png'},
+    'extra/favicon-32x32.png': {'path': 'favicon-32x32.png'},
+    'extra/mstile-150x150.png': {'path': 'mstile-150x150.png'},
+    'extra/safari-pinned-tab.svg': {'path': 'safari-pinned-tab.svg'},
+    'extra/site.webmanifest': {'path': 'site.webmanifest'},
 }
 
 PLUGIN_PATHS = ["plugins"]

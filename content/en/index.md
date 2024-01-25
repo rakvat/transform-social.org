@@ -10,6 +10,8 @@ Slug: index
 *transform-social* is about the possibilities of transforming into more social, more solidary,
 more free, and less coercive societies.
 
+The [Anarchist Economics FAQ](/en/texts/economics_faq/) answers questions about the issues of current economies and how small- and large-scale anarchist economies would work.
+
 [Transform into free and solidary societies](/en/texts/transform/) is an overview article including
 criticism of existing societies, characteristics for free and solidary societies, and ideas on how to get there.
 
