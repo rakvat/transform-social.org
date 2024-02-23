@@ -49,6 +49,8 @@ among regions with different conditions for agriculture, are decided by the peop
 To do this, delegates with a clear mandate from the affected regions discuss the issue.
 If they do not adhere to their mandate, they are replaced.
 
+More information on the organization can be found in the [Anarchist Economics FAQ](/en/texts/economics_faq/).
+
 
 ### That sounds complicated. Can it really work?
 
