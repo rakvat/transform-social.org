@@ -17,7 +17,7 @@ The answers are intentionally kept short and concise.
 <a class="anchor" name="def_economics"></a>
 ## [What is the definition of economics?](#def_economics)
 
-Economics is about the production and distribution of resources, goods, and services. It deals with what we take from nature, what we create, and who gets what.
+Economics is about the production and distribution of resources, goods, and services. It deals with what we take from nature, what we create, and who gets what. As these topics are central to our existence, making decisions about economics should be part of our daily life.
 
 <a class="anchor" name="def_economy"></a>
 ## [What is an economy?](#def_economy)
@@ -123,7 +123,6 @@ Anarchists criticize capitalism for multiple reasons:
 2. Capitalism cultivates structures of dominance - not only between workers and bosses - it also reinforces patriarchy, racism, antisemitism, and ableism.
 3. Production under capitalism focuses on profit, not on the needs of the people. Capitalism is causing huge social injustices and wars. This and the structures of dominance have a huge negative impact on both the physical and psychological health of many humans.
 
-
 <a class="anchor" name="marxist_criticism"></a>
 ## [How is the anarchist criticism of capitalism different from the marxist criticism?](#marxist_criticism)
 
@@ -192,10 +191,11 @@ Some socialist concepts advocate for worker-owned and worker-controlled means of
 
 Markets as a tool for distribution are used by capitalist economies but they are also suggested for some socialist versions of economies.
 Even in those versions, markets are problematic:
-The market communicates the needs of the people only in a quite delayed, indirect, and distorted way (market signals result in ex post coordination).
+The market communicates the needs of the people only in a quite delayed, indirect, and distorted way.
 Products have to perform well on the market and [break soon after](https://en.wikipedia.org/wiki/Planned_obsolescence) instead of fulfilling needs (the production focuses on exchange value rather than use value).
 The information about products gets mostly reduced to a single number, the price.
 More important information like the environmental impact or the production conditions is rarely communicated.
+Markets tend to result in injust distribution and externalized (not cared for) environmental damage (negative externalities).
 Also, markets require active participation by doing wage labor, getting informed about products, and maybe bargaining.
 This is thus excluding those who can't fit into this requirement.
 The problems of wage labor are covered in the [next question](#problems_wages).
@@ -225,7 +225,8 @@ Others could be simplified because information about production processes could 
 <a class="anchor" name="who_owns_means_of_production"></a>
 ## [Who owns the means of production?](#who_owns_means_of_production)
 
-No one. They get used and maintained by those responsible for the production.
+No one. They get used and maintained by those responsible for the production. These people don't own the means of production and don't [decide about the distribution](#who_decides_what_to_produce).
+Ownership in general is not compatible with anarcho-communism as there is no state to enforce property rights. What matters is who makes the decisions and that should be those affected by the decision.
 
 <a class="anchor" name="who_owns_other_things"></a>
 ## [Who owns land, houses, and other things?](#who_owns_other_things)
@@ -293,7 +294,14 @@ Yes, there can be products from other regions. To reduce transportation resource
 <a class="anchor" name="enough_for_everyone"></a>
 ## [Is there enough for everyone?](#enough_for_everyone)
 
-In general, yes, there is enough for everyone. It just needs to be fairly distributed. Some goods might sometimes be scarce.
+In general, yes, there is enough for everyone. Everyone can have a [good life](#good_life). It just needs to be fairly distributed. Some goods might sometimes be [scarce](#distribution_of_scarce_goods).
+
+The ideas in this FAQ don't depend on abundance or "fully automated luxury communism". They also work in times of crisis and scarcity.
+
+<a class="anchor" name="good_life"></a>
+## [What do you mean by good life?](#good_life)
+
+Not having to worry about needs like food and housing, friends, and happiness are important factors for a good life. The right to own way more than others or consume way more than needed might be considered an unethical concept of a good life.
 
 <a class="anchor" name="demand_and_supply"></a>
 ## [What can be done if demand exceeds supply?](#demand_and_supply)
@@ -424,7 +432,11 @@ the agreements between the economies if needed as part of a trans-economical pos
 <a class="anchor" name="economy_crash"></a>
 ## [Would the economy crash if we tried anarchist economics?](#economy_crash)
 
-An economic crash or collapse is defined by high bankruptcy- and unemployment rates and high inflation. None of this can exist in a needs-based economy without money. What could happen are shortages of necessary goods. This could be prevented by 1. planning the transformation (see [below](#transformation)), 2. focusing on the most essential goods in times of crisis, and 3. good information systems and transparency for sharing what is available in solidarity.
+An economic crash or collapse is defined by high bankruptcy- and unemployment rates and high inflation. None of this can exist in a needs-based economy without money. What could happen are shortages of necessary goods. This could be prevented by
+
+1. planning the transformation (see [below](#transformation))
+2. focusing on the most essential goods in times of crisis, and
+3. good information systems and transparency for sharing what is available in solidarity.
 
 <a class="anchor" name="climate_dictatorship"></a>
 ## [Some socialists and some climate activists claim that the immediate danger of the climate crisis requires a timely system change or revolution with a strong leader. Why do anarchists disagree?](#climate_dictatorship)
@@ -455,7 +467,7 @@ Versions of anarchist economies work in smaller communities today, in house proj
 and also in your friend group (you are not expecting something in return when you help a friend).
 
 Also, [research](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation) and [simulations](/en/texts/tools/) show that the concepts of cooperation and anarchist economies are sound
-and viable ([Cybernetics and the Viable System Model (VSM)](/en/texts/cybersyn/)).
+and viable ([Cybernetics and the Viable System Model (VSM)](/en/texts/cybersyn/)). All of this is not proof that anarchist economics work, but supporting evidence.
 
 
 <a class="anchor" name="other_names"></a>
@@ -464,6 +476,7 @@ and viable ([Cybernetics and the Viable System Model (VSM)](/en/texts/cybersyn/)
 The economic concepts of anarcho-communism, libertarian socialism, or free access socialism are mostly the same.
 Also gift economy or library economy are sometimes used as terms for similar economic concepts.
 In doubt, it's best to ask what is meant.
+The important questions to ask are "who owns the means of production" and "who decides what to produce and how to distribute"?
 
 <a class="anchor" name="transformation"></a>
 ## [How can we transform into anarchist economies?](#transformation)
