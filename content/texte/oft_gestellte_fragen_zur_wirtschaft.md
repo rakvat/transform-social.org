@@ -5,7 +5,7 @@ Author: Katja
 Type: text
 Tags: Wirtschaft, Anarchismus
 Summary: Dieser Text beantwortet mehr als 75 oft gestellte Fragen zum Thema anarchistische Wirtschaft.
-Catchphrases: Die Komplexität und Fragilität kann durch Methoden der Dezentralisierung und Kapselung reduziert werden, so dass alle die für sie relevanten Teile der Wirtschaft verstehen können. | Die kapitalistische Art des Wirtschaftens hat zu einer schweren Klimakrise und großen sozialen Ungerechtigkeiten geführt. | Bei knappen Konsumgütern sollten Individuen und Gemeinschaften mit einem höheren Bedarf (z.B. medizinische Bedingungen, Regionen, die unter dem Kapitalismus stärker gelitten haben) bei der Verteilung bevorzugt werden. | Bauen wir viele anarchistische Wirtschaftsoasen, Brücken und Netzwerke in der kapitalistischen Wüste, bis die Wildblumen überall zu wachsen beginnen.
+Catchphrases: Die Komplexität und Fragilität kann durch Methoden der Dezentralisierung und Kapselung reduziert werden, sodass alle die für sie relevanten Teile der Wirtschaft verstehen können. | Die kapitalistische Art des Wirtschaftens hat zu einer schweren Klimakrise und großen sozialen Ungerechtigkeiten geführt. | Bei knappen Konsumgütern sollten Individuen und Gemeinschaften mit einem höheren Bedarf (z.B. medizinische Bedingungen, Regionen, die unter dem Kapitalismus stärker gelitten haben) bei der Verteilung bevorzugt werden. | Bauen wir viele anarchistische Wirtschaftsoasen, Brücken und Netzwerke in der kapitalistischen Wüste, bis die Wildblumen überall zu wachsen beginnen.
 
 # Häufig gestellte Fragen zu anarchistischer Wirtschaft
 
@@ -45,7 +45,7 @@ Die kapitalistische Version von Wirtschaft ist ziemlich unberechenbar, anfällig
 Kleine Dinge können zu einer großen Krise führen, und Politiker\*innen fürchten daher größere Veränderungen.
 Fragile und zusammenbrechende Wirtschaften sind anfällig für Hungersnöte und sogar Todesfälle.
 Moderne Produktion und Verteilung ist aufgrund von Abhängigkeiten zwar recht komplex.
-Die Komplexität und Fragilität kann jedoch durch Methoden der Dezentralisierung und Kapselung reduziert werden, so dass alle die für sie relevanten Teile der Wirtschaft verstehen können.
+Die Komplexität und Fragilität kann jedoch durch Methoden der Dezentralisierung und Kapselung reduziert werden, sodass alle die für sie relevanten Teile der Wirtschaft verstehen können.
 Dies soll im Folgenden näher erläutert werden.
 
 <a class="anchor" name="expert_innen"></a>
@@ -180,7 +180,7 @@ Die möglichen Wege der Interaktion zwischen verschiedenen Ökonomien werden wei
 ## [Wie könnten anarchistische Ökonomien auf lokaler Ebene funktionieren?](#lokale_ebene)
 
 (Eine lokale Ebene wird hier als eine Struktur mit bis zu etwa 150 Personen (Dunbars Zahl) betrachtet,
-so dass mensch die meisten Personen noch vom Sehen her kennen kann).
+sodass mensch die meisten Personen noch vom Sehen her kennen kann).
 Ein mögliches Modell für die lokale Organisation von Produktion und Verteilung sind die folgenden drei Arten von Strukturen: Verbraucherräte, Produktionskollektive und Koordinierungsausschüsse.
 
 1. Die Verbraucherräte organisieren sich um lokale Nachbarschaften oder Wahlfamilien. Sie sammeln Informationen darüber, was benötigt wird.
@@ -295,7 +295,7 @@ Eine anarchistische Wirtschaft, wie sie in diesem Text vorgestellt wird, würde 
 ## [Wie viel Arbeit ist in anarchistischen Wirtschaften notwendig?](#wie_viel_arbeit)
 
 Wir werden wahrscheinlich weniger arbeiten müssen als heute, weil viele Tätigkeiten wie die im Finanzsektor, im Versicherungswesen oder in der Werbung nicht mehr gebraucht werden.
-Andere könnten vereinfacht werden, weil Informationen über Produktionsprozesse offengelegt werden könnten, so dass die Forschung nicht mehr doppelt durchgeführt werden muss.
+Andere könnten vereinfacht werden, weil Informationen über Produktionsprozesse offengelegt werden könnten, sodass die Forschung nicht mehr doppelt durchgeführt werden muss.
 Der Umfang der notwendigen Arbeit hängt sowohl von den Bedürfnissen und Entscheidungen der Gemeinschaft ab, in der Sie leben, als auch vom Ausmaß der Umweltschäden, die saniert werden müssen.
 
 <a class="anchor" name="besitz_produktionsmittel"></a>
@@ -522,7 +522,7 @@ Eine allgemeine Faustregel könnte lauten, dass es gut ist, Daten zu sammeln, so
 ## [Besteht angesichts der Anforderungen an die Datenerfassung die Gefahr eines Überwachungsstaates?](#ueberwarchungsstaat)
 
 Die Instrumente zur Sammlung der Daten sollten dezentralisiert und föderiert sein,
-so dass es einer zentralen Behörde nicht möglich ist, die Kontrolle über sie zu erlangen (z. B. ähnlich wie beim fediverse).
+sodass es einer zentralen Behörde nicht möglich ist, die Kontrolle über sie zu erlangen (z. B. ähnlich wie beim fediverse).
 Selbst wenn also derzeit keine autoritäre Instanz daran interessiert ist, die Kontrolle über die Daten zu erlangen, sollte dies auch in Zukunft nicht möglich sein.
 
 <a class="anchor" name="tausch_handel"></a>
@@ -575,7 +575,7 @@ Wenn die anderen Gebiete der anarchistischen Wirtschaft gegenüber feindlich ges
 wollen sie vielleicht gar nicht mit ihr interagieren oder versuchen, das anarchistische Gebiet zu einem unfairen Warenaustausch zu zwingen.
 Im Idealfall wäre die anarchistische Wirtschaft nicht davon abhängig.
 Ein fairer Austausch könnte ein langfristiger Vertrag sein, der genau festlegt, welche Mengen welcher Güter in welchen Zeitabständen übertragen werden,
-so dass diese Vereinbarung eine gewisse Planung und Versorgungssicherheit ermöglicht.
+sodass diese Vereinbarung eine gewisse Planung und Versorgungssicherheit ermöglicht.
 
 <a class="anchor" name="militaerische_aggression"></a>
 ## [Was ist im Falle eines militärischen Angriffs auf anarchistische Wirtschaften zu tun?](#militaerische_aggression)
