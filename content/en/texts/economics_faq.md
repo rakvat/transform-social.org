@@ -281,6 +281,15 @@ This can depend on local communities and their way of living. As there is no rem
 
 It's okay. The system won't break if a few people don't contribute anything. They probably have reasons why they can't contribute and others will understand this. If there are no reasons and the community sees the extensive usage of resources as a problem, they will try to resolve this as a conflict. If the conflict can not be resolved, the community can decide to stop providing resources to this person.
 
+<a class="anchor" name="decisions_enforced"></a>
+## [How are decisions enforced?](#decisions_enforced)
+
+There is no organization like police, prisons, or military to enforce decisions.
+Agreements taken at local or supralocal levels have a good chance of being acted upon as they were taken by those affected and not a remote authoritarian government.
+If some people don't respect the agreements, it might not be a big deal. However, if others are disturbed by their behavior, there will be a conflict resolution process.
+If this does not help or people refuse to take part in the conflict resolution, their behavior can be scandalized.
+Communities might also decide to separate from individuals who repeatedly cause harm and refuse to take part in processes to transform their behavior (community accountability).
+
 <a class="anchor" name="more_than_survival"></a>
 ## [Would we have more than basic survival necessities?](#more_than_survival)
 
@@ -354,7 +363,7 @@ This distracts from the main purpose of an economy: the fulfillment of needs.
 <a class="anchor" name="future_generations"></a>
 ## [Should anarchist economics account for the needs of future generations?](#future_generations)
 
-Yes. We should extend our solidarity also to future generations when deciding about which resources to use and how to handle the environment. On the other hand, this argument should not turn into longtermism, putting the needs of future generations over those living today (see e.g. [Timnit Gebru's work on TESCREAL](https://de.wikipedia.org/wiki/Timnit_Gebru#TESCREAL)).
+Yes. We should extend our solidarity also to future generations when deciding about which resources to use and how to handle the environment. On the other hand, this argument should not turn into longtermism, putting the needs of future generations over those living today (see e.g. [Timnit Gebru's work on TESCREAL](https://en.wikipedia.org/wiki/Timnit_Gebru)).
 
 <a class="anchor" name="data_needed"></a>
 ## [On what kind of data are decisions based?](#data_needed)
@@ -476,7 +485,7 @@ and viable ([Cybernetics and the Viable System Model (VSM)](/en/texts/cybersyn/)
 The economic concepts of anarcho-communism, libertarian socialism, or free access socialism are mostly the same.
 Also gift economy or library economy are sometimes used as terms for similar economic concepts.
 In doubt, it's best to ask what is meant.
-The important questions to ask are "who owns the means of production" and "who decides what to produce and how to distribute"?
+The important questions to ask are "who owns the means of production", "who decides what to produce and how to distribute", and "what about care-work"?
 
 <a class="anchor" name="transformation"></a>
 ## [How can we transform into anarchist economies?](#transformation)
