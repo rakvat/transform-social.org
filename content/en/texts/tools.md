@@ -130,6 +130,8 @@ system as a whole and give feedback when needed.
 
 <center><img src="/images/cybersyn_vsm.jpg" alt="Viable System Model"></center>
 
+Figure 1: Illustration from Beer's work
+
 At the lowest level of the VSM, are units called System 1. Each unit has a specific task
 and is self-regulating. System 1s operate by looking at information from the environment
 that is relevant to their task, performing this task, and influencing the environment in their
@@ -141,7 +143,7 @@ System 1 unit is autonomous as long as it works within the constraints set by th
 of the whole system.
 
 System 2 is responsible for the communication between System 1 units. It
-Figure 1: Illustration from Beer's work about ensures that System 1s don't have conflicting the VSM
+ensures that System 1s don't have conflicting the VSM
 goals and thus don't create overshooting or oscillating effects in the environment by
 trying to counter-act on what the other unit was doing.
 
