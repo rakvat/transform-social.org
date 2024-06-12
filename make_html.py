@@ -41,6 +41,24 @@ class MetaData:
             except ValueError:
                 return datetime.strftime(datetime.strptime(self.date, "%Y"), "%Y")
 
+    @property
+    def pub_date(self):
+        if not self.date:
+            return ""
+        try:
+            return datetime.strftime(
+                datetime.strptime(self.date, "%Y/%m/%d"), "%a, %d %b %Y %H:%M:%S +0000"
+            )
+        except ValueError:
+            try:
+                return datetime.strftime(
+                    datetime.strptime(self.date, "%Y/%m"), "%a, %d %b %Y %H:%M:%S +0000"
+                )
+            except ValueError:
+                return datetime.strftime(
+                    datetime.strptime(self.date, "%Y"), "%a, %d %b %Y %H:%M:%S +0000"
+                )
+
     @classmethod
     def from_markdown(cls, data):
         return cls(
@@ -96,6 +114,8 @@ article_en_template = environment.get_template("en/article.html")
 topics_template = environment.get_template("topics.html")
 topics_en_template = environment.get_template("en/topics.html")
 sitemap_template = environment.get_template("sitemap.xml")
+feed_template = environment.get_template("feed.rss")
+feed_en_template = environment.get_template("en/feed.rss")
 md = Markdown(extensions=["meta"])
 tags = defaultdict(list)
 tags_en = defaultdict(list)
@@ -334,19 +354,30 @@ for page in regular_pages:
     sitemap_entries.append(SitemapEntry(url=base_url + f"{page}/", date=NOW))
 for page in regular_pages_en:
     sitemap_entries.append(SitemapEntry(url=base_url + f"en/{page}/", date=NOW))
-for text_article in sorted(
+sorted_text_articles = sorted(
     text_articles, key=lambda article: article.meta.date or False, reverse=True
-):
+)
+for text_article in sorted_text_articles:
     sitemap_entries.append(
         SitemapEntry(url=base_url + f"texte/{text_article.meta.slug}/", date=NOW)
     )
-for text_article in sorted(
+sorted_text_articles_en = sorted(
     text_articles_en, key=lambda article: article.meta.date or False, reverse=True
-):
+)
+for text_article in sorted_text_articles_en:
     sitemap_entries.append(
         SitemapEntry(url=base_url + f"en/texts/{text_article.meta.slug}/", date=NOW)
     )
-
 static_content = sitemap_template.render(sitemap_entries=sitemap_entries)
 with open(output_path / "sitemap.xml", mode="w", encoding="utf-8") as f:
+    f.write(static_content)
+
+#################### rss feed
+static_content = feed_template.render(texts=sorted_text_articles)
+with open(output_path / "feed.rss", mode="w", encoding="utf-8") as f:
+    f.write(static_content)
+
+#################### rss feed en
+static_content = feed_en_template.render(texts=sorted_text_articles_en)
+with open(output_path / "en" / "feed.rss", mode="w", encoding="utf-8") as f:
     f.write(static_content)

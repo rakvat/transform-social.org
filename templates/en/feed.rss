@@ -1,0 +1,4 @@
+{% extends "feed.rss" %}
+
+{% block language %}en{% endblock %}
+{% block description %}Criticism of existing societies, power structures, and economic systems. Ideas for more free and more solidary soieties. Thoughts on ways how to get there.{% endblock %}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    {% set base_url %}https://transform-social.org/{% endset %}
+    {% set language %}{% block language %}de{% endblock %}{% endset %}
+    {% if language == 'de' %}
+      {% set lang_base_url %}{{base_url}}{% endset %}
+    {% else %}
+      {% set lang_base_url %}{{base_url}}{{language}}/{% endset %}
+    {% endif %}
+    <title>Transform Social - {{language}}</title>
+    <link>{{lang_base_url}}</link>
+    <description>{% block description %}Kitik am bestehenden Gesellschaftssystem, Herrschaftsstrukturen und Wirtschaftssystemen. Ideen für freiere und solidarischere Gesellschaftssysteme. Gedanken über die Wege in diese Gesellschaftssysteme.{% endblock %}</description>
+    <language>{{language}}</language>
+    <image>
+      <link>{{lang_base_url}}</link>
+      <title>Transform Social - {{language}}</title>
+      <url>{{base_url}}images/logo_{{language}}.png</url>
+    </image>
+    <atom:link href="{{lang_base_url}}feed.rss" rel="self" type="application/rss+xml" />
+
+    {% for text in texts %}
+      <item>
+        <title>{{text.meta.title}}</title>
+        <description>{{text.meta.summary}}</description>
+        {% if language == 'de' %}
+          <link>{{lang_base_url}}texte/{{text.meta.slug}}/</link>
+          <guid>{{lang_base_url}}texte/{{text.meta.slug}}/</guid>
+        {% else %}
+          <link>{{lang_base_url}}texts/{{text.meta.slug}}/</link>
+          <guid>{{lang_base_url}}texts/{{text.meta.slug}}/</guid>
+        {% endif %}
+        <pubDate>{{text.meta.pub_date}}</pubDate>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
