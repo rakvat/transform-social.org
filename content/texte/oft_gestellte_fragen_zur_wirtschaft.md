@@ -1,13 +1,13 @@
 Slug: oft_gestellte_fragen_zur_wirtschaft
 Date: 2024/5/26
-Title: Oft gestellte Fragen zu anarchistischer Wirtschaft
+Title: Wie funktioniert anarchistische Wirtschaft?
 Author: Katja
 Type: text
 Tags: Wirtschaft, Anarchismus
 Summary: Dieser Text beantwortet mehr als 75 oft gestellte Fragen zum Thema anarchistische Wirtschaft.
 Catchphrases: Die Komplexität und Fragilität kann durch Methoden der Dezentralisierung und Kapselung reduziert werden, sodass alle die für sie relevanten Teile der Wirtschaft verstehen können. | Die kapitalistische Art des Wirtschaftens hat zu einer schweren Klimakrise und großen sozialen Ungerechtigkeiten geführt. | Bei knappen Konsumgütern sollten Individuen und Gemeinschaften mit einem höheren Bedarf (z.B. medizinische Bedingungen, Regionen, die unter dem Kapitalismus stärker gelitten haben) bei der Verteilung bevorzugt werden. | Bauen wir viele anarchistische Wirtschaftsoasen, Brücken und Netzwerke in der kapitalistischen Wüste, bis die Wildblumen überall zu wachsen beginnen.
 
-# Häufig gestellte Fragen zu anarchistischer Wirtschaft
+# Wie funktioniert anarchistische Wirtschaft?
 
 Dieser Text enthält häufig gestellte Fragen zu anarchistischer Wirtschaftsweise und deren Antworten.
 Er konzentriert sich auf die anarcho-kommunistische Variante des Anarchismus.
