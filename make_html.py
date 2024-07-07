@@ -295,13 +295,25 @@ for page in regular_pages_en:
     ) as f:
         f.write(static_content)
 
+################### sort articles
+sorted_text_articles = sorted(
+    text_articles, key=lambda article: article.meta.date or False, reverse=True
+)
+sorted_text_articles_en = sorted(
+    text_articles_en, key=lambda article: article.meta.date or False, reverse=True
+)
+
 #################### index
 with open(content_path / "index.md", mode="r", encoding="utf-8") as f:
     text = f.read()
 content = md.convert(text)
 meta = MetaData.from_markdown(md.Meta)
 static_content = index_template.render(
-    content=content, meta=meta, base_url=base_url, alternate=ALTERNATES["index"]
+    content=content,
+    articles=sorted_text_articles,
+    meta=meta,
+    base_url=base_url,
+    alternate=ALTERNATES["index"],
 )
 with open(output_path / "index.html", mode="w", encoding="utf-8") as f:
     f.write(static_content)
@@ -312,7 +324,11 @@ with open(content_path / "en" / "index.md", mode="r", encoding="utf-8") as f:
 content = md.convert(text)
 meta = MetaData.from_markdown(md.Meta)
 static_content = index_en_template.render(
-    content=content, meta=meta, base_url=base_url, alternate=ALTERNATES["index"]
+    content=content,
+    articles=sorted_text_articles_en,
+    meta=meta,
+    base_url=base_url,
+    alternate=ALTERNATES["index"],
 )
 (output_path / "en").mkdir(exist_ok=True)
 with open(output_path / "en" / "index.html", mode="w", encoding="utf-8") as f:
@@ -354,16 +370,10 @@ for page in regular_pages:
     sitemap_entries.append(SitemapEntry(url=base_url + f"{page}/", date=NOW))
 for page in regular_pages_en:
     sitemap_entries.append(SitemapEntry(url=base_url + f"en/{page}/", date=NOW))
-sorted_text_articles = sorted(
-    text_articles, key=lambda article: article.meta.date or False, reverse=True
-)
 for text_article in sorted_text_articles:
     sitemap_entries.append(
         SitemapEntry(url=base_url + f"texte/{text_article.meta.slug}/", date=NOW)
     )
-sorted_text_articles_en = sorted(
-    text_articles_en, key=lambda article: article.meta.date or False, reverse=True
-)
 for text_article in sorted_text_articles_en:
     sitemap_entries.append(
         SitemapEntry(url=base_url + f"en/texts/{text_article.meta.slug}/", date=NOW)
