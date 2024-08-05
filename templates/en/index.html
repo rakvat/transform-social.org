@@ -9,7 +9,7 @@
   <br/>
   <br/>
   <br/>
-  {% for article in articles if article.meta.type == 'text' %}
+  {% for article in articles|sort(attribute="meta.year_month", reverse=True) if article.meta.type == 'text' %}
     {% with article_url="/en/texts/" + article.meta.slug + "/", l10n={"keywords": "Keywords", "quotes": "Quotes", "full_text": "Full Text"} %}
       {% include 'article_short.html' %}
     {% endwith %}
