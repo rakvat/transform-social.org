@@ -115,6 +115,4 @@ in anarchistischer Organisation zu sammeln und uns die dazu notwendigen Fähigke
 Klar, kann nicht alles gleich perfekt sein, es gibt Sachzwänge und Frust im jetzigen System und wir werden Fehler machen.
 Doch Schritt für Schritt werden wir weiter gehen und fragen und lernen.
 
-Transformation in anarchistische Gesellschaften ist mit einer Organisation der Vielfalt möglich.
-Eine elitäre oder dogmatische Organisation dagegen führt in elitäre und dogmatische Gesellschaften.
-
+Für vielfältige und undogmatische Organisationen, die vielfältige und undogmatische Gesellschaften präfigurieren.
