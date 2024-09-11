@@ -626,7 +626,7 @@ Extreme Beispiele für dogmatisches Selbstverantwortungsdenken hatten wir weiter
 Verquerer Umgang mit Verantwortung ist vor allem dann gefährlich, wenn sich Leute als Gurus aufspielen oder sonstige moralische Institutionen mit Macht entstehen, die Einfluss auf andere ausüben. Dann ist es möglich, dass diese systematisch dazu tendieren, die Verantwortung für ihr eigenes Handeln abzustreiten und dafür anderen die Selbstverantwortung für den Umgang mit deren Handlungen aufzulasten. Beispiele gibt es von den vertuschten Kindesmissbrauchsfällen in der katholischen Kirche bis zu gezielten Provokationen auf Plena in linken Projekten im Namen einer „ich tue dem Projekt gut“-Mission einer Einzelperson.
 
 Hier noch ein letztes lustiges Tim Minchin Video über die Gefahren von Spiritualität, verqueren Umgang mit Verantwortung und moralische Institutionen.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vjJ_b8isMzc?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cmy8WmGH1z0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 Es ist wichtig,  Relativierung und Verschiebung der Verantwortung von Handelnden zu den Empfängern von Handlungen zu erkennen, Menschen die unter einer Handlung leiden und denen zusätzlich Verantwortung dafür zugeschoben wird, zu unterstützen, und sich nicht den Mut nehmen lassen, Verhaltensweisen zu kritisieren. Verantwortung für das eigene Handeln und vergangenes Handeln ist in herrschaftsarmen Projekten wichtig. Ohne dies wird das Selbstverantwortungsdogma zum Herrschaftsinstrument.
