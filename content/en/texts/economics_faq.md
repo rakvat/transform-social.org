@@ -7,6 +7,8 @@ Tags: Economics, Anarchism
 Summary: This text answers more than 75 frequently asked questions about anarchist economies.
 Catchphrases: The complexity and fragility can be reduced by methods of decentralization and encapsulation, allowing everyone to understand the relevant parts of economics. | The capitalist way of doing economics has led to a severe climate crisis and huge social injustices. | For scarce consumer goods, individuals and communities with a higher need (e.g. medical conditions, regions that suffered more under capitalism) should be preferred in the distribution. | Let's build many anarchist economics oases, bridges, and networks within the capitalist desert until the wildflowers start growing all over.
 
+[deutsche Fassung](/de/texte/oft_gestellte_fragen_zur_wirtschaft/)
+
 # Anarchist Economics FAQ
 
 This text contains frequently asked questions (FAQ) about anarchist economics and their answers.
@@ -25,7 +27,7 @@ Economics is about the production and distribution of resources, goods, and serv
 An economy is one way to implement economics, one set of ideas and practices according to which production and distribution are organized.
 
 <a class="anchor" name="boring"></a>
-## [Isn't the economics boring?](#boring)
+## [Isn't economics boring?](#boring)
 
 As a kid, I hated economics because I thought it was only about becoming rich while ignoring injustices. That's not true. Economics is actually exciting. It's about deciding how production and distribution can be organized in ecological, free, and solidary ways.
 
@@ -47,7 +49,7 @@ We are all experts for that part of the economy that affects us: We know best wh
 <a class="anchor" name="options_besides_capitalism"></a>
 ## [Are there really other options besides capitalism?](#options_besides_capitalism)
 
-Yes. Economics existed before capitalism and there will be post-capitalist economies. We are led to believe that there is no alternative to capitalism but there are actually a multitude of options for how to organize economies.
+Yes. Economics existed before capitalism and there will be post-capitalist economies. We are led to believe that there is no alternative to capitalism but there is actually a multitude of options of how to organize economies.
 
 <a class="anchor" name="need_for_economics"></a>
 ## [Why do we need to think about economics now?](#need_for_economics)
@@ -79,7 +81,8 @@ Yes. The questions and answers below will further explain how.
 Anarcho-communism is the flavor of anarchist economics that I like best because it maximizes both freedom and solidarity.
 It uses no market and no wage labor (see below for issues with [market](#problems_market) and [wage labor](#problems_wages)) and distributes [based on need](#needs_based_economy).
 If you prefer other types of economics, that's fine, you can write another FAQ.
-Under certain conditions, there is a good chance that diverse forms of economics can coexist (see [below](#coexistence_conditions)).
+Under [certain conditions](#coexistence_conditions), there is a good chance that diverse forms of economics can coexist.
+While I focus on anarcho-communism as my favorite flavor of anarchist theory and praxis, I support the diversity of anarchist currents as an important characteristic of anarchism and organize in a [synthesist anarchist federation](https://fda-ifa.org/).
 
 <a class="anchor" name="characteristics"></a>
 ## [What are the characteristics of anarchist economies?](#characteristics)
@@ -136,7 +139,7 @@ No, there can only be many types of anarchist economies and many blueprints. Ana
 <a class="anchor" name="local_level"></a>
 ## [How could anarchist economies work on the local level?](#local_level)
 
-(Here, a local level is thought of as a structure of up to around 150 people (Dunbar's number), so that it's still possible to know most of the people by sight). One possible organization model for the local organization of production and distribution is the creation of three types of structures: Consumer councils, production collectives, and coordination committees.
+(Here, a local level is thought of as a structure of up to around 150 people (Dunbar's number), so that it's still possible to know most of the people by sight, but this is just an illustrative number). One possible organization model for the local organization of production and distribution is the creation of three types of structures: Consumer councils, production collectives, and coordination committees.
 
 1. Consumer councils organize around local neighborhoods or chosen families. They collect information on what is needed.
 2. Production collectives are organized around various production processes and services. They provide information on what could be produced or which services provided.
@@ -163,6 +166,11 @@ No. For most things, future consumption can be estimated based on last year's co
 ## [For how many years do we have to plan?](#planned_for_how_long)
 
 That depends on the purpose of the plan and can vary. E.g. bakeries might want to plan both their need for resources for the next year as well as the required products for the next week. The improvement of railroad infrastructure should instead be planned multiple years ahead and involve more people than those of a local community. Also, it's ok to adapt plans to changing environments.
+
+<a class="anchor" name="supralocal_structures"></a>
+## [What are supralocal structures?](#supralocal_structures)
+
+Supralocal structures are forms of organizing that bring together people other than those living in a local community.
 
 <a class="anchor" name="supralocal_structures_needed"></a>
 ## [Why are supralocal structures needed?](#supralocal_structures_needed)
@@ -200,8 +208,11 @@ Also, markets require active participation by doing wage labor, getting informed
 This is thus excluding those who can't fit into this requirement.
 The problems of wage labor are covered in the [next question](#problems_wages).
 
+<a class="anchor" name="why_tina"></a>
+## [Why were markets considered the only option?](#why_tina)
+
 The argument for markets was that they are decentralized and can adapt to the needs of the people and that there is no other decentralized tool for distribution.
-Both can now be considered wrong (the needs are not fulfilled and we do have decentralized communication tools like the internet).
+Both can now be considered wrong: the needs are not fulfilled and we do have decentralized communication tools like the internet now.
 Markets are one tool for organizing economies and there are better ones.
 
 <a class="anchor" name="problems_wages"></a>
@@ -293,7 +304,7 @@ Communities might also decide to separate from individuals who repeatedly cause 
 <a class="anchor" name="more_than_survival"></a>
 ## [Would we have more than basic survival necessities?](#more_than_survival)
 
-Yes. Depending on what a local community or single person needs, they can organize what they need to have a good life. In times of climate crisis, however, they might want to check if their needs and wants cause too much environmental damage. If there are good reasons for this, others will understand. If not, they might ask critical questions. Community and solidary often lead to more happiness than resource-intensive possessions anyway.
+Yes, that's what we should be planning and producing for. Depending on what a local community or single person needs, they can organize what they need to have a good life. In times of climate crisis, however, they might want to check if their needs and wants cause too much environmental damage. If there are good reasons for this, others will understand. If not, they might ask critical questions. Community and solidary often lead to more happiness than resource-intensive possessions anyway.
 
 <a class="anchor" name="non_local_goods"></a>
 ## [Would anarchist economies be only local or could we have e.g. coffee?](#non_local_goods)
@@ -303,7 +314,9 @@ Yes, there can be products from other regions. To reduce transportation resource
 <a class="anchor" name="enough_for_everyone"></a>
 ## [Is there enough for everyone?](#enough_for_everyone)
 
-In general, yes, there is enough for everyone. Everyone can have a [good life](#good_life). It just needs to be fairly distributed. Some goods might sometimes be [scarce](#distribution_of_scarce_goods).
+It's important to reject right-wing ideogies which claim there would not be enough for everyone and thus people should be excluded and only a selected elite should get the available resources.
+In times of climate crisis it can be come more difficult to produce enough for everyone living on earth today.
+But we can do it. It is in our hands to produce and distribute in a way that there is enough for everyone. Everyone can have a [good life](#good_life).
 
 The ideas in this FAQ don't depend on abundance or "fully automated luxury communism". They also work in times of crisis and scarcity.
 
@@ -344,7 +357,7 @@ You might eat your breakfast at a communal center (without paying) or enjoy food
 <a class="anchor" name="too_egoistic"></a>
 ## [Aren't humans too egoistic for anarchist economies?](#too_egoistic)
 
-No. There is a lot of research, proving the theory of the homo oeconomicus, the idea that humans are always striving for their personal benefit, wrong. Kropotkin's "Mutual Aid: A Factor of Evolution" is about the importance of cooperation and reciprocity in animal and human societies. Axelrod's mathematical proof via simulations of the repeated prisoner's dilemma finds cooperative strategies most successful. Martin A. Nowak and Michael Tomasello also confirm the importance of cooperation in the evolution of humans.
+No. There is a lot of research, proving the theory of the homo oeconomicus, the idea that humans are always striving for their personal benefit, is wrong. Kropotkin's "Mutual Aid: A Factor of Evolution" is about the importance of cooperation and reciprocity in animal and human societies. Axelrod's mathematical proof via simulations of the repeated prisoner's dilemma finds cooperative strategies most successful. Martin A. Nowak and Michael Tomasello also confirm the importance of cooperation in the evolution of humans.
 It's rather the other way around: the behavior of the homo oeconomicus is both beneficial to capitalism and created by capitalism (see e.g. Jonathan Aldred: "Licence to be Bad: How Economics Corrupted Us").
 
 <a class="anchor" name="universal_unit_of_account"></a>
@@ -356,7 +369,7 @@ Capitalism uses the market price as a universal unit of account. Other socialist
 ## [Why is money (or tokens, or any universal unit of account) problematic?](#problem_money)
 
 Universal units of account reduce the information of a product or service to one number.
-They also suggest the idea of having to exchange one thing with another with the same number and
+They also suggest the idea of having to exchange one thing with another with the same number, the quid-pro-quo-logic, and
 the idea of wanting to increase the collection of amounts of the universal unit of account.
 This distracts from the main purpose of an economy: the fulfillment of needs.
 
@@ -387,7 +400,7 @@ everyone should be able to get what they need without having to engage in barter
 <a class="anchor" name="innovation_possible"></a>
 ## [How is innovation possible in anarchist economies?](#innovation_possible)
 
-Because people will work only a few hours per day, there will be more leisure time for inspiration. Also, information about innovative ideas could be freely changed in the information system, as they can't be used for profit any more, sparking new ideas and cooperation.
+Because people will work only a few hours per day, there will be more leisure time for inspiration. Also, information about innovative ideas could be freely shared in the information system, as they can't be used for profit any more, sparking new ideas and cooperation.
 
 <a class="anchor" name="resources_for_research"></a>
 ## [Will researchers get resources for their work?](#resources_for_research)
@@ -425,14 +438,14 @@ Peaceful coexistence with capitalism could be possible if everyone would respect
 ## [Under which conditions could diverse forms of economies coexist?](#coexistence_conditions)
 
 1. The ecosystem of the planet should be maintained for future generations.
-2. Every human should have the choice to live in the economic and political system of their choice (this is also called panarchy).
+2. Every human should have the choice to live in the economic and political system they prefer (this is also called panarchy).
 3. The basic needs of every human should be met. Economic systems that fail to feed their humans should be scandalized.
 4. For important but scarce resources (no matter in which area they are located), every economic system should get access to them and their share of them should depend on the number of humans within them.
 5. There should be transparency, free exchange of information, no weapons, and no warlike activities.
 
 Capitalism can't coexist under these conditions. It needs e.g. cheap labor and exploited workers would probably rather switch to another economic system.
 Capitalism would thus either break these agreements or collapse.
-The coexistence of anarcho-communist economies with non-exploitive market economies like market socialism could be possible.
+The coexistence of anarcho-communist economies with non-exploitive market economies like market socialism or collective anarchism could be possible.
 
 Competition between the co-existing economies should be limited.
 This could e.g. be done by evaluating happiness and injustices every 10-20 years, and maybe resetting, redistributing, and recalibrating

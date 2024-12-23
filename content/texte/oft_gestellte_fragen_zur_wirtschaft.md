@@ -7,6 +7,8 @@ Tags: Wirtschaft, Anarchismus
 Summary: Dieser Text beantwortet mehr als 75 oft gestellte Fragen zum Thema anarchistische Wirtschaft.
 Catchphrases: Die Komplexität und Fragilität kann durch Methoden der Dezentralisierung und Kapselung reduziert werden, sodass alle die für sie relevanten Teile der Wirtschaft verstehen können. | Die kapitalistische Art des Wirtschaftens hat zu einer schweren Klimakrise und großen sozialen Ungerechtigkeiten geführt. | Bei knappen Konsumgütern sollten Individuen und Gemeinschaften mit einem höheren Bedarf (z.B. medizinische Bedingungen, Regionen, die unter dem Kapitalismus stärker gelitten haben) bei der Verteilung bevorzugt werden. | Bauen wir viele anarchistische Wirtschaftsoasen, Brücken und Netzwerke in der kapitalistischen Wüste, bis die Wildblumen überall zu wachsen beginnen.
 
+[english version](/en/texts/economics_faq/)
+
 # Wie funktioniert anarchistische Wirtschaft?
 
 Dieser Text enthält häufig gestellte Fragen zu anarchistischer Wirtschaftsweise und deren Antworten.
@@ -100,7 +102,10 @@ Ja. Die folgenden Fragen und Antworten erklären, wie.
 Der Anarcho-Kommunismus ist die Variante der anarchistischen Ökonomie, die mir am meisten zusagt, weil sie sowohl die Freiheit als auch die Solidarität maximiert.
 Sie lehnt Markt und Lohnarbeit ab (siehe unten für Probleme mit [Markt](#probleme_markt) und [Lohnarbeit](#probleme_lohn)) und verteilt [nach Bedarf](#beduerfnisorientierte_wirtschaft).
 Wenn du andere Arten von Wirtschaft bevorzugst, ist das in Ordnung. Dann kannst du einen anderen Text schreiben.
-Unter bestimmten Bedingungen besteht eine gute Chance, dass verschiedene Wirtschaftsformen koexistieren können (siehe [unten](#koexistenz_bedingungen)).
+Unter [bestimmten Bedingungen](#koexistenz_bedingungen) besteht eine gute Chance, dass verschiedene Wirtschaftsformen koexistieren können.
+Obwohl Anarcho-Kommunismus die von mir favorisierte anarchistische Theorie und Praxis ist, unterstütze ich die Vielfalt
+anarchistischer Strömungen als ein wichtiges Merkmal des Anarchismus und
+bin in einer [synthetischen anarchistischen Föderation](https://fda-ifa.org/) organisiert.
 
 <a class="anchor" name="merkmale"></a>
 ## [Was sind die Merkmale anarchistischer Wirtschaft?](#merkmale)
@@ -180,7 +185,7 @@ Die möglichen Wege der Interaktion zwischen verschiedenen Ökonomien werden wei
 ## [Wie könnten anarchistische Ökonomien auf lokaler Ebene funktionieren?](#lokale_ebene)
 
 (Eine lokale Ebene wird hier als eine Struktur mit bis zu etwa 150 Personen (Dunbars Zahl) betrachtet,
-sodass mensch die meisten Personen noch vom Sehen her kennen kann).
+sodass mensch die meisten Personen noch vom Sehen her kennen kann, doch das ist nur eine illustrative Zahl).
 Ein mögliches Modell für die lokale Organisation von Produktion und Verteilung sind die folgenden drei Arten von Strukturen: Verbraucherräte, Produktionskollektive und Koordinierungsausschüsse.
 
 1. Die Verbraucherräte organisieren sich um lokale Nachbarschaften oder Wahlfamilien. Sie sammeln Informationen darüber, was benötigt wird.
@@ -211,6 +216,11 @@ Nein. Für die meisten Dinge kann der künftige Verbrauch auf der Grundlage des 
 Das hängt vom Zweck des Plans ab und kann variieren. Eine Bäckerei könnte z. B. sowohl ihren Bedarf an Ressourcen für das nächste Jahr als auch die benötigten Produkte für die nächste Woche planen wollen.
 Die Verbesserung der Eisenbahninfrastruktur sollte hingegen mehrere Jahre im Voraus geplant werden und mehr Menschen als die einer lokalen Gemeinschaft einbeziehen.
 Außerdem ist es in Ordnung, Pläne an sich verändernde Umgebungen anzupassen.
+
+<a class="anchor" name="def_ueberlokale_strukturen"></a>
+## [Was sind überlokale Strukturen?](#def_ueberlokale_strukturen)
+
+Überlokale Strukturen sind Formen der Organisation, die andere Leute zusammenbringen, als die, die auf lokaler Ebene zusammenleben.
 
 <a class="anchor" name="ueberlokale_strukturen"></a>
 ## [Warum sind überlokale Strukturen notwendig?](#ueberlokale_strukturen)
@@ -275,8 +285,11 @@ Außerdem erfordern Märkte eine aktive Beteiligung in Form von Lohnarbeit, Info
 Damit werden diejenigen ausgeschlossen, die diesen Anforderungen nicht gerecht werden können.
 Die Probleme der Lohnarbeit werden in der [nächsten Frage](#probleme_lohn) behandelt.
 
+<a class="anchor" name="warum_tina"></a>
+## [Warum wurden Märkte als die einzige Option gesehen?](#warum_tina)
+
 Das Argument für Märkte war, dass sie dezentralisiert sind und sich an die Bedürfnisse der Menschen anpassen können und dass es kein anderes dezentrales Instrument für die Verteilung gibt.
-Beides kann heute als falsch angesehen werden (die Bedürfnisse sind nicht erfüllt und wir haben dezentrale Kommunikationsmittel wie das Internet).
+Beides kann heute als falsch angesehen werden: die Bedürfnisse sind nicht erfüllt und wir haben dezentrale Kommunikationsmittel wie das Internet.
 Märkte sind ein Instrument zur Organisation von Wirtschaften, und es gibt bessere Instrumente.
 
 <a class="anchor" name="probleme_lohn"></a>
@@ -398,7 +411,8 @@ an Prozessen zur Veränderung ihres Verhaltens teilzunehmen (community accountab
 <a class="anchor" name="mehr_als_ueberleben"></a>
 ## [Hätten wir mehr als das Nötigste zum Überleben?](#mehr_als_ueberleben)
 
-Ja. Je nachdem, was eine lokale Gemeinschaft oder eine einzelne Person braucht, können sie das, was sie für ein gutes Leben brauchen, organisieren.
+Ja, dafür sollten wir planen und produzieren.
+Je nachdem, was eine lokale Gemeinschaft oder eine einzelne Person braucht, können sie das, was sie für ein gutes Leben brauchen, organisieren.
 In Zeiten der Klimakrise sollten sie jedoch prüfen, ob ihre Bedürfnisse und Wünsche nicht zu große Umweltschäden verursachen.
 Wenn es für die Bedürfnisse gute Gründe gibt, werden andere das verstehen. Wenn nicht, werden sie vielleicht kritische Fragen stellen.
 Gemeinschaft und Solidarität führen ohnehin oft zu mehr Glück als ressourcenintensiver Besitz.
@@ -416,9 +430,12 @@ um eine gerechte Verteilung auf alle interessierten Regionen zu gewährleisten.
 <a class="anchor" name="genug_fuer_alle"></a>
 ## [Gibt es genug für alle?](#genug_fuer_alle)
 
-Ja, es gibt genug für alle. Alle können ein [gutes Leben](#gutes_leben) haben. Es muss nur gerecht verteilt werden. Einige Güter können manchmal [knapp](#verteilung_knapper_gueter) sein.
+Es ist wichtig, rechte Ideologien abzulehnen, die behaupten, dass es nicht genug für alle gäbe und dass deshalb Menschen ausgeschlossen und nur eine auserwählte Elite Zugang zu den verfügbaren Ressourcen haben sollte.
+In Zeiten der Klimakrise kann es schwieriger werden, genug für alle heute auf der Erde lebenden Menschen zu produzieren.
+Aber wir können es schaffen. Es liegt in unseren Händen, so zu produzieren und zu verteilen, dass es genug für alle gibt.
+Alle können ein [gutes Leben](#gutes_leben) haben.
 
-Die Ideen in diesem Text sind jedch nicht auf Überfluss oder "vollautomatischen Luxuskommunismus" angewiesen. Sie funktionieren auch in Zeiten von Krisen und Knappheit.
+Die Ideen in diesem Text sind nicht auf Überfluss oder "vollautomatischen Luxuskommunismus" angewiesen. Sie funktionieren auch in Zeiten von Krisen und Knappheit.
 
 <a class="anchor" name="gutes_leben"></a>
 ## [Was bedeutet ein gutes Leben?](#gutes_leben)
@@ -498,7 +515,7 @@ Dies wird manchmal als ["in-natura"-Kalkulation](https://en.wikipedia.org/wiki/C
 ## [Warum ist Geld (oder Wertmarken oder jede andere universelle Rechnungseinheit) problematisch?](#problem_geld)
 
 Universelle Rechnungseinheiten reduzieren die Informationen über ein Produkt oder eine Dienstleistung auf eine Zahl.
-Sie legen auch den Gedanken nahe, eine Sache gegen eine andere mit der gleichen Zahl austauschen zu müssen.
+Sie legen auch den Gedanken nahe, eine Sache gegen eine andere mit der gleichen Zahl austauschen zu müssen, die quid-pro-quo-Logik.
 Sie fördern den Drang, immer mehr von der universellen Rechnungseinheit zu sammeln.
 Dies lenkt vom Hauptzweck einer Wirtschaft ab: der Befriedigung von Bedürfnissen.
 
@@ -610,7 +627,7 @@ was für den Kapitalismus unwahrscheinlich ist (siehe [unten](#koexistenz_beding
 Kapitalismus kann unter diesen Bedingungen nicht koexistieren.
 Er braucht z.B. billige Arbeitskräfte und ausgebeutete Arbeit\*innen würden wahrscheinlich lieber zu einem anderen Wirtschaftssystem wechseln.
 Kapitalismus würde also entweder diese Vereinbarungen brechen oder zusammenbrechen.
-Die Koexistenz von anarcho-kommunistischen Volkswirtschaften mit nicht-ausbeuterischen Marktwirtschaften wie dem Marktsozialismus könnte möglich sein.
+Die Koexistenz von anarcho-kommunistischen Volkswirtschaften mit nicht-ausbeuterischen Marktwirtschaften wie dem Marktsozialismus oder dem Anarchokollektivismus könnte möglich sein.
 
 Der Wettbewerb zwischen den koexistierenden Volkswirtschaften sollte begrenzt werden.
 Dies könnte z. B. dadurch geschehen, dass alle 10-20 Jahre eine Bewertung der Zufriedenheit und der Ungerechtigkeiten vorgenommen wird
