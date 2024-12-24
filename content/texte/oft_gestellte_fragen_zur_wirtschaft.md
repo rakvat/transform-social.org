@@ -166,6 +166,13 @@ Die möglichen Wege der Interaktion zwischen verschiedenen Ökonomien werden wei
 
 ## 2. Bedürfnisorientierte Wirtschaft
 
+<a class="anchor" name="beduerfnis"></a>
+### [Was ist ein Bedürfnis?](#beduerfnis)
+
+Bedürfnisse sind, was du für ein [gutes Leben](#gutes_leben) brauchst.
+Sie sind dringender als Gelüste oder Wünsche. Jedoch gibt es keine unverrückbare Grenze zwischen Bedürfnissen und Wünschen.
+Und was ein Bedürfnis ist, kann von Person zu Person und von Region zu Region unterschiedlich sein.
+
 <a class="anchor" name="beduerfnisorientierte_wirtschaft"></a>
 ### [Was ist bedürfnisorientierte Wirtschaft?](#beduerfnisorientierte_wirtschaft)
 
@@ -293,17 +300,23 @@ Andere müssen für die Erfüllung ihrer Bedürfnisse kämpfen.
 <a class="anchor" name="probleme_markt"></a>
 ### [Was sind die Probleme mit Märkten?](#probleme_markt)
 
-Märkte als Verteilungsinstrument werden in kapitalistischen Wirtschaften eingesetzt, aber sie werden auch für einige sozialistische Wirtschaftsmodelle vorgeschlagen.
-Selbst in diesen Versionen sind die Märkte problematisch:
-Der Markt vermittelt die Bedürfnisse der Menschen nur sehr verzögert, indirekt und verzerrt.
-Die Produkte müssen auf dem Markt gut abschneiden und [bald wieder kaputtgehen](https://de.wikipedia.org/wiki/Geplante_Obsoleszenz),
+Märkte sind ein Informationswerkzeug, das Austausch und damit Verteilung ermöglicht.
+Märkte werden in kapitalistischen Wirtschaften eingesetzt, aber sie werden auch für einige sozialistische Wirtschaftsmodelle vorgeschlagen.
+Selbst in diesen Versionen sind die Märkte problematisch.
+Der Markt vermittelt die Bedürfnisse der Menschen nur sehr verzögert, indirekt und verzerrt:
+
+* Die Informationen über Produkte werden meist auf eine einzige Zahl, den Preis, reduziert.
+* Preise passen sich mit Käufen an, nicht mit Verbrauch oder Bedarf. Spekulation oder Horten kann die Preise verzerren.
+* Auch Monopole verzerren die Preise.
+* Der Markt legt es nahe, wichtigere Informationen wie die Umweltauswirkungen oder die Produktionsbedingungen zu verschweigen.
+* Märkte führen tendenziell zu externalisierten (nicht beachteten) Umweltschäden (negative Externalitäten).
+* Die Produkte müssen auf dem Markt gut abschneiden und [bald wieder kaputtgehen](https://de.wikipedia.org/wiki/Geplante_Obsoleszenz),
 anstatt die Bedürfnisse zu erfüllen (die Produktion konzentriert sich auf den Tauschwert und nicht auf den Gebrauchswert).
-Die Informationen über Produkte werden meist auf eine einzige Zahl, den Preis, reduziert.
-Wichtigere Informationen wie die Umweltauswirkungen oder die Produktionsbedingungen werden nur selten mitgeteilt.
-Märkte führen tendenziell zu ungerechter Verteilung und externalisierten (nicht beachteten) Umweltschäden (negative Externalitäten).
-Außerdem erfordern Märkte eine aktive Beteiligung in Form von Lohnarbeit, Informationen über die Produkte und eventuell Verhandlungen.
-Damit werden diejenigen ausgeschlossen, die diesen Anforderungen nicht gerecht werden können.
-Die Probleme der Lohnarbeit werden in der [nächsten Frage](#probleme_lohn) behandelt.
+* Wenn ein Betrieb A plant, die Produktion so umzustellen, dass mehr von Produkt X benötigt wird, wird der Preis von X steigen bis Betrieb B die Produktion von X erhöht. Mit Märkten hat Betrieb A kein Interesse, Betrieb B von den Plänen zu erzählen, um von den geringeren Preisen zu profitieren. Ohne Märkte, könnte die Knappheit von X durch direkte und frühzeitige Kommunikation zwischen Betrieb A und B vermieden werden.
+* Der Austausch auf dem Markt hat kein gesellschaftliches Ziel: Er garantiert nicht, dass alle Bedürfnisse erfüllt werden.
+* Märkte erfordern eine aktive Beteiligung in Form von Lohnarbeit, Informationen über die Produkte und eventuell Verhandlungen. Damit werden diejenigen ausgeschlossen, die diesen Anforderungen nicht gerecht werden können.
+
+Die Probleme der Lohnarbeit werden im [nächsten Abschnitt](#probleme_lohn) behandelt.
 
 <a class="anchor" name="warum_tina"></a>
 ### [Warum wurden Märkte als die einzige Option gesehen?](#warum_tina)
@@ -317,7 +330,7 @@ Märkte sind ein Instrument zur Organisation von Wirtschaften, und es gibt besse
 <a class="anchor" name="probleme_lohn"></a>
 ### [Ist bezahlte Arbeit eine gute Idee?](#probleme_lohn)
 
-Nein, jeder Lohn oder jedes Entgelt für Arbeit (egal ob in Form von Geld oder Wertmarken für Arbeitsstunden oder Ähnlichem) hat negative Auswirkungen:
+Nein, jeder Lohn oder jedes Entgelt für Arbeit (egal ob in Form von Geld oder Wertmarken für Arbeitsstunden oder Ähnlichem) ist ein Schritt in die falsche Richtung, wenn das Ziel die Verteilung auf Grundlage von Bedürfnissen ist. Es hat sogar negative Auswirkungen:
 
 1. Unabhängig davon, ob der Lohn nach Ausbildung, Erfahrung, Arbeitsstunden oder Anstrengung berechnet wird - es kann nie ein Konzept geben, das für alle gerecht ist.
 2. Der Lohn ist ein externer Motivator oder sogar ein Zwang, wenn Menschen für ihre Grundbedürfnisse auf den Lohn angewiesen sind. Externe Motivation ist weder gut für die Qualität der Arbeit noch für die psychische Gesundheit der Arbeitenden.
@@ -338,6 +351,7 @@ Der Umfang der notwendigen Arbeit hängt sowohl von den Bedürfnissen und Entsch
 
 Keine\*r. Sie werden von denjenigen genutzt und instand gehalten, die für die Produktion verantwortlich sind.
 Diese Leute besitzen die Produktionsmittel nicht und [entscheiden nicht über die Verteilung](#wer_entscheidet_produktion).
+Instandhaltung bedeutet sicherzustellen, dass die Produktionsmittel langfristig nutzbar bleiben und Übernutzung zu vermeiden.
 Eigentum im Allgemeinen ist mit dem Anarcho-Kommunismus nicht vereinbar, da es keinen Staat gibt, der die Eigentumsrechte durchsetzt.
 Es kommt darauf an, wer die Entscheidungen trifft, und das sollten diejenigen sein, die von der Entscheidung betroffen sind.
 
@@ -556,6 +570,19 @@ Die Instrumente zur Sammlung der Daten sollten dezentralisiert und föderiert se
 sodass es einer zentralen Behörde nicht möglich ist, die Kontrolle über sie zu erlangen (z. B. ähnlich wie beim fediverse).
 Selbst wenn also derzeit keine autoritäre Instanz daran interessiert ist, die Kontrolle über die Daten zu erlangen, sollte dies auch in Zukunft nicht möglich sein.
 
+<a class="anchor" name="grosse_lagerhallen"></a>
+### [Braucht eine bedürfnisorientierte Wirtschaft riesige Lagerhallen, um alle Bedürfnisse zu erfüllen?](#grosse_lagerhallen)
+
+Vielleicht stellst du dir vor, dass eine bedürfnisorientierte Wirtschaft entweder erst dann produziert, wenn ein Bedürfnis geäußert wurde, oder dass
+sie große Lagerhallen bräuchte, um alle Bedürfnisse zu erfüllen.
+Das ist nicht der Fall. Zunächst sind [Bedürfnisse](#beduerfnisse) etwas anderes als Wünsche. Nicht jeder Wunsch muss sofort erfüllt werden.
+Außerdem kann abhängig von der Art des Produkts oder der Dienstleistung der zukünftige Bedarf abgeschätzt werden, indem der vergangene Verbrauch
+analysiert wird. Die Produktion kann darauf aufbauend geplant werden.
+Für andere Arten von Produkten oder Dienstleistungen ist Produktion auf Anfrage am besten, um individuelle Bedürfnisse zu erfüllen.
+Da Lieferketten nicht mehr auf Profit optimiert werden müssen, können sie sowohl auf Effizienz als auch Nachhaltigkeit ausgelegt werden,
+abhängig von der Dringlichkeit.
+Durch diese Optimierung könnten Lagerhallen vielleicht sogar kleiner und dezentraler ausfallen.
+
 <a class="anchor" name="tausch_handel"></a>
 ### [Wird es Tausch und Handel immer geben?](#tausch_handel)
 
@@ -688,11 +715,12 @@ Da der Kapitalismus auf der Ausbeutung von Arbeiter\*innen basiert, ist dies ein
 ### [Wie kann das jetzige System in ein anarchistisches transformiert werden?](#transformation)
 
 Wir können Informationen über die Machbarkeit anarchistischer Ökonomien austauschen und so das Narrativ ändern, dass es nur eine wirtschaftliche Möglichkeit gibt.
-Wir können anfangen, Strukturen anarchistischer Ökonomien innerhalb des alten Systems aufzubauen (so gut wie möglich, ohne frustriert zu werden).
+Wir können anfangen, Organisationen und Strukturen anarchistischer Ökonomien innerhalb des alten Systems aufzubauen (so gut wie möglich, ohne frustriert zu werden).
 Das wird präfigurative Politik genannt. Es erlaubt uns, mit anarchistischen Fähigkeiten zu experimentieren und sie zu üben, während wir eine Infrastruktur aufbauen, die für die Gegenwart und die anarchistische Zukunft nützlich ist.
 Wir können auch anfangen, mehr Pläne für zukünftige anarchistische Ökonomien zu machen, entweder als Rollenspiel oder ernsthafter:
 Welche Produktionsprozesse könnten wiederverwendet werden, welche sind nutzlos? Was sind die wichtigsten Elemente der Infrastruktur, um die Bedürfnisse zu erfüllen?
 Woran würdet ihr während und nach der Transformation arbeiten?
+All diese diversen Ansätze sollten in eine breite Bewegung von vielen, vielen Menschen wachsen, die einen breiten Konsens darüber teilen, wofür sie kämpfen.
 Bauen wir viele anarchistische Wirtschaftsoasen, Brücken und Netzwerke in der kapitalistischen Wüste, bis die Wildblumen überall zu wachsen beginnen.
 
 Bei der Verbreitung von Informationen und dem Aufbau einer anarchistischen Infrastruktur sind soziale Sicherungssysteme wie ein Grundeinkommen hilfreich, da sie eine gewisse Freiheit ermöglichen.

@@ -135,6 +135,12 @@ No, there can only be many types of anarchist economies and many blueprints. Ana
 
 ## 2. Needs-Based Economics
 
+<a class="anchor" name="needs"></a>
+### [What are needs?](#needs)
+
+Needs are what you require for a [good life](#good_life). They are more urgent than desires or wishes. However, there is no
+fixed distinction between need and desire. Also, what a need is is different for each person and can also vary from region to region.
+
 <a class="anchor" name="needs_based_economy"></a>
 ### [What is a needs-based economy?](#needs_based_economy)
 
@@ -217,16 +223,22 @@ Some socialist concepts advocate for worker-owned and worker-controlled means of
 <a class="anchor" name="problems_market"></a>
 ### [What are the problems with markets?](#problems_market)
 
-Markets as a tool for distribution are used by capitalist economies but they are also suggested for some socialist versions of economies.
-Even in those versions, markets are problematic:
-The market communicates the needs of the people only in a quite delayed, indirect, and distorted way.
-Products have to perform well on the market and [break soon after](https://en.wikipedia.org/wiki/Planned_obsolescence) instead of fulfilling needs (the production focuses on exchange value rather than use value).
-The information about products gets mostly reduced to a single number, the price.
-More important information like the environmental impact or the production conditions is rarely communicated.
-Markets tend to result in injust distribution and externalized (not cared for) environmental damage (negative externalities).
-Also, markets require active participation by doing wage labor, getting informed about products, and maybe bargaining.
-This is thus excluding those who can't fit into this requirement.
-The problems of wage labor are covered in the [next question](#problems_wages).
+Markets are an information tool that allows the exchange of goods and thus distribution.
+Markets are used by capitalist economies but they are also suggested for some socialist versions of economies.
+Even in those versions, markets are problematic.
+The market communicates the needs of the people only in a quite delayed, indirect, and distorted way:
+
+* The information about products gets mostly reduced to a single number, the price.
+* Prices are adapting to purchases, not to consumption or need. I.e. speculation or hoarding can skew prices.
+* Also, monopolies skew prices.
+* The market incentivizes hiding important information like the environmental impact or the production conditions.
+* Markets tend to result in externalized (not cared for) environmental damage (negative externalities).
+* Products must perform well on the market and [break soon afterward](https://en.wikipedia.org/wiki/Planned_obsolescence) instead of fulfilling needs (production focuses on exchange value rather than use value).
+* If company A plans to change their production, requiring more of product X, the price of X will increase until company B increases the production of X. With markets, company A won't tell company B about the plans in order to still profit from the lower prices. Without markets, the shortage of X could be avoided by direct and early communication between companies A and B.
+* The exchange on the market has no societal goal baked in: It does not guarantee that all needs are met.
+* Markets require active participation by doing wage labor, getting informed about products, and maybe bargaining. This is thus excluding those who can't fit into this requirement.
+
+The problems of wage labor are covered in the [next section](#problems_wages).
 
 <a class="anchor" name="why_tina"></a>
 ### [Why were markets considered the only option?](#why_tina)
@@ -240,7 +252,7 @@ Markets are one tool for organizing economies and there are better ones.
 <a class="anchor" name="problems_wages"></a>
 ### [Is paid work a good idea?](#problems_wages)
 
-No, any wage or remuneration for work (no matter if it's money or tokens representing work hours or something similar) has negative effects:
+No, any wage or remuneration for work (no matter if it's money or tokens representing work hours or something similar) is not a step in the right direction when the goal is distribution based on need. It even has negative effects:
 
 1. Regardless of whether the wage is calculated depending on education, experience, hours, or effort - there can never be a concept that is fair to everyone.
 2. Wage is an external motivator, or even coercion if people depend on the wage for basic needs. External motivation is neither good for the quality of the work nor the mental health of the worker.
@@ -258,7 +270,7 @@ Others could be simplified because information about production processes could 
 <a class="anchor" name="who_owns_means_of_production"></a>
 ### [Who owns the means of production?](#who_owns_means_of_production)
 
-No one. They get used and maintained by those responsible for the production. These people don't own the means of production and don't [decide about the distribution](#who_decides_what_to_produce).
+No one. They get used and maintained by those responsible for the production. These people don't own the means of production and don't [decide about the distribution](#who_decides_what_to_produce). Maintaining means of production includes making sure they remain usable long-term and preventing their overuse.
 Ownership in general is not compatible with anarcho-communism as there is no state to enforce property rights. What matters is who makes the decisions and that should be those affected by the decision.
 
 <a class="anchor" name="who_owns_other_things"></a>
@@ -410,6 +422,15 @@ While transparency is important, the collection of data should not be usable as 
 The tools to collect the data should be decentralized and federated so that it is not possible for a central authority to gain control of them (e.g. similar to the fediverse).
 So even if there is currently no authoritarian entity interested in gaining control over the data, it should also not be possible to do so in the future.
 
+<a class="anchor" name="huge_warehouses"></a>
+### [Does a needs-based economy require huge warehouses to fulfill all needs?](#huge_warehouses)
+
+You might think that a needs-based economy either only produces once a need is voiced or requires huge warehouses to fulfill all needs.
+But that's not the case. First, [needs](#needs) are not wishes. Not every wish has to be fulfilled immediately by the economy.
+Second, depending on the type of product or service future needs can be estimated in advance by evaluating past usage and production can thus be planned.
+For other types of products or services production on demand is best to fulfill very individual needs.
+As supply chains no longer need to be optimized for profit, they can be optimized for both efficiency and sustainability balanced by the urgency of the need. Depending on this optimization, warehouses might even become smaller and more decentralized.
+
 <a class="anchor" name="barter_trade"></a>
 ### [Will barter and trade always exist?](#barter_trade)
 
@@ -444,7 +465,7 @@ It would be great and easier if the whole planet would switch to anarchist econo
 <a class="anchor" name="transfer_non_anarchist"></a>
 ### [How could the transfer of goods or resources happen with not-yet-anarchist economies/areas?](#transfer_non_anarchist)
 
-As anarchist economies don't use money, they can't buy or sell goods from not-get anarchist areas. If the other areas are hostile towards the anarchist economy, they might not want to interact with it at all or try to coerce the anarchist area into an unfair exchange of goods. Ideally, anarchist economies would not depend on that.
+As anarchist economies don't use money, they can't buy or sell goods from not-yet anarchist areas. If the other areas are hostile towards the anarchist economy, they might not want to interact with it at all or try to coerce the anarchist area into an unfair exchange of goods. Ideally, anarchist economies would not depend on that.
 A fair exchange might be a long-term contract defining exactly which quantities of which goods in which intervals are transferred so that this agreement can enable some planning and security of supply.
 
 <a class="anchor" name="military_aggression"></a>
@@ -506,10 +527,11 @@ Building unions is one form of anarchist self-organization and mutual aid. As ca
 ### [How can we transform into anarchist economies?](#transformation)
 
 We can share information about the feasibility of anarchist economies and thus change the narrative of there being only one economic possibility.
-We can start building structures of anarchist economies within the old system (as good as possible without getting frustrated).
+We can start building organizations and structures of anarchist economies within the old system (as good as possible without getting frustrated).
 This is called prefigurative politics. It allows us to experiment with and practice anarchist capabilities while building infrastructure useful for the present and the anarchist future.
 We can also start making more plans for future anarchist economies, either as role play or more seriously:
 Which production facilities could be reused, and which are useless? What are the most important elements of the infrastructure to fulfill the needs? What would you work on during and after the transformation?
+All these diverse approaches need to grow into a broad movement of many, many people sharing a broad consensus on what they fight for.
 Let's build many anarchist economics oases, bridges, and networks within the capitalist desert until the wildflowers start growing all over.
 
 While spreading the information and building anarchist infrastructure, social security systems like an UBI are helpful, as they allow for some freedom.
