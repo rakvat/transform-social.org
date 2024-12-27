@@ -1,9 +1,11 @@
 body {
-  color: #888;
+  color: #aaa;
+  font-size:20px;
 }
 h1, h2, h3, h4, h5, h6 {
   color: white;
 }
+h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:24px}h6{font-size:22px}
 
 a {
   color: #ab50a7;
@@ -37,7 +39,7 @@ nav.w3-bar {
   border-bottom: 1px solid #282828;
 }
 nav a, nav a:visited {
-  color: #888 !important;
+  color: #aaa !important;
 }
 nav .w3-bar-item:hover {
   color: white !important;
@@ -45,7 +47,7 @@ nav .w3-bar-item:hover {
 }
 nav a.brand {
   color: white !important;
-  font-size: 18px;
+  font-size: 22px;
 }
 nav .brand-text {
   @media only screen and (max-width: 290px) {
