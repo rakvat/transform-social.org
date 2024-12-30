@@ -334,7 +334,7 @@ Nein, jeder Lohn oder jedes Entgelt für Arbeit (egal ob in Form von Geld oder W
 
 1. Unabhängig davon, ob der Lohn nach Ausbildung, Erfahrung, Arbeitsstunden oder Anstrengung berechnet wird - es kann nie ein Konzept geben, das für alle gerecht ist.
 2. Der Lohn ist ein externer Motivator oder sogar ein Zwang, wenn Menschen für ihre Grundbedürfnisse auf den Lohn angewiesen sind. Externe Motivation ist weder gut für die Qualität der Arbeit noch für die psychische Gesundheit der Arbeitenden.
-3. Die Idee des Lohns erfordert die Unterscheidung zwischen Arbeit, für die mensch Lohn erhält, und anderer Arbeit, für die mensch keinen Lohn erhält. In Europa macht die nicht entlohnte Arbeit mindestens 40% der gesamten Arbeit aus (meist Pflegearbeit). Diese Unterscheidung ist entwürdigend und ungerecht.
+3. Die Idee des Lohns erfordert die Unterscheidung zwischen Arbeit, für die mensch Lohn erhält, und anderer Arbeit, für die mensch keinen Lohn erhält. In Europa macht die nicht entlohnte Arbeit mindestens 40% der gesamten Arbeit aus (meist [Care-Arbeit](#care_arbeit)). Diese Unterscheidung ist entwürdigend und ungerecht.
 4. Die Idee der Lohnarbeit geht von einem Menschenbild aus, in dem Menschen genug Lohnarbeit leisten, um ihre Bedürfnisse zu erfüllen. Alle anderen müssen sich auf Sozialleistungen verlassen, was entwürdigend und ableistisch ist.
 
 Eine anarchistische Wirtschaft, wie sie in diesem Text vorgestellt wird, würde daher weder Geld, noch Wertmarken, noch Lohn verwenden. Die Verteilung basiert ohnehin auf den Bedürfnissen.
@@ -344,7 +344,8 @@ Eine anarchistische Wirtschaft, wie sie in diesem Text vorgestellt wird, würde 
 
 Wir werden wahrscheinlich weniger arbeiten müssen als heute, weil viele Tätigkeiten wie die im Finanzsektor, im Versicherungswesen oder in der Werbung nicht mehr gebraucht werden.
 Andere könnten vereinfacht werden, weil Informationen über Produktionsprozesse offengelegt werden könnten, sodass die Forschung nicht mehr doppelt durchgeführt werden muss.
-Der Umfang der notwendigen Arbeit hängt sowohl von den Bedürfnissen und Entscheidungen der Gemeinschaft ab, in der Sie leben, als auch vom Ausmaß der Umweltschäden, die saniert werden müssen.
+Da bisher unbezahlte [Care-Arbeit](#care_arbeit) dann mitgedacht werden wird, kommt dieser Bereich zu den notwendigen Tätigkeiten hinzu.
+Der Umfang der notwendigen Tätigkeiten hängt sowohl von den Bedürfnissen und Entscheidungen der Gemeinschaft ab, in der Sie leben, als auch vom Ausmaß der Umweltschäden, die saniert werden müssen.
 
 <a class="anchor" name="besitz_produktionsmittel"></a>
 ### [Wer besitzt die Produktionsmittel?](#besitz_produktionsmittel)
@@ -383,18 +384,19 @@ Dies verringert den Verbrauch von Transportmitteln und die Zahl der betroffenen 
 Bei Bedarf ist jedoch auch eine überlokale Zusammenarbeit und Produktion für Menschen in anderen Regionen und Kontinenten möglich.
 
 <a class="anchor" name="arbeitsverteilung"></a>
-### [Wie wird die notwendige Arbeit verteilt?](#arbeitsverteilung)
+### [Wie werden die notwendigen Tätigkeiten verteilt?](#arbeitsverteilung)
 
-Für den Fall, dass die Arbeitsverteilung in Teilen nicht einfach dadurch funktioniert, dass sich Menschen etwas aussuchen, was sie gerne tun möchten,
+Für den Fall, dass die Verteilung der notwendigen Tätigkeiten in Teilen nicht einfach dadurch funktioniert,
+dass sich Menschen etwas aussuchen, was sie gerne tun möchten,
 kann es für die weniger beliebten Tätigkeiten ein Informationsmedium geben, das ankündigt, wo Hilfe benötigt wird.
 Wenn diese Transparenzmaßnahme auch nicht hilft, können lokale Koordinierungskomitees relevante Informationen sammeln und Vorschläge zur Verteilung machen.
-Wenn z.B. eine wichtige, aber unbeliebte Arbeit ansteht, könnte ein Vorschlag darin bestehen, genügend Leute zu finden, die bereit sind, diese Arbeit im Wechsel zu übernehmen.
+Wenn z.B. eine wichtige, aber unbeliebte Tätigkeit ansteht, könnte ein Vorschlag darin bestehen, genügend Leute zu finden, die bereit sind, diese Tätigkeit im Wechsel zu übernehmen.
 Oder, wenn es sich um eine Art von Aufräumarbeiten handelt, die von Zeit zu Zeit erledigt werden müssen, könnte mensch einen Gemeinschaftstag einführen,
-an dem sich alle zusammentun, um die Arbeit zu erledigen und dabei Spaß zu haben.
+an dem sich alle zusammentun, um die Tätigkeit zu erledigen und dabei Spaß zu haben.
 Oder, wenn eine lokale Produktionsstätte, die auch Produkte in andere Regionen liefert, viel Arbeit erfordert, könnte das Koordinierungskomitee benachbarte Gemeinschaften um Unterstützung bitten.
 
-<a class="anchor" name="taetigkeitsrotations"></a>
-### [Müssen alle Tätigkeiten rotiert werden?](#taetigkeitsrotations)
+<a class="anchor" name="taetigkeitsrotation"></a>
+### [Müssen alle Tätigkeiten rotiert werden?](#taetigkeitsrotation)
 
 Nein. Es ist in Ordnung, sich ein ganzes Leben lang einer Tätigkeit zu widmen, wenn es das ist, was dir Spaß macht.
 Wenn du jedoch eine sehr beliebte Tätigkeit ausführst, könnte die Gemeinschaft dir nahelegen, auch für einige Stunden weniger beliebte Tätigkeiten zu erledigen.
@@ -403,7 +405,7 @@ Manche Tätigkeiten erfordern eine intensive Ausbildung. Freiwillige für diese 
 
 <a class="anchor" name="arbeitszwang"></a>
 ### [Gibt es Arbeitszwang?](#arbeitszwang)
-
+kk
 Nein. Vielleicht ein leichter Gruppendruck, je nach Gemeinschaft.
 Da die Produktionskollektive, also die, die die Tätigkeiten ausführen, entscheiden können wie sie arbeiten wollen,
 kann die Arbeitsweise so angepasst werden, dass sie so angenehm wie möglich ist, je nach den Vorlieben der Leute im Produktionskollektiv.
@@ -418,9 +420,25 @@ Das gibt ihnen Erfüllung und einen Sinn im Leben. Es ist auch eine Möglichkeit
 ### [Was wird als Arbeit definiert und was nicht?](#was_ist_arbeit)
 
 Dies kann von den lokalen Gemeinschaften und ihren Lebensgewohnheiten abhängen.
-Da es keine Vergütung für Arbeit gibt, ist eine Definition von Arbeit nicht erforderlich (deshalb ist in diesem Text auch eher die Rede von "Tätigkeit" als von "Arbeit").
+Da es keine Vergütung für Arbeit gibt, ist eine Definition von Arbeit nicht erforderlich
+(deshalb benutze ich manchmal "Tätigkeit" statt "Arbeit").
 Einige wollen vielleicht die Trennung von Arbeit und Nicht-Arbeit auflösen, indem sie die Arbeit angenehmer gestalten.
 Andere könnten versuchen zu definieren, welche Art von Tätigkeiten zur Erfüllung der Bedürfnisse erforderlich sind, und diese als Arbeit definieren.
+
+<a class="anchor" name="care_arbeit"></a>
+### [Was ist mit Care-Arbeit?](#care_arbeit)
+
+In einer bedürfnisorientierten Wirtschaft, ist Fürsorge eines von vielen Bedürfnissen, die erfüllt werden.
+Care-Arbeit (Sorge-Arbeit oder Reproduktionstätigkeiten) wird daher genauso anerkannt und ernst genommen wie andere notwendige Tätigkeiten.
+Das Besondere an Care-Arbeit ist, dass sie mit viel Verantwortung und Verbindlichkeit verbunden ist und die Menschen, die darin tätig sind,
+nicht beliebig ausgewechselt werden können. Z.B. braucht ein Baby einige aber nicht zu viele feste Bezugspersonen.
+
+Das und die für Care notwendige Zeit muss bei wirtschaftlicher Planung mitgedacht werden.
+Nicht als kapitalistisch zu minimierende Stunden, sondern als großzügig geschätzter Zeitraum,
+in dem nicht gleichzeitig andere Tätigkeiten erledigt werden können.
+Wie genau Care mitgedacht und geplant wird, kann auf lokaler Ebene entschieden werden.
+Mit der Verbesserung der Gesundheitsversorgung, des Bildungssystems und anderen gesellschaftlichen Veränderungen,
+wird die Menge der notwendigen Care-Tätigkeiten vermutlich leicht zurückgehen.
 
 ## 7. Konfliktklärung und begrenzte Ressourcen
 
@@ -596,7 +614,7 @@ Alle sollten in der Lage sein, das zu bekommen, was sie brauchen, ohne sich auf 
 <a class="anchor" name="innovation"></a>
 ### [Wie ist Innovation in anarchistischen Wirtschaften möglich?](#innovation)
 
-Da weniger Stunden Arbeit pro Tag notwendig sein werden, bleibt mehr Freizeit für Inspiration.
+Da weniger Stunden monotoner entfremdeter Tätigkeit pro Tag notwendig sein werden, bleibt mehr Freizeit für Inspiration.
 Außerdem könnten Informationen über innovative Ideen im Informationssystem frei ausgetauscht werden,
 da sie nicht mehr zu Gewinnzwecken verwendet werden können, was neue Ideen und Synergien ermöglicht.
 

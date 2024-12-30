@@ -126,7 +126,7 @@ Marxism mostly focuses on the exploitation of workers. Not all marxists are crit
 The economic concepts of anarcho-communism, libertarian socialism, or free access socialism are mostly the same.
 Also gift economy or library economy are sometimes used as terms for similar economic concepts.
 In doubt, it's best to ask what is meant.
-The important questions to ask are "who owns the means of production", "who decides what to produce and how to distribute", and "what about care-work"?
+The important questions to ask are "who owns the means of production", "who decides what to produce and how to distribute", and "what about care work"?
 
 <a class="anchor" name="diversity_of_economies"></a>
 ### [Will there be only one type of anarchist economy? Is there a blueprint?](#diversity_of_economies)
@@ -256,7 +256,7 @@ No, any wage or remuneration for work (no matter if it's money or tokens represe
 
 1. Regardless of whether the wage is calculated depending on education, experience, hours, or effort - there can never be a concept that is fair to everyone.
 2. Wage is an external motivator, or even coercion if people depend on the wage for basic needs. External motivation is neither good for the quality of the work nor the mental health of the worker.
-3. The idea of wages requires the distinction between work for which you get wages and other work for which you don't get wages. In Europe, non-waged work is at least 40% of all work (mostly care work). This distinction is degrading and unfair.
+3. The idea of wages requires the distinction between work for which you get wages and other work for which you don't get wages. In Europe, non-waged work is at least 40% of all work (mostly [care work](#care_work). This distinction is degrading and unfair.
 4. The idea of waged labor assumes the "normal" human to be someone who does enough wage labor to fulfill their needs. All others need to rely on social benefits, which is degrading and ableist.
 
 Anarchist economics as envisioned by this FAQ would thus use neither money, nor tokens, nor wage, as the distribution is based on need anyway.
@@ -265,7 +265,9 @@ Anarchist economics as envisioned by this FAQ would thus use neither money, nor 
 ### [How much do we have to work in anarchist economies?](#amount_work)
 
 We will probably have to work less than today because many jobs like those in the financial sector, insurance, or advertising won't be needed anymore.
-Others could be simplified because information about production processes could be open so research does not have to be duplicated. The amount of necessary work depends both on the needs and decisions of the community you live in and on the extent of environmental damage that will need effort for restoration.
+Others could be simplified because information about production processes could be open so research does not have to be duplicated.
+As now unpaid [care work](#care_work) will be thought of, this section of work will be added as necessary work.
+The amount of necessary work depends both on the needs and decisions of the community you live in and on the extent of environmental damage that will need effort for restoration.
 
 <a class="anchor" name="who_owns_means_of_production"></a>
 ### [Who owns the means of production?](#who_owns_means_of_production)
@@ -319,7 +321,25 @@ After some time of relaxation, most people feel the need to get involved, to con
 <a class="anchor" name="what_is_work"></a>
 ### [What is defined as work and what is not?](#what_is_work)
 
-This can depend on local communities and their way of living. As there is no remuneration for work, a definition of work is not a requirement. Some might want to dissolve the concepts of work and non-work by making work more pleasurable. Others might try to define what kind of activities are needed to meet all needs and define those as work.
+This can depend on local communities and their way of living.
+As there is no remuneration for work, a definition of work is not a requirement.
+Some might want to dissolve the concepts of work and non-work by making work more pleasurable.
+Others might try to define what kind of activities are needed to meet all needs and define those as work.
+
+<a class="anchor" name="care_work"></a>
+### [What about Care-Work?](#care_work)
+
+In a needs-based economy, care is one of many needs that will be fulfilled.
+Care work (reproductive work) will thus be accepted and taken seriously in the same way as other work.
+What's special about care work is that it requires a lot of responsibility and commitment and people working in care can't be randomly interchanged.
+E.g. a baby needs some but not too many permanent caregivers.
+
+That and the time required for care need to be considered in economic planning.
+Not as the number of hours to be minimized in a capitalistic fashion, but as a generously estimated period,
+in which no other work can be done in parallel.
+How to think about and plan care work exactly can be decided on the local level.
+The improvement of healthcare, the educational system, and other societal changes might also
+slightly reduce the amount of needed care work.
 
 ## 7. Conflict Resolution and Limited Ressources
 
@@ -443,7 +463,7 @@ everyone should be able to get what they need without having to engage in barter
 <a class="anchor" name="innovation_possible"></a>
 ### [How is innovation possible in anarchist economies?](#innovation_possible)
 
-Because people will work only a few hours per day, there will be more leisure time for inspiration. Also, information about innovative ideas could be freely shared in the information system, as they can't be used for profit any more, sparking new ideas and cooperation.
+Because people will do less hours of monotonous and alienated work per day, there will be more leisure time for inspiration. Also, information about innovative ideas could be freely shared in the information system, as they can't be used for profit any more, sparking new ideas and cooperation.
 
 <a class="anchor" name="resources_for_research"></a>
 ### [Will researchers get resources for their work?](#resources_for_research)
