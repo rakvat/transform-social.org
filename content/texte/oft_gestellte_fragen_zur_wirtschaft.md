@@ -426,11 +426,11 @@ Einige wollen vielleicht die Trennung von Arbeit und Nicht-Arbeit auflösen, ind
 Andere könnten versuchen zu definieren, welche Art von Tätigkeiten zur Erfüllung der Bedürfnisse erforderlich sind, und diese als Arbeit definieren.
 
 <a class="anchor" name="care_arbeit"></a>
-### [Was ist mit Care-Arbeit?](#care_arbeit)
+### [Was ist mit Care-Tätigkeiten?](#care_arbeit)
 
 In einer bedürfnisorientierten Wirtschaft, ist Fürsorge eines von vielen Bedürfnissen, die erfüllt werden.
 Care-Arbeit (Sorge-Arbeit oder Reproduktionstätigkeiten) wird daher genauso anerkannt und ernst genommen wie andere notwendige Tätigkeiten.
-Das Besondere an Care-Arbeit ist, dass sie mit viel Verantwortung und Verbindlichkeit verbunden ist und die Menschen, die darin tätig sind,
+Das Besondere an Care-Tätigkeiten ist, dass sie mit viel Verantwortung und Verbindlichkeit verbunden sind und die Menschen, die darin tätig sind,
 nicht beliebig ausgewechselt werden können. Z.B. braucht ein Baby einige aber nicht zu viele feste Bezugspersonen.
 
 Das und die für Care notwendige Zeit muss bei wirtschaftlicher Planung mitgedacht werden.
