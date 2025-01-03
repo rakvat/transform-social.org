@@ -32,13 +32,13 @@ Or, as Erich Mühsam put it in "Liberating Society From the State": *"Thoughts d
 
 René criticizes my way of thinking and writing as theoretical and even dogmatic. He prefers gaining knowledge in an empirical way, e.g. by studying historical events.
 He notes *"each generation is obliged to reinvent everything, which produces a real sense of annoyance"* lamenting the fact that in his opinion new generations of anarchists did not learn enough about historic anarchism.
-For me, looking back at history can be interesting and a source of inspiration but I feel that our situation today is different from the situation 100 years ago and we need to adapt our ways of thinking to today's needs.
+Looking back at history can be interesting and a source of inspiration. However, for some cases that happened more than 50 years ago, I feel that our situation today is different and we need to adapt our ways of thinking to today's needs.
 
 Anarchism is not a dictum but a diverse collection of many currents evolving over time.
 I mostly support [Voline's idea](https://theanarchistlibrary.org/library/voline-synthesis-anarchist) of synthesis anarchism and I'm organized in a [synthesist anarchist federation](https://fda-ifa.org/).
-However, I would say that for educational purposes (new generations of anarchists enter the movement all the time), it still makes sense to clearly and constructively state and discuss the differences and pros and cons of different anarchist currents.
-Not to be dogmatic about anarchist theory but to spark the discussion among anarchists about what want to achieve, as a step towards the transformation into anarchist societies. This is usually the purpose of my texts.
-On the other hand, for practical purposes and organizing I agree that we should go the synthesist way of respectfully working together and not insisting on pure doctrine.
+I would say that for educational purposes (new generations of anarchists enter the movement all the time), it still makes sense to clearly and constructively state and discuss the differences and pros and cons of different anarchist currents.
+Not to be dogmatic about anarchist theory but to spark the discussion among anarchists about what we want to achieve, as a step towards the transformation into anarchist societies. This is usually the purpose of my texts.
+For practical purposes and organizing, I agree that we should go the synthesist way of respectfully working together and not insisting on pure doctrine.
 
 On the question of how to learn about anarchism, I think we should acknowledge that it's good that various anarchists have various methods of thinking and gaining knowledge:
 while some get excited about people recounting their experiences of historical events, others like fiction (e.g. solarpunk) to spark their imagination,
@@ -69,7 +69,7 @@ But the different approaches of Bakunin and Kropotkin - the anarcho-syndicalism 
 
 From what I understand, there existed a wide diversity of interpretations and implementations of anarchist ideas in Spain 1936-39.
 This diversity and coexistence of economic models is good and expected.
-I don't think it can or should be proven that one anarchist current won over the other and I don't see any value in this debate.
+While I enjoyed researching this a bit, I don't think it can or should be proven that one anarchist current won over the other, and I don't see a lot of value in this debate.
 I find it more fruitful to debate the pros and cons of money, vouchers, remuneration of work, or needs-based economics so that we know what we strive for and can prepare for the transformation
 while acknowledging that in praxis multiple approaches will coexist and evolve with gained experience.
 
@@ -78,8 +78,8 @@ while acknowledging that in praxis multiple approaches will coexist and evolve w
 René writes about the Zaragoza Congress in 1936 *"The resolutions of the Zaragoza Congress expressed ignorance of the economic mechanisms of society and contempt for economic and social reality."*
 and suspects that I might have similar intentions.
 
-I'm not sure what exactly happened then but if the anarcho-communists unfairly dominated the discourse, I'm sorry about that.
-That's not what I have in mind when I write about the coexistence of multiple economic systems.
+I'm not sure what exactly happened then, but if the anarcho-communists unfairly dominated the discourse, this should indeed be criticized.
+Domination of the discourse is not what I have in mind when I write about the coexistence of multiple economic systems.
 While I like the theoretical development of anarcho-communist ideas, imagining an anarcho-communist utopia, also in order to challenge my own ideas,
 I do think about the [coexistence of multiple macro-level economic systems](/en/texts/economics_faq/#coexistence_conditions).
 As stated above, coexistence of multiple models is what happened in Spain and what will probably happen in future cases as well and what is the characteristic of anarchism anyway.
@@ -97,7 +97,7 @@ the freedom to cooperate and stop cooperating at any time when the free associat
 I was always under the assumption that Kropotkin and anarcho-communists including myself meant long-term stable agreements which are maintained with responsibility.
 Kropotkin even uses railways as an example which can't function without responsible long-term agreements.
 
-I think regional and even planetary anti-authoritarian organizational structures are important and possible when it comes to organizing modern economies.
+I think regional and even planetary anti-authoritarian organizational structures are necessary and feasible when it comes to organizing modern economies.
 
 ## Market Criticism
 
@@ -123,7 +123,8 @@ and housing varies from region to region (depending e.g. on weather and culture)
 I consider all needs individual but I'm not worried about that concerning the ability to plan economies or to handle scarcity.
 The idea of defining "collective needs" that are supposed to be common for all people sounds paternalistic to me.
 Who am I to decide about the needs of other people? To decide which needs are valid and which are not?
-Are those talking about "collective" or "global" needs in fact only thinking about *"his needs"* and not her or their needs? Are people with needs that don't match the "collective needs" then invalid people?
+Are those talking about "collective" or "global" needs only thinking about *"his needs"* (men)
+and not her or their needs (including women and non-binary people)? Are people with needs that don't match the "collective needs" then invalid people?
 
 René thinks applying the principle of distribution based on need leads to either bureaucracy, scarcity, or wasteful abundance in huge warehouses.
 In the FAQ I explained that distribution based on need should not be confused with "everyone gets whatever they desire without any delay"
@@ -134,7 +135,7 @@ I agree with René that almost nothing is completely free in the sense that most
 I don't agree that we can measure the value of things in a single number, the price. In times of scarcity, communities, regions, and the planet will have to
 [decide how to use scarce resources and how to distribute](/en/texts/economics_faq/#distribution_of_scarce_goods) them.
 This is not an easy task but in my opinion, it becomes feasible using modern technology like real-time communication via the internet.
-Thus falling back to prices, markets, and work remuneration which have clear drawbacks compared to distribution based on need is not required.
+Thus falling back to prices, markets, and work remuneration – which have clear drawbacks compared to distribution based on need is not required.
 If I understand René correctly (*"No one is opposed to remuneration according to need"*) he is also in favor of distribution based on need
 if it turns out to be feasible in praxis. This remains to be proven.
 
@@ -163,8 +164,9 @@ and enjoying all their rights, both political and social, will be
 treated and maintained profusely at the expense of society.”
 </em>
 
-I find this problematic for multiple reasons: Comparing humans with [parasites](https://en.wikipedia.org/wiki/Jewish_parasite#Economic_antisemitism_in_the_19th_century) is in my opinion something to avoid.
+I find this problematic for multiple reasons:
 Equating work with production means explicitly excluding reproductive work. Care work stays invisible in this description and we have to assume that the idea is that "wives" continue to silently do this work.
+Comparing humans with [parasites](https://en.wikipedia.org/wiki/Jewish_parasite) is in my opinion something to avoid.
 However, what I find most problematic is that all of the people listed in the quote will be *"treated and maintained profusely at the expense of society"*.
 This makes them the exception from the norm and the passive dependent receivers of social benefits, which is degrading and ableist.
 In an anarcho-communist economy, they would be treated like any other human as we all have needs.
@@ -188,8 +190,8 @@ René rejects these ideas as *"new inclusive-woke-self-flagellating fashion"*, l
 "Woke" is now mostly [used as a pejorative](https://en.wikipedia.org/wiki/Woke#2019%E2%80%93present:_as_a_pejorative) by people like Elon Musk.
 As anarchists, we can choose to create a different discourse.
 
-Intersectionality and critical whiteness are not about self-flagellation but about being open to listing to how others experience hierarchies and structural discrimination,
-reflecting our privileges and using them as allies, fighting together in solidarity to end all forms of oppression.
+Intersectionality and critical whiteness are not about self-flagellation but about being open to listening to how others experience hierarchies and structural discrimination,
+reflecting our privileges, and using these privileges as allies, fighting together in solidarity to end all forms of oppression.
 Some people experiencing discrimination based on race, gender identity, sexual orientation, body norms, religion, age, ability to perform, poverty, ... realize that to end the form of oppression they are most affected by,
 they need to also fight capitalism. Anarchist intersectionality is about fighting this fight together, constructively, while still acknowledging our differences.
 Intersectional thinking also prevents us from proposing universal dogmatic solutions that are supposed to be the blueprint of utopia, the "right" way to life as imposed on all of us in a colonial fashion.
@@ -198,5 +200,5 @@ Also, I think it's important to be open towards new developments in anarchism es
 
 ---
 
-Thanks to René Berthier for his extensive comments on my text. I hope this answer does not come across as disrespectful.
+I would like to thank René Berthier for his extensive comments on my text. I hope this answer does not come across as disrespectful.
 My intention was to continue the debate on anarchist economics and I hope this text might spark some further educational debate between anarchists while working together in solidarity and synthetic federations in praxis.
