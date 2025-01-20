@@ -9,11 +9,14 @@ Catchphrases: Die Komplexität und Fragilität kann durch Methoden der Dezentral
 
 [english version](/en/texts/economics_faq/)
 
+[Zine-Format (PDF)](/documents/wirtschaft_faq.pdf)
+
 # Wie funktioniert anarchistische Wirtschaft?
 
 Dieser Text enthält häufig gestellte Fragen zu anarchistischer Wirtschaftsweise und deren Antworten.
 Er konzentriert sich auf die anarcho-kommunistische Variante des Anarchismus.
 Die Antworten geben die Meinung der Autor\*in wieder und repräsentieren nicht die Ideen einer Organisation.
+Ziel ist es nicht, "die richtige" Wirtschaftsweise festzulegen, sondern Diskussion anzuregen.
 Die Antworten sind absichtlich kurz und prägnant gehalten.
 
 ## 0. Die Reichweite von Wirtschaft
@@ -405,7 +408,7 @@ Manche Tätigkeiten erfordern eine intensive Ausbildung. Freiwillige für diese 
 
 <a class="anchor" name="arbeitszwang"></a>
 ### [Gibt es Arbeitszwang?](#arbeitszwang)
-kk
+
 Nein. Vielleicht ein leichter Gruppendruck, je nach Gemeinschaft.
 Da die Produktionskollektive, also die, die die Tätigkeiten ausführen, entscheiden können wie sie arbeiten wollen,
 kann die Arbeitsweise so angepasst werden, dass sie so angenehm wie möglich ist, je nach den Vorlieben der Leute im Produktionskollektiv.
@@ -500,7 +503,7 @@ Sich nicht um Bedürfnisse wie Nahrung und Wohnung, Freund\*innen und Glück kü
 Das Recht, viel mehr zu besitzen als andere oder viel mehr zu konsumieren als nötig, könnte als ein unethisches Konzept eines guten Lebens angesehen werden.
 
 <a class="anchor" name="nachfrage_und_angebot"></a>
-### [Was getan werden, wenn die Nachfrage das Angebot übersteigt?](#nachfrage_und_angebot)
+### [Was kann getan werden, wenn die Nachfrage das Angebot übersteigt?](#nachfrage_und_angebot)
 
 Auch dies kann von Fall zu Fall entschieden werden.
 Es könnte möglich sein, das Angebot zu erhöhen, indem mensch mehr Freiwillige für die Tätigkeit findet, indem mensch die Tätigkeit angenehmer gestaltet oder indem mensch sie automatisiert.

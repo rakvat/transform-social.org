@@ -9,7 +9,7 @@ Slug: index
 
 *transform-social* beschäftigt sich mit den Möglichkeiten zur Transformation in sozialere, solidarischere, freiere und herrschaftsärmere Gesellschaften.
 
-[Diese kurze Geschichte](/texte/knappheit) ist ein guter Einstieg, um die Fantasie anzuregen und Lust auf Transformation in andere Gesellschaften zu bekommen.
+[Diese kurze Geschichte](/texte/knappheit/) ist ein guter Einstieg, um die Fantasie anzuregen und Lust auf Transformation in andere Gesellschaften zu bekommen.
 
 ## <img src="/images/icon.png" alt="transform-social icon"/> Kritik
 
@@ -29,6 +29,8 @@ esoterischen Strömungen.
 Wohin könnte Transformation sich entwickeln? Wie würden Gesellschaften aussehen, die freier und
 solidarischer als die jetzigen sind? Utopien sind hier definiert als realisierbare und sich
 ständig weiter entwickelnde Vorstellungen zur Orientierung der Transformation.
+
+Oft gestellte Fragen zu anarchistischer Wirtschaftsweise werden [in diesem FAQ](/texte/oft_gestellte_fragen_zur_wirtschaft/) beantwortet.
 
 Der [Utopie-Check](/texte/utopie_check/) ist ein ausführlicher Text über die Entwicklung von Utopien,
 wichtige Kriterien für gute Utopien und Möglichkeiten zur Transformation.
