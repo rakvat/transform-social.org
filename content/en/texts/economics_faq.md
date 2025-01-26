@@ -9,11 +9,14 @@ Catchphrases: The complexity and fragility can be reduced by methods of decentra
 
 [deutsche Fassung](/texte/oft_gestellte_fragen_zur_wirtschaft/)
 
+[Zine-Format (PDF)](/documents/economics_faq.pdf)
+
 # Anarchist Economics FAQ
 
 This text contains frequently asked questions (FAQ) about anarchist economics and their answers.
 It focuses on the anarcho-communist flavor of anarchism.
 The answers are the author's opinion and don't represent the ideas of any organization.
+The goal is not to define "the right" school of economics but to inspire discussion.
 The answers are intentionally kept short and concise.
 
 ## 0. The Scope of Economics
@@ -341,7 +344,7 @@ How to think about and plan care work exactly can be decided on the local level.
 The improvement of healthcare, the educational system, and other societal changes might also
 slightly reduce the amount of needed care work.
 
-## 7. Conflict Resolution and Limited Ressources
+## 7. Conflict Resolution and Limited Resources
 
 <a class="anchor" name="not_contributing"></a>
 ### [What if someone does not contribute anything and uses a lot of resources?](#not_contributing)
@@ -370,7 +373,7 @@ Yes, there can be products from other regions. To reduce transportation resource
 <a class="anchor" name="enough_for_everyone"></a>
 ### [Is there enough for everyone?](#enough_for_everyone)
 
-It's important to reject right-wing ideogies which claim there would not be enough for everyone and thus people should be excluded and only a selected elite should get the available resources.
+It's important to reject right-wing ideologies which claim there would not be enough for everyone and thus people should be excluded and only a selected elite should get the available resources.
 In times of climate crisis it can be come more difficult to produce enough for everyone living on earth today.
 But we can do it. It is in our hands to produce and distribute in a way that there is enough for everyone. Everyone can have a [good life](#good_life).
 
