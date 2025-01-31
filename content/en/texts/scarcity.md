@@ -75,7 +75,7 @@ Changes in the assessment of the scarcity of raw materials and the associated qu
 All this information can be viewed transparently by everyone involved. This open communication means that supply chains are well coordinated.
 Supply chain transparency also has the advantage that the fair distribution of scarce goods to the regions can be reviewed and adjusted.
 
-Like Finn's colleagues, Finn also noticed that Bo was a little depressed.
+Like Bo's colleagues, Finn also noticed that Bo was a little depressed.
 Bo thought it could be due to the long period of dealing with the scarce commodity of water.
 They immediately went to a nearby health center together.
 In a conversation with a person there, it was decided that Bo would be relieved from work assignments for now and would receive weekly visits from a psychotherapist.
