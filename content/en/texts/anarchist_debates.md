@@ -119,7 +119,7 @@ For those "collective needs" *"to each according to his needs"* would not apply.
 *"it makes the debate between supporters of collectivism and supporters of anarchist communism completely obsolete"*.
 
 I disagree. While all humans need e.g. water, food, clothes, and housing, the amount of water and the type of food, clothes,
-and housing varies from region to region (depending e.g. on weather and culture) and from human to human (depending e.g. on body type and age).
+and housing varies from region to region (depending e.g. on climate and culture) and from human to human (depending e.g. on body type and age).
 I consider all needs individual but I'm not worried about that concerning the ability to plan economies or to handle scarcity.
 The idea of defining "collective needs" that are supposed to be common for all people sounds paternalistic to me.
 Who am I to decide about the needs of other people? To decide which needs are valid and which are not?
