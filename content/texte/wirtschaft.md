@@ -12,7 +12,7 @@ Catchphrases: Wirtschaft ist die Organisation von Produktion und Distribution. |
 # Wirtschaft geht besser ohne Kapitalismus
 
 Die Probleme des Kapitalismus von Umweltzerstörung über Krisen bis Ungerechtigkeiten sind [bekannt](/texte/10_gruende/). Viele können sich trotzdem kein anderes Wirtschaftssystem als den Kapitalismus vorstellen.
-Im Folgenden beschriebe ich kurz und knapp, wie Wirtschaft in anarchistischen Gesellschaften funktionieren kann.
+Im Folgenden beschreibe ich kurz und knapp, wie Wirtschaft in anarchistischen Gesellschaften funktionieren kann.
 
 Disclaimer: ich spreche nur für mich und nicht für irgendeine anarchistische Organisation.
 
@@ -132,7 +132,7 @@ Heute haben wir bessere Kommunikationsmittel, wie das Internet, um, bei Bedarf, 
 
 Diese Probleme existieren meiner Meinung nach auch mit lokalen Währungen, Tauschringen, Arbeitsgutscheinen und ähnlichen.
 
-Eine anarchistische Strömung, die Markt befürwortet, ist der Mutualismus.
+Eine anarchistische Strömung, die Markt befürwortet, ist der Kollektivismus.
 
 ### Die Produzierenden entscheiden
 

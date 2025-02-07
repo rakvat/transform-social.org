@@ -178,7 +178,7 @@ CyberSyn consisted of four main components that will be explained in the followi
 
 The core components of cybernetic systems are communication and feedback. As this is just 2 years after the
 <a href="https://en.wikipedia.org/wiki/ARPANET" target="__blank">ARPANET</a>,
-there is no such thing as the Internet at the time. Also, Chile did not have enough computers at that time to create a
+there is no such thing as the Internet at the time. Also, Chile did not have enough computers to create a
 network. Luckily, someone on the team found some unused Telex-machines so they built a network of those.
 Telex-machines are predecessors of fax machines that were connected to the telephone network but could only send text
 messages.
@@ -277,7 +277,7 @@ The OpsRoom, the misportrayed symbol of control, was destroyed by the putschists
 
 Even though this is a very sad ending, there is still a lot to learn from project CyberSyn. A group of very enthusiastic people was able to implement all of this in less than three years. If you look at some of the resources mentioned below, you get the vibes of their enthusiasm. Compared to the impact and success of this project, it is surprisingly almost never mentioned.
 
-The Viable System Model can still be a valuable tool to debug organizations. It allows checking if there are missing channels of communication, if some units, deal with too much complexity, or if there is a lack of information or purpose in some units. Using this model, Stafford Beer describes the disadvantages of top-down organizations in complex environments and thus makes the case for decentralized anarchist societies.
+The Viable System Model can still be a valuable tool to debug organizations. It allows checking if there are missing channels of communication, if some units deal with too much complexity, or if there is a lack of information or purpose in some units. Using this model, Stafford Beer describes the disadvantages of top-down organizations in complex environments and thus makes the case for decentralized anarchist societies.
 
 Looking at the technical tools of CybeSyn 50 years after they were developed, some are of course outdated, but others are still a valid starting point when thinking about anarchist economies with decentralized real-time planning.
 
