@@ -143,7 +143,7 @@ System 1 unit is autonomous as long as it works within the constraints set by th
 of the whole system.
 
 System 2 is responsible for the communication between System 1 units. It
-ensures that System 1s don't have conflicting the VSM
+ensures that System 1s don't have conflicting
 goals and thus don't create overshooting or oscillating effects in the environment by
 trying to counter-act on what the other unit was doing.
 
@@ -201,17 +201,18 @@ As Beer has shown, decentral systems are best suited to handle complexity, espec
 not to force badly informed decisions on people. By absorbing complexity as much as possible at
 lower levels, the needs of the people can best be met as decisions are made at the source of the
 information. Also, higher levels, which are then freed from unnecessary complexity, can concentrate
-on those aspects that require coordination between multiple subsystems. The goal is to move
+on those aspects that require coordination between multiple subsystems.
 
 To give some more concrete examples: Child care can be organized at a very local level. Hospitals
 should be organized at a more regional level to cover the needs of the people and still be resource
 efficient. Food production can be handled partly at local, regional, and even planetary levels,
 depending on the food preferences and available resources. Allowed greenhouse gas emissions
 should be handled at a planetary level to stay within the planetary boundaries.
+
+The goal is to move
 information collection and decision-making to the lowest possible level while still adhering to limits
 set at the planetary level, related to measures to reduce the impact of climate change,
 standardization, knowledge sharing, freedom, and solidarity.
-
 
 ### Tools to Support Free and Solidary Societies
 
@@ -327,7 +328,7 @@ those who are impacted by them. If possible, the group of affected people should
 Consensus is the preferred decision-making method unless the people agree on other methods.
 Decisions are free agreements that can be changed when needed. The production is adjusted to the
 needs of the people while staying within the ecological bounds. Everyone gets what they need,
-independent of their work contribution. Houses, factories, products, resources, ... don't be long to
+independent of their work contribution. Houses, factories, products, resources, ... don't belong to
 anyone. They are used by those who need them. There is no money and no bartering.
 
 Everyone can work on what they want. If there is unpopular work that too few people want to pick
@@ -544,9 +545,9 @@ all perspectives, and consensus decisions when possible.
 
 ## Economic Models to support the Viability
 
-Above, I mentioned modeling of systems (e.g. with simulations) as one tool to support the decision-
-making in System 4. In this section, I will discuss the pros and cons of using various modeling-
-based methods to test the viability and resilience of free, solidary, and decentral systems.
+Above, I mentioned modeling of systems (e.g. with simulations) as one tool to support the
+decision-making in System 4. In this section, I will discuss the pros and cons of using various
+modeling-based methods to test the viability and resilience of free, solidary, and decentral systems.
 Models are always simplifications of reality with the danger of missing relevant aspects. Thus,
 models need to be treated with skepticism and care. Explanatory models can be used to test a
 hypothesis on causation. However, association and correlation do not imply causation. Modeling
@@ -585,8 +586,8 @@ choice set. Heterodox models often go back to the original definition of individ
 the amount of money earned minus the amount of labor done). I would argue that we should
 experiment with utility functions based on the happiness of communities or even the whole
 population and the ecological system as the well-being of others has an impact on everyone's mental
-health. Also, the concept of individual happiness should be questioned as a false assumption of neo-
-liberal thinking.
+health. Also, the concept of individual happiness should be questioned as a false assumption of
+neo-liberal thinking.
 
 Critics of the market equilibrium theory say that equilibriums don't match the reality of non-local
 markets. Colander (2008) et al. argue that living systems rarely are in equilibrium although the
@@ -653,7 +654,7 @@ In this article, cooperation is understood as mutual support or "tit for tat" to
 ### Modeling Experiments
 
 In this section, I describe my <a href="https://github.com/rakvat/ant_sim" target="__blank">initial experiments</a>,
-modeling economies . I started with a copy of the
+modeling economies. I started with a copy of the
 ABM Sugarscape, which is often used as a model for wealth distribution. The agents are ants that
 walk around to collect and eat sugar. Some areas have higher concentrations of sugar than others.
 The sugar regrows after being eaten. The agents are heterogeneous: Some need more sugar to
