@@ -80,7 +80,7 @@ Bo thought it could be due to the long period of dealing with the scarce commodi
 They immediately went to a nearby health center together.
 In a conversation with a person there, it was decided that Bo would be relieved from work assignments for now and would receive weekly visits from a psychotherapist.
 Bo didn't have to worry about anything else. The weekly visits, as well as the cure and the therapy group that the therapist had organized for Bo, helped.
-After a few months, they found a new job in a vegetable garden, where Bo helped out twice a week. Bo enjoyed supporting the groth of the plants.
+After a few months, they found a new job in a vegetable garden, where Bo helped out twice a week. Bo enjoyed supporting the growth of the plants.
 
 During the time in cure facilities, Bo had not even noticed that in the region's annual perspective discussion,
 it had been decided to equip the regional research center with new technology and additional people in order to
