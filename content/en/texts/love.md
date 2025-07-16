@@ -9,7 +9,7 @@ Catchphrases:  Why are we told this toxic story about love? | Not every problem 
 
 # Challenging „The one true Love“
 
-These are notes from a short presentation which can be found <a href="/documents/love.pdf" target="__blank">here</a>
+These are notes from a short presentation which can be found <a href="/documents/love.pdf" target="_blank">here</a>
 
 ## The story we are told
 
@@ -108,8 +108,8 @@ The Ethical Slut is a great introductory book which is reclaiming „slut“ as 
 
 <img src="/images/love_ethical_slut.jpg" alt="The Ethical Slut book cover">
 
-There is also a web series inspired by the book: <a href="https://www.youtube.com/channel/UCHL0tVF5VPueX1Oc6KXtpzA/playlists" target="__blank">The Ethical Slut Web-Series</a>
+There is also a web series inspired by the book: <a href="https://www.youtube.com/channel/UCHL0tVF5VPueX1Oc6KXtpzA/playlists" target="_blank">The Ethical Slut Web-Series</a>
 
-<a href="http://www.relationship-anarchy.com/" target="__blank">Relationship Anarchy</a>
+<a href="http://www.relationship-anarchy.com/" target="_blank">Relationship Anarchy</a>
 
-<a href="/documents/withOpenHands.pdf" target="__blank">Zine With Open Hands</a>
+<a href="/documents/withOpenHands.pdf" target="_blank">Zine With Open Hands</a>

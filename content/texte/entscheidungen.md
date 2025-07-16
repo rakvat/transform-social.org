@@ -21,7 +21,7 @@ Davon gibt es einige unterschiedliche Abwandlungen. Einige Gruppen entscheiden i
 
 Auch für den Prozess der Entscheidungsfindung und der Findung eines Konsens gibt es unterschiedliche Verfahren. Meist gibt es mehrere Phasen zur Information, zur Diskussion, zum Eingehen auf Bedenken und zur Entscheidung selbst. Die Entscheidung selbst wird meist nach Stufen abgefragt: Volle Zustimmung, Bedenken, Enthaltung, beiseite Stehen (ich bin dagegen, blockiere aber nicht) und Veto.
 
-<a href="/documents/zeichen_konsens.pdf" target="__blank">Dies</a> ist ein Handout von 2013, das sowohl Handzeichen zur Erleichterung des Prozesses als auch den Konsensprozess selbst beschreibt.
+<a href="/documents/zeichen_konsens.pdf" target="_blank">Dies</a> ist ein Handout von 2013, das sowohl Handzeichen zur Erleichterung des Prozesses als auch den Konsensprozess selbst beschreibt.
 
 
 ## Veto und Gefahren des Missbrauchs
@@ -35,7 +35,7 @@ Um diesen Missbrauch zu vermeiden ist es für Projekte wichtig, eine Vereinbarun
 
 ## Beispiel einer möglichen Vereinbarung zum Entscheidungsprozess
 
-Dieser Text basiert auf einem Vorschlag für einen Entscheidungsprozess für ein Hausprojekt von 2015, welcher wiederum auf Ideen von unter anderem <a href="http://www.ecovillagenewsletter.org/wiki/index.php/Is_Consensus_Right_for_Your_Group%3F_Part_I" target="__blank">diesem Konsensmodel von N Street Cohousing</a> aufbaut.
+Dieser Text basiert auf einem Vorschlag für einen Entscheidungsprozess für ein Hausprojekt von 2015, welcher wiederum auf Ideen von unter anderem <a href="http://www.ecovillagenewsletter.org/wiki/index.php/Is_Consensus_Right_for_Your_Group%3F_Part_I" target="_blank">diesem Konsensmodel von N Street Cohousing</a> aufbaut.
 
 Interessant sind auch die in diesem Text genannten Voraussetzungen für einen funktionierenden Konsensprozess:
 
@@ -65,7 +65,7 @@ Wir wollen keine Gemeinschaft von isolierten Menschen, die alleinverantwortlich 
 
 Je nach Umfang/Konfliktpotential der Entscheidung verändert sich der Umfang der Vorbereitung, der Zeit zur Diskussion auf dem Plenum. Wichtig ist nur, dass die Entscheidungsfrage klar gestellt und das Ergebnis klar festgehalten wird.
 
-Diese <a href="/documents/entscheidungen_graphik.pdf" target="__blank">Grafik</a> veranschaulicht den Prozess.
+Diese <a href="/documents/entscheidungen_graphik.pdf" target="_blank">Grafik</a> veranschaulicht den Prozess.
 
 ### 1. Vorbereitung der Entscheidung
 

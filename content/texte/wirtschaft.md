@@ -7,7 +7,7 @@ Tags: Wirtschaft, Anarchie
 Summary: Ein Überblick über Möglichkeiten anarchistischen Wirtschaftens.
 Catchphrases: Wirtschaft ist die Organisation von Produktion und Distribution. | Kapitalismus ist nur eine Möglichkeit, Wirtschaft zu organisieren - es gibt andere, bessere. | Markt existiert meist in Verbindung mit Arbeitslohn, der seinerseits negative Auswirkungen hat. | Arbeiten wird angenehmer gestaltet, Menschen können mitbestimmen, wie sie arbeiten wollen. | Aus meiner Sicht braucht es keine universelle Recheneinheit.
 
-<i>Text zu einer <a href="https://barrikade.info/article/6009" target="__blank">Veranstaltung in Winterthur</a>.</i>
+<i>Text zu einer <a href="https://barrikade.info/article/6009" target="_blank">Veranstaltung in Winterthur</a>.</i>
 
 # Wirtschaft geht besser ohne Kapitalismus
 

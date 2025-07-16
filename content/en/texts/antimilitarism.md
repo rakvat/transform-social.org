@@ -12,7 +12,7 @@ Catchphrases: Strive for the removal of all causes of war. | Some pacifists supp
 
 ## Why wars are horrible
 
-On 24 February 2022, Russian president Putin began a military invasion of Ukraine. This war is all over the European media right now. Sadly, it's not the only <a href="https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts" target="__blank">current armed conflict</a>.
+On 24 February 2022, Russian president Putin began a military invasion of Ukraine. This war is all over the European media right now. Sadly, it's not the only <a href="https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts" target="_blank">current armed conflict</a>.
 
 <center>
 <img src="/images/antimilitarism.jpg" alt="nie wieder krieg by artist Käthe Kollwitz">
@@ -39,7 +39,7 @@ The following is a German video with a message from Bernd Drücke. He talks abou
 
 ## Antimilitarism is not Pacifism is not passive Submission
 
-Critics of Antimilitarism <a href="https://www.kialo.com/anarcho-pacifism-is-ethical-39173.15" target="__blank">claim</a> that pacifism enables totalitarian systems as they falsely assume that pacifism is equal to passive acceptance of the status quo.
+Critics of Antimilitarism <a href="https://www.kialo.com/anarcho-pacifism-is-ethical-39173.15" target="_blank">claim</a> that pacifism enables totalitarian systems as they falsely assume that pacifism is equal to passive acceptance of the status quo.
 
 The definitions of the terms pacifism and militarism are fuzzy - similarly to the definitions of violence. That's ok. The following tries to give a rough outline of the meanings.
 
@@ -47,7 +47,7 @@ The definitions of the terms pacifism and militarism are fuzzy - similarly to th
 
 **Antimilitarism** is mostly concerned with the opposition of militarism while pacifism also opposes other forms of violence. Antimilitarism rejects violence against humans but promotes violence against and destruction of objects like military equipment.
 
-A good overview of the peace, pacifism, and antimilitarism movements (in German) can be found <a href="https://www.graswurzel.net/gwr/2017/11/stroemungen-des-pazifismus-und-antimilitarismus/" target="__blank">here</a>.
+A good overview of the peace, pacifism, and antimilitarism movements (in German) can be found <a href="https://www.graswurzel.net/gwr/2017/11/stroemungen-des-pazifismus-und-antimilitarismus/" target="_blank">here</a>.
 
 ## Militarism gets normalized
 
@@ -65,7 +65,7 @@ While all of this does not directly harm anyone, it normalizes militarism and th
 
 <img src="/images/antimilitarism_wri.png" alt="WRI logo">
 
-2021 marks the 100th birthday of <a href="https://wri-irg.org/" target="__blank">War Resisters' International</a> - a global network of grassroots antimilitarist and pacifist groups, working together for a world without war.
+2021 marks the 100th birthday of <a href="https://wri-irg.org/" target="_blank">War Resisters' International</a> - a global network of grassroots antimilitarist and pacifist groups, working together for a world without war.
 
 The WRI consists of about 90 affiliated groups in more than 40 countries.
 
@@ -83,9 +83,9 @@ Here are some goals they strive for:
 
 Some of the German groups affiliated in the WRI are
 
-* <a href="https://graswurzel.net/" target="__blank">graswurzel revolution</a> a monthly anarcho-pacifist magazine.
-* <a href="https://anti-kriegs-museum.de/" target="__blank">Anti-Kriegs-Museum</a> in Berlin
-* <a href="https://dfg-vk.de/" target="__blank">DFG-VK</a> (Deutsche Friedensgesellschaft - Vereinigte Kriegsgener_innen)
+* <a href="https://graswurzel.net/" target="_blank">graswurzel revolution</a> a monthly anarcho-pacifist magazine.
+* <a href="https://anti-kriegs-museum.de/" target="_blank">Anti-Kriegs-Museum</a> in Berlin
+* <a href="https://dfg-vk.de/" target="_blank">DFG-VK</a> (Deutsche Friedensgesellschaft - Vereinigte Kriegsgener_innen)
 
 ### Graswurzel Revolution
 
@@ -108,4 +108,4 @@ Wikipedia: *The film mixes hyperrealism with an underlying surrealism, and philo
 
 ## Short Presentation
 
-This is based on a short presentation from 2021/08 which can be found <a href="/documents/antimilitarism.pdf" target="__blank">here</a> (PDF).
+This is based on a short presentation from 2021/08 which can be found <a href="/documents/antimilitarism.pdf" target="_blank">here</a> (PDF).

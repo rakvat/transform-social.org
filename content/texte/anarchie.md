@@ -52,8 +52,8 @@ Auf dem Weg in eine herrschaftsarme Gesellschaft ist es wichtig, die Balance zwi
 
 [Bibliothek dieser Seite](/bibliothek/)
 
-<a href="https://theanarchistlibrary.org" target="__blank">The Anarchist Library</a>
+<a href="https://theanarchistlibrary.org" target="_blank">The Anarchist Library</a>
 
-<a href="http://www.infoshop.org/AnarchistFAQIntro" target="__blank">An Anarchist FAQ</a>
+<a href="http://www.infoshop.org/AnarchistFAQIntro" target="_blank">An Anarchist FAQ</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQhYXg88AE8" frameborder="0" allowfullscreen></iframe>

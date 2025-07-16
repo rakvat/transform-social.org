@@ -52,7 +52,7 @@ Ziel ist es nicht, Utopien, die andere entworfen haben, abzuurteilen, sondern kr
 ## Was ist Utopie?
 
 Oft wird der Begriff „Utopie“ verniedlichend als unrealistische Träumerei abgetan.
-Ich benutze „Utopie“ wie Ernst Bloch als <a href="https://de.wikipedia.org/wiki/Konkrete_Utopie" target="__blank">konkrete Utopie</a>, also als real möglicher Gesellschaftsentwurf.
+Ich benutze „Utopie“ wie Ernst Bloch als <a href="https://de.wikipedia.org/wiki/Konkrete_Utopie" target="_blank">konkrete Utopie</a>, also als real möglicher Gesellschaftsentwurf.
 Es geht beim Nachdenken über Utopien nicht um Insellösungen, sondern um gesamtgesellschaftliche, ja sogar planetare Entwürfe.
 Es geht nicht um Wunschträume, sondern um reale Möglichkeiten, die somit auch eine Kritik des Bestehenden sind.
 Es geht nicht um eine Anleitung oder einen Bauplan, sondern um Entwürfe, die lediglich ein paar Grundsteine festlegen und die damit Anregung zur Diskussion und zum Weiterentwickeln der Utopien sind.
@@ -106,7 +106,7 @@ dass nur ein bestimmter Weg der richtige sei und dass es keine Alternative gäbe
 überwinden? Jedenfalls sollten utopische Entwürfe darauf achten, dass sie sich nicht selbst als den einzig richtigen Weg darstellen.
 
 **Bilderverbotsfalle**: In Teilen der marxistischen Linken versteht man unter dem Bilderverbot das Verbot, Post-Revolutionäre Zustände genauer zu beschreiben. Die Idee ist, dass die neue Gesellschaft spontan in der Revolution
-entstünde. Einige Autor\*innen wie <a href="https://www.akweb.de/bewegung/bini-adamczak-vom-widerstand-zur-utopie/" target="__blank">Bini Adamczak</a> oder die <a href="https://kosmoprolet.org/de/umrisse-der-weltcommune" target="__blank">Freund\*innen der klassenlosen Gesellschaft</a> lehnen das Bilderverbot mittlerweile ab oder beschränken es auf zu detailreiches zu Auspinseln.
+entstünde. Einige Autor\*innen wie <a href="https://www.akweb.de/bewegung/bini-adamczak-vom-widerstand-zur-utopie/" target="_blank">Bini Adamczak</a> oder die <a href="https://kosmoprolet.org/de/umrisse-der-weltcommune" target="_blank">Freund\*innen der klassenlosen Gesellschaft</a> lehnen das Bilderverbot mittlerweile ab oder beschränken es auf zu detailreiches zu Auspinseln.
 
 **Anleitungsfalle**: Eine bis ins Detail gehende Beschreibung einer anderen Gesellschaft hat den Vorteil, besser vorstellbar zu sein. Sie läuft jedoch Gefahr, wie ein Bauplan oder eine Anleitung rüber zu kommen
 und damit dogmatisch zu sein. Ausmalende Beschreibungen sind in Science-Fiction Form bereichernd. In diesem Medium ist klar, dass es ein Gedankenexperiment für die Fantasie ist.
@@ -174,7 +174,7 @@ Erfahrungen aus der Polit-Praxis helfen später, die Utopie im nächsten vier-Sc
 So kann nach einer gewissen Zeit mit neuen Erkenntnissen die strukturelle Kritik, das Menschenbild, die Utopie und die Transformation wieder überdacht und angepasst werden. Die Schritte zur
 Utopie verlaufen also – in diesem gedanklichen Modell – spiralweise: Alle vier Aspekte werden immer wieder bedacht, trotzdem gibt es (neben Rückschlägen in der Praxis) eine Weiterentwicklung.
 
-<small>Dieses schrittweise Vorgehen ist inspiriert durch das Buch <a href="https://commonism.us/" target="__blank">Kapitalismus aufheben</a> von Sutterlütti und Meretz.</small>
+<small>Dieses schrittweise Vorgehen ist inspiriert durch das Buch <a href="https://commonism.us/" target="_blank">Kapitalismus aufheben</a> von Sutterlütti und Meretz.</small>
 
 <a class="anchor" name="utopie_check"></a>
 ## Utopie-Check
@@ -198,7 +198,7 @@ der liberterians („anarchokapitalistische“ Strömung in den USA) der Fall.
 zu stellen. Freiheit ohne Solidarität resultiert in Privilegien und Ungerechtigkeit. Freiheit ohne Solidarität schränkt die Freiheit
 von ausgegrenzten Gruppen oder Personen ein. Deshalb müssen Freiheit und Solidarität im Gleichgewicht sein, wenn es um die Freiheit aller geht.
 
-**Sorge**: Annette Schlemm schreibt im <a href="https://www.thur.de/philo/klo/uk3.htm" target="__blank">Utopischen Klo</a>
+**Sorge**: Annette Schlemm schreibt im <a href="https://www.thur.de/philo/klo/uk3.htm" target="_blank">Utopischen Klo</a>
 *„Jede Utopie muss sich daran messen lassen, wie in ihr das Problem des Klo-Putzens gelöst wird“.*
 Der Care-Bereich (auch Sorgearbeit genannt, also Tätigkeiten rund um „Reproduktion“ wie Kinderbetreuung, Altenpflege oder Reinigung) wird bei einigen Utopien einfach ausgespart. Wenn es nur um die Produktion
 von zählbaren Einheiten (z.B. Tonnen Stahl) geht oder davon ausgegangen wird, dass unbeliebte Tätigkeiten schon irgendwie erledigt werden würden, dann liegt der Verdacht nahe, dass der Care-Bereich nicht mitgedacht wurde.
@@ -209,7 +209,7 @@ ohne Zwang beantworten, wenn sie die Freiheits- und Solidaritäts-Checks bestehe
 In Krisen hat sich oft gezeigt, dass das kapitalistische System auf lokaler Ebene versagt und auf nationaler oder globaler Ebene durch massive Eingriffe von Staaten gerettet werden muss.
 Trotz alledem passt sich der Kapitalismus immer wieder an veränderte Bedingungen an und wird von vielen als beste Option – auch in Krisenzeiten – gesehen. Die zu prüfende Utopie muss sich also
 die Frage gefallen lassen, ob sie selbst in Krisenzeiten die bessere Option wäre.
-Auch zu diesem Thema hat Annette Schlemm einen guten Text geschrieben: <a href="http://www.thur.de/philo/pdf/2013_Crashtest%20f%C3%BCr%20Utopien%20.pdf" target="__blank">Schönwetter-Utopien im Crashtest</a> (PDF)
+Auch zu diesem Thema hat Annette Schlemm einen guten Text geschrieben: <a href="http://www.thur.de/philo/pdf/2013_Crashtest%20f%C3%BCr%20Utopien%20.pdf" target="_blank">Schönwetter-Utopien im Crashtest</a> (PDF)
 
 **Kein Dogma**: Der letzte Check ist die Frage, ob die zu prüfende Utopie Vielfalt zulässt und auf Inklusion der Vielfältigkeiten setzt oder dogmatische Setzungen enthält, die bestimmte Gruppen ausschließen.
 Vielfalt bezieht sich auf Lebensentwürfe, Vorlieben, Weltanschauungen, Herkünfte. Dogmatische Setzungen müssen nicht unbedingt explizit sein. Sie können auch aus nicht genannten und nicht hinterfragten
@@ -269,7 +269,7 @@ Zentrale Systeme tendieren jedoch im Krisenmodus dazu, immer mehr Ungerechtigkei
 Commonismus beschreibt eine kommunistische Gesellschaftsform auf Basis der Idee der Commons. Commons bezeichnet dabei nicht nur Gemeingüter wie
 eine gemeinschaftlich genutzte Weide oder ein gemeinschaftlich erstelltes Gut wie Wikipedia, sondern auch selbstorganisierte Produktionsgemeinschaften, die in anderen
 politischen Strömungen als Kollektive bezeichnet werden.
-Mehr dazu findet ihr in dem oben erwähnten Buch <a href="https://commonism.us/" target="__blank">Kapitalismus aufheben</a>.
+Mehr dazu findet ihr in dem oben erwähnten Buch <a href="https://commonism.us/" target="_blank">Kapitalismus aufheben</a>.
 Zentrale Ideen sind dezentrale Selbstorganisation in Commons, freiwillige Kooperation und Inklusion.
 
 **✅ Freiheit**: Jede Person kann frei entscheiden, in welchen Commons sie tätig ist und Commons können frei entscheiden, wie und was sie produzieren und mit wem sie kooperieren.
@@ -515,7 +515,7 @@ Instrumente zur Vermeidung von Machtakkumulation und dogmatischen Setzungen.
 <a class="anchor" name="anarchistische_stroemungen"></a>
 ### Anarchistische Strömungen
 
-Kennt ihr den <a href="https://de.wikipedia.org/wiki/Politisches_Spektrum#Politischer_Kompass" target="__blank">Politischen Kompass</a>? Das ist ein (zu) stark vereinfachendes
+Kennt ihr den <a href="https://de.wikipedia.org/wiki/Politisches_Spektrum#Politischer_Kompass" target="_blank">Politischen Kompass</a>? Das ist ein (zu) stark vereinfachendes
 und deshalb viel kritisiertes Modell, um politische Ideen oder Akteur\*innen in einem zweidimensionalen Raum einzuordnen. Dabei zeigt die x-Achse das
 Spektrum zwischen (ökonomisch) links und (ökonomisch) rechts und die y-Achse das Spektrum zwischen libertär (unten angeordnet) und autoritär
 (oben angeordnet). Anarchistische Strömungen sind darin ziemlich weit links unten.
@@ -827,11 +827,11 @@ vernetzt sind, rutschen sie weiter nach oben auf der Institutionsachse.
 Die Synthetische Föderation und den Anarcho-Syndikalismus halte ich für relativ konkurrenzarme Transformations- und Organisationsmethoden, die
 auf der Institutionsachse etwa mittig angeordnet sind, da föderative Vernetzung ein wichtiges Merkmal dieser Organisationen sind.
 
-Oben links ist der <a href="https://de.wikipedia.org/wiki/Plattformismus" target="__blank">Plattformismus</a> zu finden.
+Oben links ist der <a href="https://de.wikipedia.org/wiki/Plattformismus" target="_blank">Plattformismus</a> zu finden.
 Im Gegensatz zur Synthetischen Föderation besteht der Plattformismus auf einem gemeinsamen Programm und einer gemeinsamen Strategie.
 Alle Mitglieder müssen diese unterstützen. Aus diesem Grund sehe ich einen hohen Institutionsfaktor.
-Der Plattformismus erfährt zurzeit in Deutschland in <a href="https://www.dieplattform.org/" target="__blank">der Plattform</a> eine Renaissance.
-Auch die Seiten <a href="https://anarchismus.de/" target="__blank">anarchismus.de</a> und <a href="https://anarchafeminismus.de" target="__blank">anarchafeminismus.de</a>
+Der Plattformismus erfährt zurzeit in Deutschland in <a href="https://www.dieplattform.org/" target="_blank">der Plattform</a> eine Renaissance.
+Auch die Seiten <a href="https://anarchismus.de/" target="_blank">anarchismus.de</a> und <a href="https://anarchafeminismus.de" target="_blank">anarchafeminismus.de</a>
 wurden von der Plattform übernommen und gestaltet.
 
 Da mir größtmögliche Ideen- und Ansatzvielfalt wichtig ist, ist
@@ -892,11 +892,11 @@ des Patriarchats, die davon ausgeht, dass mensch keine Verantwortung für Sorget
 Um bei sich wiederkehrenden kontroversen Fragen rund um Utopie und Transformation, wie z.B. der Gewaltfrage,
 oder Fragen der planetaren Koordination nicht immer wieder bei null anzufangen und auch Leute einzubinden,
 die nicht an einer Diskussionsveranstaltung teilnehmen konnten, bieten sich Diskussionswerkzeuge wie
-<a href="https://kialo.com" target="__blank">Kialo</a> an. Hier ein paar Beispieldiskussionen in Kialo:
+<a href="https://kialo.com" target="_blank">Kialo</a> an. Hier ein paar Beispieldiskussionen in Kialo:
 
-- <a href="https://www.kialo.com/wer-entscheidet-in-einer-freien-und-solidarischen-gesellschaft-was-produziert-und-wie-das-produzierte-verteilt-wird-31672" target="__blank">Wer entscheidet, was produziert und wie verteilt wird?</a>
-- <a href="https://www.kialo.com/wie-werden-auf-einem-planeten-mit-dezentralen-freien-und-solidarischen-gesellschaften-globale-entscheidungen-getroffen-31673" target="__blank">Wie werden planetare Entscheidungen getroffen?</a>
-- <a href="https://www.kialo.com/wie-ist-vermittelbar-dass-effektive-nachhaltigkeit-f%C3%BCr-viele-menschen-im-globalen-norden-verzicht-bedeutet-31674" target="__blank">Wie ist vermittelbar, dass effektive Nachhaltigkeit für viele Menschen im globalen Norden Verzicht bedeutet?</a>
+- <a href="https://www.kialo.com/wer-entscheidet-in-einer-freien-und-solidarischen-gesellschaft-was-produziert-und-wie-das-produzierte-verteilt-wird-31672" target="_blank">Wer entscheidet, was produziert und wie verteilt wird?</a>
+- <a href="https://www.kialo.com/wie-werden-auf-einem-planeten-mit-dezentralen-freien-und-solidarischen-gesellschaften-globale-entscheidungen-getroffen-31673" target="_blank">Wie werden planetare Entscheidungen getroffen?</a>
+- <a href="https://www.kialo.com/wie-ist-vermittelbar-dass-effektive-nachhaltigkeit-f%C3%BCr-viele-menschen-im-globalen-norden-verzicht-bedeutet-31674" target="_blank">Wie ist vermittelbar, dass effektive Nachhaltigkeit für viele Menschen im globalen Norden Verzicht bedeutet?</a>
 
 Ein weiterer Zugang zu Utopien sind **Planspiele**: Je nachdem wer mitspielt, können unterschiedlich herausfordernde Szenarien
 als Startpunkt gewählt werden: z.B. eine Welt, in der genügend Ressourcen zur Verfügung stehen
@@ -918,7 +918,7 @@ gar nicht so herrschaftsarm wie war, wie sich die alle gewünscht hätten.
 
 Eine weniger emotional involvierte Möglichkeit über Utopien zu sprechen, ist, sich in **Kleingruppendiskussion**
 einzelnen Themenbereichen von Gesellschaftsentwürfen anzunähern. Zwölf Themenvorschläge mit Diskussionsanregungen
-findet ihr auf den letzten Seiten dieses <a href="/documents/utopie_check.pdf" target="__blank">PDFs</a>.
+findet ihr auf den letzten Seiten dieses <a href="/documents/utopie_check.pdf" target="_blank">PDFs</a>.
 
 ### Organisationsformen
 
@@ -936,7 +936,7 @@ Strukturlosigkeit (keine Institutionen) und starken Institutionen befinden. Bei 
 Institutionen besteht die Gefahr bürokratischer, elitärer oder autoritärer Tendenzen und
 eingeschränkter Vielfalt. Bei Strukturlosigkeit besteht die Gefahr der Ziellosigkeit und
 der intransparenten, verdeckten Dominanz durch Eliten. Letzteres wird in dem Text
-<a href="https://www.jofreeman.com/joreen/tyranny.htm" target="__blank">Tyranny of Structurelessness</a>
+<a href="https://www.jofreeman.com/joreen/tyranny.htm" target="_blank">Tyranny of Structurelessness</a>
 (engl.) aus den 70ern von Jo Freeman gut erklärt. Transparente Strukturen, die
 gut vernetzt sind und Freiraum für Vielfalt lassen, sind ein meiner Meinung nach ein zweckmäßiger
 und anstrebenswerter Weg.
@@ -971,7 +971,7 @@ Mit mehr konkreter werdender Kommunikation über Utopien können wir Vertrauen s
 
 *Dieser Text basiert auf einem Vortrag mit dem Titel „Dezentrale Utopien gegen planetare Krisen“, den ich im Oktober 2021 im Rahmen der Konferenz der Visionen gehalten habe.*
 
-- <a href="https://gerechtigkeitjetzt.de/events/dezentrale-utopien-und-globale-herausforderungen/" target="__blank">Ankündigung des Vortrags im Oktober 2021</a>
-- <a href="/documents/utopie_check.pdf" target="__blank">Folien des Vortrags (PDF)</a>
-- <a href="/documents/utopie-check_print.pdf" target="__blank">PDF Print Version dieses Texts</a>
+- <a href="https://gerechtigkeitjetzt.de/events/dezentrale-utopien-und-globale-herausforderungen/" target="_blank">Ankündigung des Vortrags im Oktober 2021</a>
+- <a href="/documents/utopie_check.pdf" target="_blank">Folien des Vortrags (PDF)</a>
+- <a href="/documents/utopie-check_print.pdf" target="_blank">PDF Print Version dieses Texts</a>
 

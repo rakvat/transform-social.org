@@ -114,19 +114,19 @@ This can be especially stressful if one of the bodies comes with more privileges
 
 Here is an older text about non-toxic relationships.
 
-- <a href="/documents/OhneVerruecktZuWerden4_2fach.pdf" target="__blank">Zine Lieben ohne verrückt zu werden</a> (pdf for double-sided print, de)
+- <a href="/documents/OhneVerruecktZuWerden4_2fach.pdf" target="_blank">Zine Lieben ohne verrückt zu werden</a> (pdf for double-sided print, de)
 
 Other older text which can serve as an introduction to polyamory (not by me):
 
-- <a href="/documents/Poly_for_Dummies.pdf" target="__blank">Poly for Dummies</a> (pdf, en)
-- <a href="/documents/Poly_fuer_Dummies.pdf" target="__blank">Poly für Dummies</a> (pdf, de)
+- <a href="/documents/Poly_for_Dummies.pdf" target="_blank">Poly for Dummies</a> (pdf, en)
+- <a href="/documents/Poly_fuer_Dummies.pdf" target="_blank">Poly für Dummies</a> (pdf, de)
 
 ### Zines
 
-- <a href="/documents/withOpenHands.pdf" target="__blank">Zine With Open Hands</a> (pdf, en)
-- <a href="/documents/withOpenHands.odt" target="__blank">Zine With Open Hands</a> (odt, en)
-- <a href="/documents/mitOffenenHaenden.pdf" target="__blank">Zine Mit Offenen Händen</a> (pdf, de)
-- <a href="/documents/mitOffenenHaenden.odt" target="__blank">Zine Mit Offenen Händen</a> (odt, de)
+- <a href="/documents/withOpenHands.pdf" target="_blank">Zine With Open Hands</a> (pdf, en)
+- <a href="/documents/withOpenHands.odt" target="_blank">Zine With Open Hands</a> (odt, en)
+- <a href="/documents/mitOffenenHaenden.pdf" target="_blank">Zine Mit Offenen Händen</a> (pdf, de)
+- <a href="/documents/mitOffenenHaenden.odt" target="_blank">Zine Mit Offenen Händen</a> (odt, de)
 
 (These zines are originally from Paxus, I'm just hosting them.)
 
@@ -134,21 +134,21 @@ Other older text which can serve as an introduction to polyamory (not by me):
 
 - Dean Spade gave multiple good webinars about the romance myth at the Fireweed Collective.
 He explains how the romance myth serves capitalism and hurts us and our social movement groups.
-You can find the videos on his <a href="http://www.deanspade.net/2021/02/14/valentines-day-webinar-with-fireweed-collective/" target="__blank">site</a>.
+You can find the videos on his <a href="http://www.deanspade.net/2021/02/14/valentines-day-webinar-with-fireweed-collective/" target="_blank">site</a>.
 A quote:
 
 *There is no "normal" way of being or relating. We have to tell people how we want to be treated. They can say "yes" or "no", and if they say "no", we can seek our needs elsewhere, meet them ourselves, or live without them being met.*
 
-- There is also a web series inspired by the ethical slut book: <a href="https://www.youtube.com/channel/UCHL0tVF5VPueX1Oc6KXtpzA/playlists" target="__blank">The Ethical Slut Web-Series</a>
+- There is also a web series inspired by the ethical slut book: <a href="https://www.youtube.com/channel/UCHL0tVF5VPueX1Oc6KXtpzA/playlists" target="_blank">The Ethical Slut Web-Series</a>
 
 ### Podcasts
 
 - Helpful research-based information on polyamory and relationships in general. However, be warned, they do have neo-liberal tendencies:
-<a href="https://www.multiamory.com/" target="__blank">Multiamory</a>
+<a href="https://www.multiamory.com/" target="_blank">Multiamory</a>
 - Queer, trans\*, aspec terms and topics:
-<a href="https://www.youtube.com/watch?v=LopXlUQaL-8" target="__blank">Outcast</a> (The liked episode is about the ableist term "sapiosexual".)
+<a href="https://www.youtube.com/watch?v=LopXlUQaL-8" target="_blank">Outcast</a> (The liked episode is about the ableist term "sapiosexual".)
 
 ### Websites
 
-- <a href="https://www.polyamorie.ch/" target="__blank">polyamorie.ch</a> (de)
-- <a href="http://www.relationship-anarchy.com/" target="__blank">Relationship Anarchy</a> (en)
+- <a href="https://www.polyamorie.ch/" target="_blank">polyamorie.ch</a> (de)
+- <a href="http://www.relationship-anarchy.com/" target="_blank">Relationship Anarchy</a> (en)

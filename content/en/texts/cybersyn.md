@@ -52,7 +52,7 @@ Alan Turing and John von Neumann were some of the well-known participants.
 Norbert Wiener gave this transdisciplinary research the name Cybernetics in 1947.
 The birth of Cybernetics can be seen as the big bang of the information age.
 You can get a feeling of the excitement of that time when reading about the
-<a href="https://en.wikipedia.org/wiki/Homeostat" target="__blank">Homeostat</a>.
+<a href="https://en.wikipedia.org/wiki/Homeostat" target="_blank">Homeostat</a>.
 The only purpose of this machine was to show that it can stay in a steady state even if the
 environment is changing. The machine was compared to a brain.
 
@@ -177,7 +177,7 @@ CyberSyn consisted of four main components that will be explained in the followi
 ### CyberNet
 
 The core components of cybernetic systems are communication and feedback. As this is just 2 years after the
-<a href="https://en.wikipedia.org/wiki/ARPANET" target="__blank">ARPANET</a>,
+<a href="https://en.wikipedia.org/wiki/ARPANET" target="_blank">ARPANET</a>,
 there is no such thing as the Internet at the time. Also, Chile did not have enough computers to create a
 network. Luckily, someone on the team found some unused Telex-machines so they built a network of those.
 Telex-machines are predecessors of fax machines that were connected to the telephone network but could only send text
@@ -216,7 +216,7 @@ was also quite important when coordinating the production and distribution of sc
 
 CHECO is short for CHilean ECOnoic simulator. This was another piece of software build with the
 DYNAMO compiler. (The DYNAMO compiler was famous during that time because of
-<a href="https://en.wikipedia.org/wiki/The_Limits_to_Growth" target="__blank">the Limits to Growth model</a>.)
+<a href="https://en.wikipedia.org/wiki/The_Limits_to_Growth" target="_blank">the Limits to Growth model</a>.)
 
 As CyberStride could only do short-time forecasting, the purpose of CHECO was to create a simulation
 of the entire Chilean economy that would allow long-term forecasting based on various scenarios.
@@ -225,7 +225,7 @@ without having to experiment with the real economy.
 
 This project was hardly put into practice during the three years of CyberSyn. However, the idea of
 using simulations as a basis of economic decisions is still popular today
-(see e.g. <a href="https://blog.einstein.ai/the-ai-economist/" target="__blank">The AI Economist</a>).
+(see e.g. <a href="https://blog.einstein.ai/the-ai-economist/" target="_blank">The AI Economist</a>).
 
 ### OpsRoom
 
@@ -260,7 +260,7 @@ essential goods could still reach their destination. Thus, CyberSyn helped to br
 <img src="/images/cybersyn_trucker_strike.jpg" alt="Trucker Strike">
 
 One year later, on September 11th, 1973, a
-<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB8/nsaebb8i.htm" target="__blank">CIA-backed military coup</a>
+<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB8/nsaebb8i.htm" target="_blank">CIA-backed military coup</a>
 helped Augusto Pinochet to seize
 power, overthrow the democratically elected government, and install a brutal regime.
 Allende gave his last speech while gunfire and explosions were approaching the presidential
@@ -300,13 +300,13 @@ Let's get inspired by CyberSyn and continue experimenting with tools that can ex
 
 ## Presentation
 
-<a href="/documents/cybersyn.pdf" target="__blank">A short presentation about the origins of Cybernetics and CyberSyn</a>. Feel free to use it.
+<a href="/documents/cybersyn.pdf" target="_blank">A short presentation about the origins of Cybernetics and CyberSyn</a>. Feel free to use it.
 
 ## Sources
 
-- <a href="https://99percentinvisible.org/episode/project-cybersyn/" target="__blank">Podcast about CyberSyn</a>
-- <a href="http://metaphorum.org/cybersyn" target="__blank">A short article about CyberSyn</a>
-- <a href="http://www.ephemerajournal.org/contribution/towards-anarchist-cybernetics-stafford-beer-self-organisation-and-radical-social" target="__blank">Detailed Article about anarchist cybernetics, that explains Beer's organizational Cybernetics and how anarchist societies could make use of the VSM.</a>
-- <a href="https://www.youtube.com/watch?v=2ybjOw6UJ8A" target="__blank">Video of a workshop on Organizational Cybernetics with Stafford Beer, in which he also talks about his experience in Chile</a>
-- <a href="https://kybernetik.ch/dwn/Fanfare_for_Freedom.pdf" target="__blank">Beer's reflection on CyberSyn</a>
-- <a href="https://www.youtube.com/watch?v=uetWApscEjQ" target="__blank">A short video about CyberSyn and why the OpsRoom doomed the project</a>
+- <a href="https://99percentinvisible.org/episode/project-cybersyn/" target="_blank">Podcast about CyberSyn</a>
+- <a href="http://metaphorum.org/cybersyn" target="_blank">A short article about CyberSyn</a>
+- <a href="http://www.ephemerajournal.org/contribution/towards-anarchist-cybernetics-stafford-beer-self-organisation-and-radical-social" target="_blank">Detailed Article about anarchist cybernetics, that explains Beer's organizational Cybernetics and how anarchist societies could make use of the VSM.</a>
+- <a href="https://www.youtube.com/watch?v=2ybjOw6UJ8A" target="_blank">Video of a workshop on Organizational Cybernetics with Stafford Beer, in which he also talks about his experience in Chile</a>
+- <a href="https://kybernetik.ch/dwn/Fanfare_for_Freedom.pdf" target="_blank">Beer's reflection on CyberSyn</a>
+- <a href="https://www.youtube.com/watch?v=uetWApscEjQ" target="_blank">A short video about CyberSyn and why the OpsRoom doomed the project</a>

@@ -15,7 +15,7 @@ Some newer ideas about transformation and utopia can be found in this text:
 # Transformation into Free and Solidary Societies
 
 
-This is a snapshot of a living document that is updated on <a href="https://gitlab.com/rakvat/transform/blob/master/docs/transform_theory.md" target="__blank">this page</a>.
+This is a snapshot of a living document that is updated on <a href="https://gitlab.com/rakvat/transform/blob/master/docs/transform_theory.md" target="_blank">this page</a>.
 
 ## Introduction
 
@@ -63,7 +63,7 @@ People continue living where and how they want. Instead of voting for a party th
 
 Coordination committees are responsible for a specific local area. There are also regional, mega-regional, continental, and planetary coordination committees that represent committees federated in the areas they include. These non-local committees discuss resources like specialized production (that require non-local high-tech like internet exchange points), specialized health care, specialized education, and long distance transport and other questions about natural resource consumption, environmental pollution, ... that concern more than local people. Everyone who is interested can be part of those committees and take part in online decision making. For practical reasons, local committees might name a few people with imperative mandates for those non-local committees. Imperative mandate means that they get told by the committee that named them how to participate in decisions and if they don't act accordingly, they can be revoked immediately. Thus the power stays decentral and local, always focused on the needs of the people while still being able to make decisions globally.
 
-<a href="/images/organization.png" target="__blank">
+<a href="/images/organization.png" target="_blank">
 <img src="/images/organization.png" alt="Organisationsstruktur" width="100%">
 <small>Click on the image for a larger version</small>
 </a>
@@ -143,10 +143,10 @@ Start with various approaches everywhere. Now.
 
 This text is influenced by:
 
-- Simon Sutterlütti/Stefan Meretz: Kapitalismus aufheben and <a href="https://keimform.de" target="__blank">keimform</a>
+- Simon Sutterlütti/Stefan Meretz: Kapitalismus aufheben and <a href="https://keimform.de" target="_blank">keimform</a>
 - Ursula K. Le Guin: The Dispossessed
 - P.M.: bolo'bolo
 - Glimpses into the Year 2100 (50 years after the revolution)
-- <a href="http://www.utopia-ist-machbar.de" target="__blank">utopia-ist-machbar</a>
+- <a href="http://www.utopia-ist-machbar.de" target="_blank">utopia-ist-machbar</a>
 - Living in a house project
 - and many more

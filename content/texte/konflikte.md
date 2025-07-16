@@ -21,13 +21,13 @@ Das Folgende ist eine Sammlung von älteren Texten und Materialien zu den Themen
 
 ## Stufen der Konfliktklärung
 
-<a href="/documents/konfliktklaerung.pdf" target="__blank">Dies</a> ist ein eines Rahmen des Hausprojekts entwickelter Plan zur Konfliktklärung in Stufen. Je nach Ausmaß des Konflikts sind andere Maßnahmen notwendig. Eine Vereinbarung, sich in Konflikten entsprechend eines solchen Konfliktplans zu verhalten, kann im Zweifelsfall Halt und Sicherheit für ein Projekt geben.
+<a href="/documents/konfliktklaerung.pdf" target="_blank">Dies</a> ist ein eines Rahmen des Hausprojekts entwickelter Plan zur Konfliktklärung in Stufen. Je nach Ausmaß des Konflikts sind andere Maßnahmen notwendig. Eine Vereinbarung, sich in Konflikten entsprechend eines solchen Konfliktplans zu verhalten, kann im Zweifelsfall Halt und Sicherheit für ein Projekt geben.
 
 Der Text [Anarchy and Responsibility](/en/texts/responsibility/) beschäftigt sich auch mit der Wichtigkeit von Trennungsprozessen.
 
 ## Gewaltfreie Kommunikation
 
-Zur Einführung in die Gewaltfreie Kommunikation (GfK) finden sich viele Quellen im <a href="https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation" target="__blank">Internet</a>. GfK wird in der linken Szene oft als eine Methode und Haltung, die mit herrschaftsarmen und emanzipatorischen Ideen vereinbar ist, angepriesen.
+Zur Einführung in die Gewaltfreie Kommunikation (GfK) finden sich viele Quellen im <a href="https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation" target="_blank">Internet</a>. GfK wird in der linken Szene oft als eine Methode und Haltung, die mit herrschaftsarmen und emanzipatorischen Ideen vereinbar ist, angepriesen.
 
 Aus diesem Hintergrund entstand auf dem Anarchistischen Kongress 2009 in Berlin ein Workshop und daraus später ein Artikel in der Graswurzelrevolution.
 
@@ -49,9 +49,9 @@ und gewaltfreie, bedürfnisorientierte Strukturen aufbauen?
 
 ---
 
-Der Artikel in der Graswurzelrevolution, der sich auch kritisch mit GfK auseinandersetzt, findet sich hier: <a href="https://www.graswurzel.net/gwr/2009/09/ist-gewaltfreie-kommunikation-gelebte-anarchie" target="__blank">Ist Gewaltfreie Kommunikation gelebte Anarchie?</a>
+Der Artikel in der Graswurzelrevolution, der sich auch kritisch mit GfK auseinandersetzt, findet sich hier: <a href="https://www.graswurzel.net/gwr/2009/09/ist-gewaltfreie-kommunikation-gelebte-anarchie" target="_blank">Ist Gewaltfreie Kommunikation gelebte Anarchie?</a>
 
-Einige Ausgaben später, schrieb Johann Bauer über weitere Kritikpunkte aus anarchistischer Sicht: <a href="https://www.graswurzel.net/gwr/2010/01/von-der-konfrontation-zuruck-zum-bitten" target="__blank">Von der Konfrontation zurück zum Bitten?</a>
+Einige Ausgaben später, schrieb Johann Bauer über weitere Kritikpunkte aus anarchistischer Sicht: <a href="https://www.graswurzel.net/gwr/2010/01/von-der-konfrontation-zuruck-zum-bitten" target="_blank">Von der Konfrontation zurück zum Bitten?</a>
 
 Mittlerweile habe ich erlebt, wie GfK Deutungen aus spirituellen oder individualanarchistischen Kreisen aussehen. Manchmal werden Wünsche mit intensiver Dramatik als Bedürfnis inszeniert. Für noch problematischer halte ich die Auslegung nach der jedes Individuum dogmatische Verantwortung dafür trägt, mit verletzendem Verhalten des Gegenübers umzugehen. Das kingt nach neoliberaler Selbstverantwortung und Isolation. Mehr dazu findest du in diesem [Text](/texte/eso/).
 
@@ -60,9 +60,9 @@ Mittlerweile habe ich erlebt, wie GfK Deutungen aus spirituellen oder individual
 
 Restorative Circles (RC) oder Kreisgespräche sind eine einfache Technik, die auf GfK basiert. Auch hierbei ist es wichtig, sich präventiv auf die Methode zu einigen und sie zu etablieren.
 
-Dieses <a href="/documents/rc-handout.pdf" target="__blank">Handout zu Restorative Circles</a> aus anderer Quelle fasst den Prozess zusammen.
+Dieses <a href="/documents/rc-handout.pdf" target="_blank">Handout zu Restorative Circles</a> aus anderer Quelle fasst den Prozess zusammen.
 
-<a href="/documents/kreis_gespraeche_2.svg" target="__blank">Hier</a> findest du eine von mir erstellte Präsentation von von 2014 zu dem Thema, durch die du mit den Pfeiltasten navigieren kannst.
+<a href="/documents/kreis_gespraeche_2.svg" target="_blank">Hier</a> findest du eine von mir erstellte Präsentation von von 2014 zu dem Thema, durch die du mit den Pfeiltasten navigieren kannst.
 
 In diesem Video spricht der Begründer der Technik über deren Entstehung und Praxis.
 

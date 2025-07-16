@@ -9,7 +9,7 @@ Catchphrases: Es geht nicht darum, eine Utopie als "die Richtige" darzustellen, 
 
 # Systemwandel statt Klimawandel – konkrete Utopien und Transformationsideen
 
-Im Rahmen der <a href="https://anarchietage.ch/2020" target="__blank">10. Anarchietage in Winterthur 2020</a> mit dem Schwerpunkt <b>Klimakrise! Widerstand und Perspektiven</b> habe ich mich mit einem Workshop zu Utopien beteiligt.
+Im Rahmen der <a href="https://anarchietage.ch/2020" target="_blank">10. Anarchietage in Winterthur 2020</a> mit dem Schwerpunkt <b>Klimakrise! Widerstand und Perspektiven</b> habe ich mich mit einem Workshop zu Utopien beteiligt.
 
 Vielen Dank an dieser Stelle nochmal für das tolle Organisator_innen-Team der Anarchietage.
 
@@ -35,7 +35,7 @@ In dem kurzen Input ging es um das "Was?", "Warum?" und "Wie?" der Utopiediskuss
 Da die dezentrale Struktur anarchistischer Entwürfe die Koexistenz unterschiedlicher Utopien und Gesellschaftsformen ermöglicht, ist es auch spannend über die Vereinbarkeit von sich scheinbar widersprechenden Modellen nachzudenken.
 
 
-Zum Nebeneinander unterschiedlicher politischer Systeme ein <a href="https://www.anarchismus.at/anarchistische-klassiker/max-nettlau/7201-max-nettlau-panarchie-eine-verschollene-idee-von-1860" target="__blank">Zitat von Max Nettlau aus "Panarchie. Eine verschollene Idee von 1860"</a>:
+Zum Nebeneinander unterschiedlicher politischer Systeme ein <a href="https://www.anarchismus.at/anarchistische-klassiker/max-nettlau/7201-max-nettlau-panarchie-eine-verschollene-idee-von-1860" target="_blank">Zitat von Max Nettlau aus "Panarchie. Eine verschollene Idee von 1860"</a>:
 <i>„Es handelt sich nur um eine einfache Erklärung im
 politischen Bureau der Gemeinde, und ohne Schlafrock und Pantoffeln auszuziehen,
 mag man von der Republik zur Monarchie, vom Parlamentarismus zur Autokratie,
@@ -49,7 +49,7 @@ Sich mit Utopie und Transformation zu beschäftigen, kann sich überwältigend a
 
 ## Link zur den Materialien
 
-Die <a href="/documents/utopie_workshop.pdf" target="__blank">Präsentation zu dem Workshop</a> kann gerne für andere Workshops weiter genutzt werden. Das PDF enthält sowohl den Input als auch die Gedankenanstöße für den Kleingruppenteil.
+Die <a href="/documents/utopie_workshop.pdf" target="_blank">Präsentation zu dem Workshop</a> kann gerne für andere Workshops weiter genutzt werden. Das PDF enthält sowohl den Input als auch die Gedankenanstöße für den Kleingruppenteil.
 
 Für den Kleingruppenteil gibt es 12 thematisch unterschiedliche Bereiche, sodass sich Leute möglichst mit denen Themen beschäftigen können, die sie am meisten interessieren.
 

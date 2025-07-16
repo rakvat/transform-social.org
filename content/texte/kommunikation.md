@@ -11,7 +11,7 @@ Catchphrases: Durch das „Beobachten statt Bewerten“ und die Wertschätzung d
 # Gewaltfreie Kommunikation aus anarchistischer Perspektive
 
 Die folgenden Texte zur Gewaltfreien Kommunikation (GfK) entstanden im September 2009 wurden in der Graswurzelrevolution 341 erstveröffentlicht. Sie basieren auf einem Vortrag den ich auf dem Anarchistischen Kongress 2009 in Berlin gehalten habe.
-Die Folien des Vortrags sind <a href="/documents/AnarchoKommunikation.pdf" target="__blank">hier</a>.
+Die Folien des Vortrags sind <a href="/documents/AnarchoKommunikation.pdf" target="_blank">hier</a>.
 
 **Update 2021**:
 
@@ -24,7 +24,7 @@ Die Folien des Vortrags sind <a href="/documents/AnarchoKommunikation.pdf" targe
 
 Eine weitere (kritische) Auseinandersetzung mit GfK im Rahmen der Konfliktkärung findet sich [hier](/texte/konflikte/).
 
-In [Entscheidungen und Vereinbarungen](/texte/entscheidungen/) geht es konkreter um den Entscheidungsfindungsaspekt der Kommunikation. Dieser Text enthält auch ein <a href="/documents/zeichen_konsens.pdf" target="__blank">Handout</a> mit für Entscheidungsprozesse hilfreichen Handzeichen.
+In [Entscheidungen und Vereinbarungen](/texte/entscheidungen/) geht es konkreter um den Entscheidungsfindungsaspekt der Kommunikation. Dieser Text enthält auch ein <a href="/documents/zeichen_konsens.pdf" target="_blank">Handout</a> mit für Entscheidungsprozesse hilfreichen Handzeichen.
 
 
 Bei dem nun folgenden ersten Text handelt es sich um eine Einführung in die gewaltfreie Kommunikation. Der zweite ist eine anarchistische Perspektive auf gewaltfreie Kommunikation.
@@ -102,7 +102,7 @@ Aus anarchistischer Sicht besteht bei Teilen der GfK-Aktivitäten die Gefahr, ve
 
 Neben Anregungen aus den oben genannten konkreten Realisierungen anarchistischer Prinzipien ist dies meiner Meinung nach vor allem die Anerkennung des sich im Prozess Befindens, des noch nicht perfekt und schon gar nicht „im Recht“ Seins. Obwohl das „fragend schreiten wir voran“ schon weite Verbreitung gefunden hat, gibt es meiner Beobachtung nach noch genügend Situationen, in denen „man das so nicht sehen kann“, mit „wer so was macht, ist entweder verwirrt oder bürgerliche Linke“ beurteilt wird oder mensch lieber gar nichts sagt, aus Angst sich „falsch“ oder „not pc“ zu verhalten.
 
-Obwohl die Diskurse um das <a href="https://www.grundrisse.net/grundrisse19/jens_petz_kastner.htm" target="__blank">postanarchistische „Fallenlassen der Repressionshypothese“</a> (Herrschaft wird nicht nur durch Repressionsorgane ausgeübt, sie ist vielfach verinnerlicht) und Definitionsmacht im Antisexismuskontext dazu beigetragen haben die dichotome Täter_in/Opfer_in Aufteilung zu hinterfragen, hat sich dies aus meiner Sicht nur in einigen Teilen der anarchistischen Bewegung durchgesetzt. Dies mag an der Angst „nicht im Recht zu sein“, dem Unwillen sich mit den Beweggründen der „Feindbilder“ auseinander zu setzen oder dem Fehlen von „safer spaces“, also Räumen und Menschen in bzw. mit denen respektvolle und empathische Kommunikation üblich ist, liegen. Die Haltung der GfK ermöglicht durch „Beobachten statt Bewerten“, empathisches Zuhören und Kommunikation über Gefühle und Bedürfnisse das Abbauen von Feindbildern, in Kontakt Kommen und Verständigen mit Personen, die eine Grenze verletzt oder ein Bedürfnis missachtet haben, ohne die eigenen Gefühle und Bedürfnisse zu missachten und ohne weiter Feindbilder zu huldigen.
+Obwohl die Diskurse um das <a href="https://www.grundrisse.net/grundrisse19/jens_petz_kastner.htm" target="_blank">postanarchistische „Fallenlassen der Repressionshypothese“</a> (Herrschaft wird nicht nur durch Repressionsorgane ausgeübt, sie ist vielfach verinnerlicht) und Definitionsmacht im Antisexismuskontext dazu beigetragen haben die dichotome Täter_in/Opfer_in Aufteilung zu hinterfragen, hat sich dies aus meiner Sicht nur in einigen Teilen der anarchistischen Bewegung durchgesetzt. Dies mag an der Angst „nicht im Recht zu sein“, dem Unwillen sich mit den Beweggründen der „Feindbilder“ auseinander zu setzen oder dem Fehlen von „safer spaces“, also Räumen und Menschen in bzw. mit denen respektvolle und empathische Kommunikation üblich ist, liegen. Die Haltung der GfK ermöglicht durch „Beobachten statt Bewerten“, empathisches Zuhören und Kommunikation über Gefühle und Bedürfnisse das Abbauen von Feindbildern, in Kontakt Kommen und Verständigen mit Personen, die eine Grenze verletzt oder ein Bedürfnis missachtet haben, ohne die eigenen Gefühle und Bedürfnisse zu missachten und ohne weiter Feindbilder zu huldigen.
 
 GfK-Treffen enden gewöhnlich mit einer “Feiern und Trauern“-Runde in der jede_r Teilnehmer_in sagt, wie es ihm/ihr mit dem Treffen (oder was anderes bewegendes aus dem Leben) gegangen ist. In den anarchistischen Gruppen, die ich kennen gelernt habe, kommen die Reflexion der gemeinsamen Tätigkeit und die damit verbundenen Gefühle zu kurz, was die gemeinsame Weiterentwicklung erheblich erschwert. Statt Trauer („ich bin genervt, weil ich Unterstützung bei ... brauche“) ist Zynismus und Jammern („Da passiert ja doch nichts“), also das Zurückfallen in die eigentlich zu dekonstruierende passive Opferrolle zu beobachten.
 

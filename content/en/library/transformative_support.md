@@ -12,4 +12,4 @@ i.e. no military and no police? How does a group that has given itself free agre
 This text uses the example of conflicts in the field of intimate violence to show what such conflict resolution might look like.
 We won't just need other forms of organization but also other values and thought patterns.
 
-Another good source on community accountability is this <a href="https://coffeewithcomrades.com/episode-146-prefiguring-justice-ft-your-friendly-butch-anarchist/" target="__blank">podcast</a> with the friendly butch anarchist.
+Another good source on community accountability is this <a href="https://coffeewithcomrades.com/episode-146-prefiguring-justice-ft-your-friendly-butch-anarchist/" target="_blank">podcast</a> with the friendly butch anarchist.

@@ -9,7 +9,7 @@ Catchphrases: Anarchist bottom-up organization patterns are ideal for handling d
 
 # How to organize the economy in post-revolutionary societies
 
-*This text was first published in the <a href="https://organisemagazine.org.uk/3d-flip-book/organise-101/" target="__blank">Organise-Magazin</a>, a project of the Anarchist Federation in Britain.*
+*This text was first published in the <a href="https://organisemagazine.org.uk/3d-flip-book/organise-101/" target="_blank">Organise-Magazin</a>, a project of the Anarchist Federation in Britain.*
 
 Here we are, as members and friends of anarchist federations, of prefigurative anarchist structures, thinking about post-revolutionary societies and communities, while living in a reality of climate crisis and rising fascism. Rising temperatures and freezing social connections. Is this really a good time to think about future anarchist societies? Yes. Future anarchist societies are needed as a perspective out of this mess and yes, anarchist societies also work under harsh conditions and scarcity. This text describes some economic aspects. Yes, the economy is not the only thing that needs to change during a revolutionary transformation. However, it is one of those things we should figure out before if we want to avoid supply bottlenecks during and after the revolution.
 

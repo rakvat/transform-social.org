@@ -653,7 +653,7 @@ In this article, cooperation is understood as mutual support or "tit for tat" to
 
 ### Modeling Experiments
 
-In this section, I describe my <a href="https://github.com/rakvat/ant_sim" target="__blank">initial experiments</a>,
+In this section, I describe my <a href="https://github.com/rakvat/ant_sim" target="_blank">initial experiments</a>,
 modeling economies. I started with a copy of the
 ABM Sugarscape, which is often used as a model for wealth distribution. The agents are ants that
 walk around to collect and eat sugar. Some areas have higher concentrations of sugar than others.
@@ -763,4 +763,4 @@ One of the simulations:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_o_bR9Fjt4?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<a href="https://github.com/rakvat/ant_sim" target="__blank">GitHub Repository</a> with the code of the simulations links to the other simulation videos.
+<a href="https://github.com/rakvat/ant_sim" target="_blank">GitHub Repository</a> with the code of the simulations links to the other simulation videos.

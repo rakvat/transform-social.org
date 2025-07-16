@@ -69,4 +69,4 @@ modified needs in times of a pandemic.
 
 ---
 Another good text about this topic:
-<a href="https://theanarchistlibrary.org/library/william-gillis-anarchism-and-pandemics" target="__blank">Anarchism and Pandemics</a> (anarchist library)
+<a href="https://theanarchistlibrary.org/library/william-gillis-anarchism-and-pandemics" target="_blank">Anarchism and Pandemics</a> (anarchist library)

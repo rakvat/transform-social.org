@@ -23,7 +23,7 @@ To avoid asking BIPoC all those painful questions over and over, here are some b
 
 * So you want to talk about race by Ijeoma Oluo.
 * (German) Was weiße Menschen nicht über Rassismus hören wollen aber wissen sollten by Alice Hasters. (Also available as an audio book <a href="https://open.spotify.com/album/79uYNPgxipgVoEpx0uebGU?si=qvJWFcWORTOd8bqGYho70w" target="__black">here</a>.)
-* In our own words. Refugee Women in Germany tell their stories. Published by the International Women* Space. <a href="https://iwspace.de/in-our-own-words/#digital" target="__blank">Digital Version</a>
+* In our own words. Refugee Women in Germany tell their stories. Published by the International Women* Space. <a href="https://iwspace.de/in-our-own-words/#digital" target="_blank">Digital Version</a>
 
 A Talk from Ijeoma Oluo:
 
@@ -101,7 +101,7 @@ Here are some examples from the institution school:
 
 * refugees spend up to 2 years in camps with restricted freedom of movement
 * 44.000 refugees in those camps in 2018 – some in the middle of the woods
-* when refugee women get killed the police is reluctant to take action (<a href="https://www.women-in-exile.net/en/gerechtigkeit-fuer-rita/" target="__blank">Rita's case</a>)
+* when refugee women get killed the police is reluctant to take action (<a href="https://www.women-in-exile.net/en/gerechtigkeit-fuer-rita/" target="_blank">Rita's case</a>)
 * police enter rooms during the night to search for people to deport
 
 ## Systemic Racism
@@ -126,13 +126,13 @@ Intersectionality is a way to build bridges between various communities fighting
 
 ## Psychological Effects
 
-All of the above forms of racism can lead to severe psychological damage and <a href="https://en.wikipedia.org/wiki/Internalized_racism" target="__blank">internalized racism</a>.
+All of the above forms of racism can lead to severe psychological damage and <a href="https://en.wikipedia.org/wiki/Internalized_racism" target="_blank">internalized racism</a>.
 
 * Self-doubts: e.g. am I hired for diversity or skill?
 * Identity crisis: Being yourself or trying to fit in?
 * **Stereotype threat**: the fear of confirming negative stereotypes that can lead to self-fulfilling prophecies, imposter syndrome, and depressions
 * Excessive cognitive load
-* <a href="https://en.wikipedia.org/wiki/Hypervigilance" target="__blank">Hypervigilance</a>
+* <a href="https://en.wikipedia.org/wiki/Hypervigilance" target="_blank">Hypervigilance</a>
 
 
 ## Reflect your own Privileges
@@ -179,5 +179,5 @@ Where can I start?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ap6Wr-BO6sU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ---
-<i>These are notes from a short presentation which can be found <a href="/documents/racism.pdf" target="__blank">here</a></i>
+<i>These are notes from a short presentation which can be found <a href="/documents/racism.pdf" target="_blank">here</a></i>
 
