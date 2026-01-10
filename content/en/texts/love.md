@@ -1,115 +1,49 @@
 Slug: love
-Date: 2021/11/08
-Title: Challenging „The one true Love“
+Date: 2026/1
+Title: What is love?
 Author: Katja
 Type: text
-Tags: Love, Polyamory, Relationship Anarchy, Society
-Summary: Society and media tell us that we should strive to find the "one true love". Why do they want us to do so and what are the consequnces? How we can lead a better life by telling a different story about love.
-Catchphrases:  Why are we told this toxic story about love? | Not every problem someone has with his girlfriend is necessarily due to the capitalist mode of production. | Polyamory or Relationship Anarchy might not be for everyone but the skills you learn are
+Tags: Love, nonviolent communication, responsibility, transformation, feminism
+Summary: A few thoughts on what love is, what that means for our actions, and what love can be in a transformative practice.
+Catchphrases: Societal norms and discrimination also play a role in matters of love.|Love is often associated with strong feelings that can vary from person to person.|that violence and other despicable behavior can never be love, that violence can never be justified with "it was out of love."|Not isolated self-optimization in competition with others, but cooperative, mutually supportive growth.
 
-# Challenging „The one true Love“
+# What is love?
 
-These are notes from a short presentation which can be found <a href="/documents/love.pdf" target="_blank">here</a>
+"Tell me what love is," demands Piggeldy in the German children's series Piggeldy and Frederick, which was first broadcasted in the 1970s. "Nothing easier than that," replies his older brother Frederick, as in every episode, with a slightly paternalistic tone. And then it turns out he is a bit unsure about the answer. According to Frederick, love is cuddling (rubbing ears together) and liking someone even if they aren't perfect. As examples of imperfection, Frederick mentions having a big belly, a limp, or a hole in your ear. On the one hand, this is a well-intentioned message of tolerance; on the other hand, it reproduces the idea of societal norms and beauty ideals, the idea that everyone has somehow internalized that big bellies and limping legs would not conform to the ideal.
 
-## The story we are told
+Yes, societal norms and discrimination also play a role in matters of love. A <a href="https://www.hiig.de/its-a-match-oder-rassismus" target="_blank">OkCupid study from 2014</a> (German source) shows that people perceived as white have the best chances of finding a match. This means that if we follow our preferences without reflection, we usually choose according to societal beauty standards or select a body that doesn't conform to the norm only because we fetishize it. Discrimination also exists in dating and romantic relationships: racism, sexism, ableism, classism, fatmisia, heteronormativity, cisnormativity, and discrimination based on religion, age, or appearance. We are socialized with these behaviors and reproduce them in all areas of society, including love. The consequence of this is that access to love is more difficult for people who are more affected by discrimination, that love is a less accessible resource for them. The consequence is also that only through self-reflection can we prevent reproducing mechanisms of oppression based on discrimination in our relationships.
 
-Movies, pop music, advertisements, religion, tradition, and other societal influences currently tell us a very specific story about sexual desires and love:
+But let's take a step back. What exactly is love? The term is very vague and loaded.
+Films, TV series, music, and advertising all try to convey ideas about it: ideas of romance, of salvation from our own problems, of female passivity and male activity, of possessiveness and the jealousy and hatred that come with it, of products we have to buy to become lovable. I don't share these ideas.
 
-* Too much sex is considered „promiscuous“/“decadent“ (at least for women: Slut vs Stud)
-* You are not „whole“: You have to find „the other half“
-* Being „destined“ for each other/“love at first sight“
-* „Romantic Love“ is something you should strive for
-* A lifetime monogamous relationship is one of the most important goals of life
+The object of love, the thing we want to shower with love, can be partners in romantic relationships, but also close friends, family, children we care for, animals that live with us, life itself, nature, delicious food, art that moves us, activities that bring us joy, projects that are very important to us, and ourselves. But there are not only many objects of love, there are also many ways to love, or modalities of love: possessive (I'm not a fan of that), caring, desirous, liberating, appreciative, contemplative, sharing in someone's joy (compersion). Not all ways of loving are suitable for all objects of love.
 
-### This can lead to
+Love is often associated with strong feelings that can vary from person to person: for example, warmth, butterflies in your stomach, feeling seen, accepted, and valued, wanting to care for the other person, wanting to see that they are okay. And then there are also feelings such as fear of loss, jealousy, anger, and rage when needs for security are not met or when conflicts arise. Are these feelings love?
 
-This story can have quite devastating effects on the mental health of many people:
+If love is conceived solely as a feeling, then this offers no insight into what loving action entails. In Nonviolent Communication (NVC), love is not a feeling, but a need. And this need could perhaps be broken down even more precisely into more specific needs: needs for security, warmth, connection, recognition, honest communication, and so on. Which needs are associated with love, can vary from person to person. Specific requests can be formulated in response to these specific needs. The beauty of this definition of love lies in its embrace of diversity. It contains no judgment based on societal norms about the "right" way to love and empowers those involved to articulate precisely what they desire in a relationship. It's important to note that a relationship doesn't have to fulfill all of a person's needs.
 
-* People are judged if they don't find "the one". Self-doubts.
-* Pressure to find „the one“ and to fulfill all their needs (be someone you are not)
-* Fear of losing partners, try to „own“ partners, other people become a threat
-* Cheating
-* Leaving partners for „better partners“
+Care, Commitment, Trust, Respect, Knowledge, Responsibility, and Honesty
 
+Also for bell hooks, love is not a feeling, but an emotional state that is only realized through responsible action and aims at growth of oneself and another person. She identifies seven components for this way of acting: care, affection, recognition, respect, commitment, trust, and open/honest communication (these components of action align well with needs in Nonviolent Communication that would be fulfilled through this approach). In my opinion, this is a good and comprehensive definition, and I will examine its components—responsible action and growth as a goal—in a little more detail.
 
-### Why are we told this toxic story about love?
+If the core of love is action, not feeling, then love no longer seems so fateful; then one is not at the mercy of love; then one can make active and conscious decisions. And most importantly: if love is responsible action and not solely conceived as a feeling, then it is quite clear that violence and other despicable behavior can never be love, that violence can never be justified with "it was out of love." At the same time, an emotional connection is necessary so that active action doesn't feel like fulfilling a duty. All the emotions and feelings that arise around loving action are valid and can be acknowledged. However, they are not the core of the definition of love.
 
-Sexual desire is hyped and commercialized. At the same time, love and sex are mostly treated as scarce goods while people are mostly isolated.
+Bell hooks writes that spiritual growth is the goal of love, citing M. Scott Peck. For me, the term "spiritual growth" sets off esoteric alarm bells (see this German text [Vergiss nicht Solidarität und Skeptizismus](/texte/eso/)). For example, in "The Different Drum," Peck writes rather paternalistically and normatively about what he considers a "true community," what kind of community is the most authentic and healthiest. This "this-is-the-truth" arrogance, which I often perceive in connection with spiritual ideas, makes me distance myself from it and instead focus on emancipatory and diversity-based approaches. Even if bell hooks probably understands "spiritual growth" to mean only open self-development, and not a predefined path to enlightenment, I remain cautious.
 
-The „traditional“ family only became traditional in the middle of the 19th century.
+Therefore, I would speak generally of growth, which can mean different things for each person and at different times: simply coping with life, a physical goal, psychological growth, learning something new or acquiring new skills, loving oneself more. In contrast to the neoliberal idea of constant self-improvement and increased individual performance for capitalist purposes, growth in the definition of love is about jointly supporting the self-determined growth of oneself and one's partner in the loving relationship. So not isolated self-optimization in competition with others, but cooperative, mutually supportive growth.
 
-The traditional family with the woman doing reproduction work stabilizes capitalism.
+One point I find too dogmatic about bell hooks is the idea that a lack of self-love limits one's ability to love others. This view can lead people who are still working on improving their self-love to potentially not allow themselves to find loving partners, as they might not yet be able to give enough love themselves. I believe that improving self-love can be part of the growth process in loving relationships. Every person can be loved, regardless of where they are in their own personal development.
 
+If love is not a feeling, but rather a need to be defined and a responsible action based on emotional connection, then what does "I love you" mean? Uncertain. Does it mean that a person has warm feelings for another person at that moment? That they are happy that their need for love has been met? That they gladly fulfill another person's specific request, which contributes to fulfilling that person's need for love? That they appreciate the other person's conscious, caring actions? That they themselves are happy to offer conscious care to the other person? That they feel compersion, the joy that a person with whom they have an emotional connection is experiencing love (or something else good)? Uncertain.
 
-<br/>
-<i>This is a frame from the movie „They live“ in which it becomes apparent to the main character that the message behind the ad is to marry and reproduce as
-the rulers know that this will keep people from rebelling against the system and produces the next generation of obedient workers.</i>
+In this context, this <a href="https://www.youtube.com/watch?v=T0cdFOflTeA" target="_blank">video</a> is quite funny. Marshall B. Rosenberg, using the hand puppets giraffe (representing empathic communication based on NVC values) and jackal (representing accusatory communication), has the jackal ask if the giraffe loves him. The giraffe responds with so many questions that it almost comes across as aggressive and accusatory. This highlights the double-edged nature of NVC, which can also be used for oppressive purposes.
 
-<img src="/images/love_marryandreproduce.jpg" alt="Scene from Movie „They live“">
+Returning to the idea that love is active, conscious, and responsible action: Love thus enables us to combat discriminatory and oppressive patterns in society. To do this, it is important to reflect on our own privileges and question the behavioral patterns learned through socialization.
 
-### But...
+Which behaviors in loving relationships reproduce mechanisms of oppression? Are such behaviors justified with "that's just how I am," even though the person could very well act differently? Is a partner in a loving relationship pressured to accept awful behavior? Open and honest communication is one of the essential behaviors for realizing love. But how does this take place in loving relationships? Do people feel capable of expressing criticism? Is the behavior criticized, or is the other person's identity disrespectfully attacked under the guise of criticism? Can the other person deal constructively with respectfully formulated criticism of their behavior?
 
-The current story about love might stabilize capitalism but...
+Through reflection and conscious action, even the norms and preferences arising from one's own socialization can be questioned. This allows norms to be shifted and dissolved. In this way, love can be a transformative practice—not as a cold, political duty, but based on genuine feelings.
 
-<img src="/images/love_capitalism.jpg" alt="Not every problem someone has with his girlfriend is necessarily due to the capitalist mode of production.">
+----
 
-
-## Tell Different Stories
-
-Once you realize the story we are commonly told about sex, love, and relationships is toxic, it's time to
-think about other stories that could be told.
-
-This is an interesting thought experiment about what love is from the musical "Hedwig and the Angry Inch" (based on Plato):
-
-<iframe src="https://player.vimeo.com/video/216912061?h=ff488844d1" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-### Polyamory
-
-There are concepts like Polyamory and Relationship Anarchy that are well thought through and used in practice.
-They can guide you through the endless possibilities of non-toxic and ethical relationships.
-
-What the umbrella terms Polyamory and Relationship Anarchy have in common:
-
-* consensual, ethical, and responsible non-monogamy
-* Various Forms: Open Relationships, Circles, Networks, ...
-* Love is not a limited resource (only time is)
-* The more love you give the more love you have
-
-
-### How does it work? - just like every good relationship should
-
-* Question the norms of what a relationship has to be like and find what works for you
-* Honest and open communication (needs, fears, feelings, limits)
-* Take responsibility for your needs/feelings (no blaming)
-* Empathy and respect for your partners‘ needs and feelings
-* Faithfulness (no cheating) with regards to mutual agreements
-
-### Advantages
-
-* Find what works best for you instead of excepting the norm set by society.
-* Reduces pressure to have to find "the one". Each relationship has its own value.
-* Reduces pressure to fulfill all needs of the other. You can be with someone even if you don‘t fulfill all her needs.
-* The "main" relationship (if there is such a relationship) can be inspired by additional relationships.
-* Adapts to new needs if partners develop in divergent directions.
-
-Polyamory might not be for everyone but the skills you learn are:
-
-* Communication
-* Question what a relationship is about
-* Consensual sex and safer sex
-* Be „whole“ without needing „the one“
-* Compersion and how to handle jealousy
-
-## More Resources
-
-A newer [text](/en/texts/relationships/) about love and relationships.
-
-The Ethical Slut is a great introductory book which is reclaiming „slut“ as a sex-positive term:
-
-<img src="/images/love_ethical_slut.jpg" alt="The Ethical Slut book cover">
-
-There is also a web series inspired by the book: <a href="https://www.youtube.com/channel/UCHL0tVF5VPueX1Oc6KXtpzA/playlists" target="_blank">The Ethical Slut Web-Series</a>
-
-<a href="http://www.relationship-anarchy.com/" target="_blank">Relationship Anarchy</a>
-
-<a href="/documents/withOpenHands.pdf" target="_blank">Zine With Open Hands</a>
+More on nonviolent communication and the criticism of it in this German [text](/texte/kommunikation/).

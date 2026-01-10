@@ -1,11 +1,11 @@
 import shutil
-
-from datetime import datetime
+from collections import defaultdict
 from dataclasses import dataclass
+from datetime import datetime
+from pathlib import Path
+
 from jinja2 import Environment, FileSystemLoader
 from markdown import Markdown
-from pathlib import Path
-from collections import defaultdict
 
 
 @dataclass(slots=True)
@@ -152,6 +152,8 @@ ALTERNATE_TEXTS = {
         "de": "texte/oft_gestellte_fragen_zur_wirtschaft/",
         "en": "texts/economics_faq/",
     },
+    "love": {"de": "texte/liebe/", "en": "texts/love/"},
+    "liebe": {"de": "texte/liebe/", "en": "texts/love/"},
 }
 
 
