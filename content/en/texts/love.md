@@ -3,7 +3,7 @@ Date: 2026/1
 Title: What is love?
 Author: Katja
 Type: text
-Tags: Love, nonviolent communication, responsibility, transformation, feminism
+Tags: Love, Nonviolent Communication, Responsibility, Transformation, Feminism
 Summary: A few thoughts on what love is, what that means for our actions, and what love can be in a transformative practice.
 Catchphrases: Societal norms and discrimination also play a role in matters of love.|Love is often associated with strong feelings that can vary from person to person.|that violence and other despicable behavior can never be love, that violence can never be justified with "it was out of love."|Not isolated self-optimization in competition with others, but cooperative, mutually supportive growth.
 
