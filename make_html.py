@@ -154,7 +154,7 @@ ALTERNATE_TEXTS = {
     },
     "love": {"de": "texte/liebe/", "en": "texts/love/"},
     "liebe": {"de": "texte/liebe/", "en": "texts/love/"},
-    "cci": {"de": "cci/", "en": "cci/"},
+    "cci": {"de": "texte/cci/", "en": "texts/cci/"},
 }
 
 
