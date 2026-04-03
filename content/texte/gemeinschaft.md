@@ -7,8 +7,8 @@ Tags: Gemeinschaft, Verantwortung, Konflikte
 Summary: Ein paar Gedanken zum Thema Gemeinschaft, Verantwortung, den Umgang mit Bedürfnissen und Konflikten.
 Catchphrases: Gemeinschaft zeichnet sich nicht nur durch einen sozialen Zusammenhalt aus, sondern auch durch gemeinsame Ressourcen.|Stecken wir fest, in Mustern des unreflektierten Konsumierens, des Konkurrenzkampfes?|Kannst du als Anarchist\*in mit Kritik umgehen, auch wenn es um dein herrschaftsförmiges Verhalten geht?|Vielfältige Gemeinschaften formen sich um gemeinsame Interessen oder Bedürfnisse, Gemeinschaften entstehen und lösen sich auf, Gemeinschaften trennen sich und koexistieren.
 
-<i>Dieser Text wurde in dem Zine „Der Apfel und der Stamm“ zum Thema Gemeinschaft erstveröffentlicht. Das Zine wurde mit viel Liebe von der Anarchistischen Gruppe Dortmund organisiert, zusammengestellt, gelayoutet und gedruckt. Danke!
-Als Druck-Ausgabe ist es bei <a href="https://black-mosquito.org/" target="_blank">Black Mosquito</a> erhältlich und online findet ihr es <a href="TODO" target="_blank">hier</a>.</i>
+<i>Dieser Text wurde in dem Zine „Der Apfel und der Stamm“ zum Thema Gemeinschaft erstveröffentlicht. Das Zine wurde mit viel Liebe von der <a href="https://agdo.noblogs.org/2026/04/03/anarchistische-perspektiven-auf-gemeinschaft/" target="_blank">Anarchistischen Gruppe Dortmund</a> organisiert, zusammengestellt, gelayoutet und gedruckt. Lieben Dank dafür!
+Als Druck-Ausgabe ist es bei <a href="https://black-mosquito.org/de/der-apfel-der-stamm.html" target="_blank">Black Mosquito</a> erhältlich und online als PDF findet ihr es <a href="https://archive.org/details/DerApfelUndDerStamm/FINAL/" target="_blank">hier</a>.</i>
 
 <i>Aus der Perspektive einer weißen queeren cis-weiblichen Person in einem Berliner Hausprojekt.</i>
 
