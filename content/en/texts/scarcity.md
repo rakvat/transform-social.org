@@ -3,7 +3,7 @@ Date: 2023/11/10
 Title: Anarchist Economics in times of Scarcity
 Author: Katja
 Type: text
-Tags: economy, anarchy, scarcity, draft
+Tags: Economy, Anarchy, Scarcity
 Summary: A brief fictional story to make it easier to imagine anarchist economics in times of scarcity.
 Catchphrases: The anarchist utopia is not dependent on everything being available in abundance.|No one had paid any attention to the water meters for a long time - after all, water, like everything else, was freely accessible and metering was therefore irrelevant.|Bo didn't have to worry about anything else.
 

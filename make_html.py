@@ -70,7 +70,7 @@ class MetaData:
             language=language_field[0]
             if (language_field := data.get("language"))
             else None,
-            tags=list(map(str.title, map(str.strip, tags_field[0].split(","))))
+            tags=list(map(str.strip, tags_field[0].split(",")))
             if (tags_field := data.get("tags"))
             else None,
             summary=summary_field[0]
@@ -154,6 +154,7 @@ ALTERNATE_TEXTS = {
     },
     "love": {"de": "texte/liebe/", "en": "texts/love/"},
     "liebe": {"de": "texte/liebe/", "en": "texts/love/"},
+    "cci": {"de": "texte/cci/", "en": "texts/cci/"},
 }
 
 

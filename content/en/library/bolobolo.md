@@ -4,7 +4,7 @@ Title: Bolo'bolo
 Author: p.m.
 Url: https://theanarchistlibrary.org/library/p-m-bolo-bolo
 Type: library
-Tags: utopia, organization, science fiction
+Tags: Utopia, Organization, Science Fiction
 Catchphrases: bolo’bolo is also a modest proposal for the new arrangements on the spaceship after the Machine’s disappearance.|The Work Machine has a planetary character, so a successful bolo’bolo strategy must also be planetary from the outset.|Since people aren’t working for a marketplace, and only secondarily for exchange, there is no longer any distinction between crafts/arts, vocation/job, working time/free time, inclination/economic necessity (with the exception of some basic maintenance work).
 
 

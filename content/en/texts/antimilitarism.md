@@ -3,7 +3,7 @@ Date: 2022/03
 Title: Antimilitarism
 Author: Katja
 Type: text
-Tags: Antimilitarism, nonviolence, pacifism, War Resisters International
+Tags: Antimilitarism, Nonviolence, Pacifism, War Resisters International
 Summary: A short overview of antimilitarist movements and reasons to reject wars.
 Catchphrases: Strive for the removal of all causes of war. | Some pacifists support the idea of "peaceful military missions", others (like the anarcho-pacifists) do not.
 

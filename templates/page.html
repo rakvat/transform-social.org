@@ -9,7 +9,7 @@
 
   {% if meta.slug == 'texte' %}
     {% for article in articles|sort(attribute="meta.year_month", reverse=True) if article.meta.type == 'text' %}
-      {% with article_url="/texte/" + article.meta.slug + "/", l10n={"keywords": "Schlagwörter", "quotes": "Zitate", "full_text": "Vollständiger Text"} %}
+      {% with article_url="/texte/" + article.meta.slug + "/", l10n={"keywords": "Themen", "quotes": "Zitate", "full_text": "Vollständiger Text"} %}
         {% include 'article_short.html' %}
       {% endwith %}
     {% endfor %}
@@ -18,7 +18,7 @@
 
   {% if meta.slug == 'bibliothek' %}
     {% for article in articles|sort(attribute="meta.date", reverse=True) if article.meta.type == 'bibliothek' %}
-      {% with l10n={"keywords": "Schlagwörter", "quotes": "Zitate"} %}
+      {% with l10n={"keywords": "Themen", "quotes": "Zitate"} %}
         {% include 'bib_entry.html' %}
       {% endwith %}
     {% endfor %}
