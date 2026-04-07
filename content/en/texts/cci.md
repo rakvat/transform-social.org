@@ -7,7 +7,7 @@ Tags: Co-Counseling, CCI, Transformation, Psychology, Mental Health, Relationshi
 Summary: What is Co-Counseling International, and how can it help transform one’s own dysfunctional behavioral patterns, relationships, and societies? An article about the ideas, history, approach, and tools of co-counseling.
 Catchphrases: Co-counseling is another option alongside therapy, especially when therapy is not available due to long wait times or financial constraints, or when it is rejected because of the inherent power dynamics between therapist and client.|This also enhances one’s ability to form relationships of any kind, which is an important resource—especially in times of crisis—and one of the best ways to prepare for difficult times.|I’m surprised that CCI is so little known in anarchist circles, given that it aligns with anarchist activities on at least three levels.
 
-<i>The German version of this article was first published in the anarchist newspaper <a href="https://www.graswurzel.net/gwr/category/ausgaben/508-april-2026/" target="_blank">Graswurzelrevolution</a> in April 2026.</i>
+<i>The German version of this article was first published in the anarchist newspaper <a href="https://www.graswurzel.net/gwr/category/ausgaben/508-april-2026/" target="_blank">Graswurzelrevolution No. 508</a>, April 2026.</i>
 
 [deutsche Fassung](/texte/cci/)
 

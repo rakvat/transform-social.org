@@ -7,7 +7,7 @@ Tags: Co-Counseln, CCI, Transformation, Psychologie, Mentale Gesundheit, Beziehu
 Summary: Was ist Co-Counselling International und wie kann es zur Transformation der eignen dysfunktionalen Verhaltungsmuster, von Beziehungen und Gesellschaften beitragen? Ein Text über die Ideen, die Geschichte, die Haltung und Werkzeuge des Co-Counselns.
 Catchphrases: Co-Counselling ist eine weitere Möglichkeit, neben Therapien, insbesondere wenn Therapien wegen langen Wartezeiten oder finanziell nicht zugänglich sind oder wegen der inhärenten Machtdynamik zwischen Therapeut*in und Klient*in abgelehnt werden.|Dadurch wird auch die Fähigkeit zu Beziehungen jeglicher Art verbessert, was gerade in Krisenzeiten eine wichtige Ressource ist und eine der besten Vorbereitungen auf schwierige Zeiten ist.|Mich wundert, dass CCI in anarchistischen Kreisen so wenig bekannt ist, wo es doch auf mindestens drei Ebenen zu anarchistischen Aktivitäten passt.
 
-<i>Erstveröffentlicht in der anarchistischen Zeitung <a href="https://www.graswurzel.net/gwr/category/ausgaben/508-april-2026/" target="_blank">Graswurzelrevolution 508</a>, im April 2026</i>
+<i>Erstveröffentlicht in der anarchistischen Zeitung <a href="https://www.graswurzel.net/gwr/category/ausgaben/508-april-2026/" target="_blank">Graswurzelrevolution Nr. 508</a>, April 2026</i>
 
 [English version](/en/texts/cci/)
 
