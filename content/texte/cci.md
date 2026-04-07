@@ -1,5 +1,5 @@
 Slug: cci
-Date: 2026/04
+Date: 2026/04/07
 Title: Transformation durch Gegenseitige Unterstützung
 Author: Katja
 Type: text

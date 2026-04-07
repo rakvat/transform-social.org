@@ -4,7 +4,7 @@
   {{ content }}
 
   {% if meta.slug == 'texts' %}
-    {% for article in articles|sort(attribute="meta.year_month", reverse=True) if article.meta.type == 'text' %}
+    {% for article in articles|sort(attribute="meta.year_month_day", reverse=True) if article.meta.type == 'text' %}
       {% with article_url="/en/texts/" + article.meta.slug + "/", l10n={"keywords": "Topics", "quotes": "Quotes", "full_text": "Full Text"} %}
         {% include 'article_short.html' %}
       {% endwith %}

@@ -1,5 +1,5 @@
 Slug: gemeinschaft
-Date: 2026/04
+Date: 2026/04/05
 Title: Fragmente von Gemeinschaft
 Author: Katja
 Type: text

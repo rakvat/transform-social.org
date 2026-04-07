@@ -42,6 +42,20 @@ class MetaData:
                 return datetime.strftime(datetime.strptime(self.date, "%Y"), "%Y")
 
     @property
+    def year_month_day(self):
+        if not self.date:
+            return ""
+        try:
+            return datetime.strftime(
+                datetime.strptime(self.date, "%Y/%m/%d"), "%Y/%m/%d"
+            )
+        except ValueError:
+            try:
+                return datetime.strftime(datetime.strptime(self.date, "%Y/%m"), "%Y/%m")
+            except ValueError:
+                return datetime.strftime(datetime.strptime(self.date, "%Y"), "%Y")
+
+    @property
     def pub_date(self):
         if not self.date:
             return ""

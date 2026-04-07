@@ -8,7 +8,7 @@
   {{ content }}
 
   {% if meta.slug == 'texte' %}
-    {% for article in articles|sort(attribute="meta.year_month", reverse=True) if article.meta.type == 'text' %}
+    {% for article in articles|sort(attribute="meta.year_month_day", reverse=True) if article.meta.type == 'text' %}
       {% with article_url="/texte/" + article.meta.slug + "/", l10n={"keywords": "Themen", "quotes": "Zitate", "full_text": "Vollständiger Text"} %}
         {% include 'article_short.html' %}
       {% endwith %}
