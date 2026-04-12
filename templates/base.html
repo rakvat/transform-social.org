@@ -86,18 +86,13 @@
       document.body.classList.add('dark');
     }
 
-    function initModeToggle() {
-      const button = document.getElementById('theme-toggle');
-      console.log("init mode toggle", button)
-      button.addEventListener('click', () => {
-        document.body.classList.toggle('dark');
-        document.body.classList.toggle('light');
+    function toggleMode() {
+      document.body.classList.toggle('dark');
+      document.body.classList.toggle('light');
 
-        const theme = document.body.classList.contains('dark') ? 'dark' : 'light';
-        localStorage.setItem('theme', theme);
-      });
+      const theme = document.body.classList.contains('dark') ? 'dark' : 'light';
+      localStorage.setItem('theme', theme);
     }
-    initModeToggle();
 
     // Used to toggle the menu on small screens when clicking on the menu button
     function toggleNav() {
@@ -107,7 +102,6 @@
       } else {
         x.className = x.className.replace(" w3-show", "");
       }
-      initModeToggle();
     }
     </script>
   </body>
