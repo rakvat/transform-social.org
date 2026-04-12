@@ -6,9 +6,11 @@
   Texts
 </a>
 <a href="/en/links/" class="{% if meta.slug=='links' %}{{active}}{% else %}{{passive}}{% endif %}" >Links</a>
-<a class="w3-bar-item w3-button w3-hide-small w3-right social-icon-container" rel="me" href="https://climatejustice.social/@transform" target="_blank">
-  {% include 'mastodon_snippet.html' %}
-</a>
-<a class="w3-bar-item w3-button w3-hide-small w3-right light-dark-mode" id="theme-toggle" aria-label="toggle light/dark mode" aria-role="button" onclick="toggleMode()">
-  <span class="dark-img">☀️</span><span class="light-img">🌑</span>
-</a>
+<div class="w3-right">
+  <button class="w3-bar-item w3-button w3-hide-small light-dark-mode" id="theme-toggle" aria-label="toggle light/dark mode" onclick="toggleMode()">
+    <span class="dark-img">☀️</span><span class="light-img">🌑</span>
+  </button>
+  <a class="w3-bar-item w3-button w3-hide-small social-icon-container" rel="me" href="https://climatejustice.social/@transform" target="_blank">
+    {% include 'mastodon_snippet.html' %}
+  </a>
+</div>

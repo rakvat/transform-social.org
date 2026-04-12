@@ -34,6 +34,9 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: underline;
   }
 }
+.w3-button:focus-visible {
+  background-color: #333;
+}
 nav.w3-bar {
   border-bottom: 1px solid #282828;
 }
@@ -140,6 +143,9 @@ body.light {
     }
   }
 
+  .w3-button:focus-visible {
+    background-color: #ddd;
+  }
   nav {
     background-color: white !important;
   }
