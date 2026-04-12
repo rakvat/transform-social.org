@@ -3,17 +3,8 @@ body {
   background-color: black;
   font-size:20px;
 }
-body.light {
-  color: #222;
-  background-color: #eee;
-}
 h1, h2, h3, h4, h5, h6 {
   color: white;
-}
-body.light {
-  h1, h2, h3, h4, h5, h6 {
-    color: black;
-  }
 }
 h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:24px}h6{font-size:22px}
 
@@ -25,16 +16,6 @@ a:hover,
 a:visited {
   color: #c06bbc;
 }
-body.light {
-  a {
-    color: #1a391c;
-  }
-  a:hover,
-  a:visited {
-    color: #122513;
-  }
-}
-
 a.anchor:before {
   display: block;
   content: " ";
@@ -54,49 +35,19 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: underline;
   }
 }
-body.light {
-  h1, h2, h3, h4, h5, h6 {
-    a {
-      color: #555;
-    }
-    a:hover,
-    a:visited {
-      color: #555;
-    }
-  }
-}
-
-body.light nav {
-  background-color: #eee !important;
-}
 nav.w3-bar {
   border-bottom: 1px solid #282828;
 }
 nav a, nav a:visited {
   color: #aaa !important;
 }
-body.light {
-  nav a, nav a:visited {
-    color: #555 !important;
-  }
-}
 nav .w3-bar-item:hover {
   color: white !important;
   background-color: unset !important;
 }
-body.light {
-  .w3-bar-item:hover {
-    color: black !important;
-  }
-}
 nav a.brand {
   color: white !important;
   font-size: 22px;
-}
-body.light {
-  nav a.brand {
-    color: black !important;
-  }
 }
 nav .brand-text {
   @media only screen and (max-width: 290px) {
@@ -108,11 +59,6 @@ nav .w3-bar-item.nav-item {
 }
 nav .w3-bar-item.active {
   color: white !important;
-}
-body.light {
-  nav .w3-bar-item.active {
-    color: black !important;
-  }
 }
 
 .lang-link {
@@ -141,6 +87,17 @@ body.light {
 .social-icon:hover {
   fill: #c06bbc;
 }
+.light-dark-mode {
+  padding-top: 12px !important;
+  padding-right: 0px !important;
+}
+.light-img {
+  display: none;
+}
+.dark-img {
+  display: inline;
+}
+
 
 hr {
   border-top: 1px solid #282828 !important;
@@ -158,3 +115,53 @@ hr {
     padding: 0;
   }
 }
+
+body.light {
+  color: #222;
+  background-color: white;
+
+  h1, h2, h3, h4, h5, h6 {
+    color: black;
+  }
+
+  a {
+    color: #1a391c;
+  }
+  a:hover,
+  a:visited {
+    color: #122513;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    a {
+      color: #555;
+    }
+    a:hover,
+    a:visited {
+      color: #555;
+    }
+  }
+
+  nav {
+    background-color: white !important;
+  }
+  nav a, nav a:visited {
+    color: #555 !important;
+  }
+  .w3-bar-item:hover {
+    color: black !important;
+  }
+  nav a.brand {
+    color: black !important;
+  }
+  nav .w3-bar-item.active {
+    color: black !important;
+  }
+  .dark-img {
+    display: none;
+  }
+  .light-img {
+    display: inline;
+  }
+}
+

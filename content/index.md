@@ -3,7 +3,10 @@ Slug: index
 
 <p class="lang-link"><a href="/en/">English</a></p>
 
-<center><img src="/images/logo_de.png" alt="Logo. Dreidimensionale unregelmäßige Spirale in Lila und Grün, die sich nach links dreht. Text: Transformation von Gesellschaften." class="logo"></center>
+<center>
+  <img src="/images/logo_de.png" alt="Logo. Dreidimensionale unregelmäßige Spirale in Lila und Grün, die sich nach links dreht. Text: Transformation von Gesellschaften." class="logo dark-img">
+  <img src="/images/logo_de_light.png" alt="Logo. Dreidimensionale unregelmäßige Spirale in Lila und Grün, die sich nach links dreht. Text: Transformation von Gesellschaften." class="logo light-img">
+</center>
 
 # Transformation?
 
@@ -11,7 +14,7 @@ Slug: index
 
 [Diese kurze Geschichte](/texte/knappheit/) ist ein guter Einstieg, um die Fantasie anzuregen und Lust auf Transformation in andere Gesellschaften zu bekommen.
 
-## <img src="/images/icon.png" alt="transform-social icon"/> Kritik
+## <img src="/images/icon.png" class="dark-img" alt="transform-social icon"/><img src="/images/icon_light.png" class="light-img" alt="transform-social icon"/> Kritik
 
 Warum brauchen wir überhaupt eine Transformation? Was sind Probleme von bestehenden Gesellschafts- und
 Wirtschaftssystemen? Die Kritik des Bestehenden ist eine gute Grundlage zur Problemanalyse und Motivation.
@@ -24,7 +27,7 @@ Der Text [Vergiss nicht Solidarität und Skeptizismus](/texte/eso/) warnt vor el
 esoterischen Strömungen.
 
 
-## <img src="/images/icon.png" alt="transform-social icon"/> Utopien
+## <img src="/images/icon.png" class="dark-img" alt="transform-social icon"/><img src="/images/icon_light.png" class="light-img" alt="transform-social icon"/> Utopien
 
 Wohin könnte Transformation sich entwickeln? Wie würden Gesellschaften aussehen, die freier und
 solidarischer als die jetzigen sind? Utopien sind hier definiert als realisierbare und sich
@@ -46,7 +49,7 @@ Eine Definition von herrschaftsarmer Gesellschaft, oder [Anarchie](/texte/anarch
 
 [Wirtschaft geht besser ohne Kapitalismus](/texte/wirtschaft/) beschreibt wie Produktion und Distribution ohne Kapitalismus und ohne Geld und Markt funktionieren kann.
 
-## <img src="/images/icon.png" alt="transform-social icon"/> Schritte zur Transformation
+## <img src="/images/icon.png" class="dark-img" alt="transform-social icon"/><img src="/images/icon_light.png" class="light-img" alt="transform-social icon"/> Schritte zur Transformation
 
 Wie kann die Transformation in Richtung der Utopien funktionieren?
 

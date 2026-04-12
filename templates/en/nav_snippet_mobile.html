@@ -5,7 +5,9 @@
   Texts
 </a>
 <a href="/en/links/" class="{% if meta.slug=='links' %}{{mactive}}{% else %}{{mpassive}}{% endif %}">Links</a>
-{% include 'mode_switch.html' %}
+<a class="w3-bar-item w3-button w3-padding-large" id="theme-toggle" aria-label="toggle light/dark mode" aria-role="button">
+  <span class="dark-img">☀️</span><span class="light-img">🌑</span>
+</a>
 <a class="w3-bar-item w3-button w3-padding-large" rel="me" href="https://climatejustice.social/@transform" target="_blank">
   {% include 'mastodon_snippet.html' %}
 </a>
