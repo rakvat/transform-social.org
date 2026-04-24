@@ -66,3 +66,21 @@ But enough of the critical thoughts. I’ve gained a very positive impression of
 
 For German speakers, CCI courses are currently being offered at <a href="https://coco-dach.net" target="_blank">coco-dach.net</a>—by people I had the chance to meet during the course.
 For English speakers, <a href="https://co-counselling.info/en/page/core-training" target="_blank">co-counselling.info</a> is a good entry point.
+
+
+## Addition after publishing the article in Graswurzelrevolution
+
+As CCI broke off from RC and RC broke off from <a href="https://en.wikipedia.org/wiki/Dianetics" target="_blank">Dianetics</a> (pseudoscientific ideas and practices, precursor to Scientology), some people warned that CCI might still use dangerous Dianetics practices. Yes, CCI broke off from RC and RC broke off from Dianetics, but it's not like inheritance. CCI broke off from RC because people disagreed with the practices and organization and wanted to distance themselves. I created a list of differences between CCI and Dianetics based on my current understanding:
+
+- CCI is a decentralized organization, while Dianetics is super centralized and authoritarian.
+- In CCI, the client always keeps control (we learned to reject suggestions from the counselor and to balance our attention so that we don't get lost), while in Dianetics, the auditor takes control over the client.
+- CCI does not claim to heal sicknesses.
+- CCI does not claim to be the only/best method for change.
+- Dianetics claims that everything is caused by past experiences and you should focus on those. In CCI, your past experiences are not the only cause. We also learned about power structures in society, and clients are free to work on whatever they want.
+- CCI does not use a measuring device.
+- CCI does not keep recordings of the sessions (the counselor is not even allowed to talk about the content again).
+- CCI has no anti-queer hostility.
+- CCI sessions are cost-free.
+
+But still, I 100% agree that scepticism is a good approach when learning about new personal growth and psychological well-being methods.
+
